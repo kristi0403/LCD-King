@@ -15,3 +15,34 @@ body {
     height: 150px;
 }
 
+/*--------------------------------footer */
+
+.footer {
+    background: #152F4F;
+    color: white;
+}
+
+.copyright p {
+    border-top: 1px solid rgba(255, 255, 255, .1);
+}
+
+/* from Bulma */
+
+.icon {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.get-in-touch{
+    border: 1px solid white;
+    color: white;
+    border-radius: 20px;
+}
+
+.socila-media{
+    color: white;
+    margin: 10px;
+}
