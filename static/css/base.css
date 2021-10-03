@@ -42,7 +42,40 @@ body {
     border-radius: 20px;
 }
 
-.socila-media{
+.socila-media {
     color: white;
     margin: 10px;
+}
+
+.categories {
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+.page-logo {
+    background-size: cover;
+    height: 100px;
+}
+
+.logo-font {
+    text-transform: uppercase;
+    color: white;
+}
+
+.platform-logo {
+    background-size: cover;
+    height: 30px;
+}
+
+.slider {
+    padding-top: 100px;
+    max-height: 650px;
+}
+
+.navbar-collapse {
+    background-color: #152F4F;
+    height: 60px;
 }
