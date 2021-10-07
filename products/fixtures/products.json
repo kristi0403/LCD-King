@@ -1,0 +1,2043 @@
+[{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001340155",
+        "name": "Ghost Of Tsushima",
+        "description": "In the late 13th century, the Mongol empire has laid waste to entire nations along their campaign to conquer the East. Tsushima Island is all that stands between mainland Japan and a massive Mongol invasion fleet led by the ruthless and cunning general, Khotun Khan.As the island burns in the wake of the first wave of the Mongol assault, samurai warrior Jin Sakai stands as one of the last surviving members of his clan. He is resolved do whatever it takes, at any cost, to protect his people and reclaim his home. He must set aside the traditions that have shaped him as a warrior to forge a new path, the path of the Ghost, and wage an unconventional war for the freedom of Tsushima.",
+        "price": 35.99,
+        "category": 1,
+        "platform": 1,
+        "sub_category": 1,
+        "special_category": 1,
+        "rating": 4.9,
+        "image": "711719363705_I.jpeg"
+    }
+}, {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001600425",
+        "name": "God Of War (2018) No DLC",
+        "description": "The God of War has changed... and this is not the Kratos you know. His vengeance against the Gods of Olympus behind him, Kratos now lives in the realm of Norse deities and monsters. It s in this harsh, unforgiving world that he must fight to survive, and not only teach his son to do the same... but also prevent him from repeating the Ghost of Sparta s bloodstained mistakes. This staggering reimagining of God of War combines all the hallmarks of the iconic series brutal combat, epic boss fights and breathtaking scale and fuses them with a powerful and moving narrative that re-establishes Kratos world. A difficult and unfamiliar road awaits as you explore a stunning retelling of a classic story. Join Kratos as he adventures through a deep and reflective journey of growth, violence and the desire to become a better man for the sake of his son. In a world of monsters, dragons and gods, the weight of responsibility rests heavy on your shoulders and when your life is filled with blood and chaos, how can you prevent the mistakes of the past in order to protect your future? This startling reimagining of God of War deconstructs the core elements that defined the series satisfying combat; breathtaking scale; and a powerful narrative and fuses them anew.",
+        "price": 9.99,
+        "category": 1,
+        "platform": 1,
+        "special_category": 1,
+        "sub_category": 1,
+        "rating": 4.6,
+        "image": "0711719386070_l.jpeg"
+    }
+}, {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001730010",
+        "name": "Spider-Man (2018) No DLC",
+        "description": "When a villain threatens New York City, Peter Parker and Spider-Man's worlds collide. To save the city and those he loves, he must rise up and be greater.After eight years behind the mask, Peter Parker is a crime-fighting master. Feel the full power of a more experienced Spider-Man with improvisational combat, dynamic acrobatics, fluid urban traversal, and environmental interactions. A rookie no longer, this is the most masterful Spider-Man you've ever played.",
+        "price": 14.99,
+        "category": 1,
+        "platform": 1,
+        "special_category": 1,
+        "sub_category": 1,
+        "rating": 4.8,
+        "image": "711719417576_l.jpeg"
+    }
+}, {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001890157",
+        "name": "Grand Theft Auto V",
+        "description": "One of the biggest events of the last console generation is finally striding onto more powerful formats! GTA V finally makes its next-gen debut. With GTA IV having taken place in a decidedly east coast sort of setting in Liberty City, this game takes things over to the west coast. The action takes place in Los Santos and the surrounding countryside of San Andreas. Los Santos has seen better days. A sprawling metropolis full of faded stars, self-help gurus and desperate celebrities, the city has declined somewhat in the face economic uncertainty and cheap reality TV. In need of a big score are Franklin, a former street-level gangster; Michael, an ex-con living the high life in witness protection and Trevor, who's a bit on the sociopathic side. These are the three characters through whose eyes you'll see Los Santos. Of course, you'll do a lot more than looking around. The game is centred around six big heists, with plenty of driving, shoot-outs and other assorted missions to get stuck into in between. The open world map is huge, with hours upon hours of content on offer. If you should happen to get through it all, however, there's a whole other side to the game. GTA V also gets you access to GTA Online, a sprawling persistent world for you and up to 15 other players to play in either cooperatively or against each other in traditional competitive modes. With the next-gen version, players get the advantage of higher levels of detail than have ever been seen in GTA before, with better draw distances, finer texture detail and denser traffic to make the city seem more vibrant than ever.",
+        "price": 10.99,
+        "category": 1,
+        "platform": 1,
+        "sub_category": 1,
+        "rating": 4.5,
+        "image": "5026555416986_l.jpeg"
+    }
+}, {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002111605",
+        "name": "Red Dead Redemption 2 (2 Disc) (No DLC)",
+        "description": "Developed by the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America's unforgiving heartland. The game's vast and atmospheric world will also provide the foundation for a brand new online multiplayer experience.",
+        "price": 14.29,
+        "category": 1,
+        "platform": 1,
+        "sub_category": 1,
+        "rating": 5,
+        "image": "5026555423045_l.jpeg"
+    }
+}, {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002260206",
+        "name": "Star Wars Jedi: Fallen Order (No DLC)",
+        "description": "Following the events of Episode III - Revenge of the Sith and Senator Palpatine's deadly Order 66 - designed to destroy the Jedi order and pave the way for the Empire to rise - you are the last remaining Jedi Padawan and their last hope of survival.Pick up the pieces of your shattered past and complete your Jedi training, develop powerful Force abilities and master your Lightsabre on your quest to rebuild the Jedi. Fight to stay one step ahead of the Empire and its deadly Inquisitors, use your Jedi training to strategically approach every fight, and visit far-flung corners of the Star Wars galaxy, packed with characters, creatures, enemies and droids.",
+        "price": 12,
+        "category": 1,
+        "platform": 1,
+        "sub_category": 1,
+        "rating": 4,
+        "image": "5030937122440_l.jpeg"
+    }
+}, {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002440521",
+        "name": "Assassin's Creed IV: Black Flag",
+        "description": "The year is 1715. Pirates rule the Caribbean and have established their own lawless Republic where corruption, greediness and cruelty are commonplace.Among these outlaws is a brash young captain named Edward Kenway. His fight for glory has earned him the respect of legends like Blackbeard, but also drawn him into the ancient war between Assassins and Templars, a war that may destroy everything the pirates have built.Welcome to the Golden Age of Piracy.",
+        "price": 9.5,
+        "category": 1,
+        "platform": 1,
+        "sub_category": 1,
+        "rating": 4.7,
+        "image": "3307215715314_l.jpeg"
+    }
+}, {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002601115",
+        "name": "Middle-Earth: Shadow of War",
+        "description": "Developed by Monolith Productions, Middle-earth: Shadow of War features an original story with the return of Talion and Celebrimbor, who must go behind enemy lines to forge an army and turn all of Mordor against the Dark Lord, Sauron. In Middle-earth: Shadow of War, players wield a new Ring of Power and confront the deadliest of enemies, including Sauron and his Nazgul, in a monumental battle for Middle-earth. The open-world action-adventure game is brought to life through the expansion of the award-winning Nemesis System. The robust personalization from the first game is now applied to the entire world where the environments and characters are all shaped by player actions and decisions, creating a personal world unique to every gameplay experience. The innovative Nemesis System created unique personal stories through procedurally-generated enemies who remember every encounter and are differentiated by their personality, strengths and weaknesses. Middle-earth: Shadow of War expands this innovation with the introduction of Followers who bring about entirely new stories of loyalty, betrayal and revenge. The Nemesis System is also expanded to create a unique personal world through Nemesis Fortresses, which allows players to utilize different strategies to conquer dynamic strongholds and create personalized worlds with their unique Orc army. Set between the events of The Hobbit and The Lord of the Rings, Middle-earth: Shadow of War continues the original narrative of Middle-earth: Shadow of Mordor. Players will be engrossed in a richer, more personal and expansive world full of epic heroes and villains, iconic locations, original enemy types, even more personalities and a new cast of characters with untold stories.",
+        "price": 4.5,
+        "category": 1,
+        "special_category": 2,
+        "platform": 1,
+        "sub_category": 1,
+        "rating": 4.5,
+        "image": "5051892206969_l.jpeg"
+    }
+}, {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002690715",
+        "name": "Watch Dogs 2",
+        "description": "Use hacking as a weapon in the massive & dynamic open world of Watch Dogs 2. In 2016, ctOS 2.0, an advanced operating system networking city infrastructure, was implemented in several US cities to create a safer, more efficient metropolis. Play as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area. Team up with Dedsec, a notorious group of hackers, and expose the hidden dangers of ctOS 2.0, which, in the hands of corrupt corporations, is being wrongfully used to monitor and manipulate citizens on a massive scale. With the power of hacking and Dedsec by your side, launch the Hack of the Century, take down ctOS 2.0 and give freedom back to whom it belongs: the people.",
+        "price": 4.5,
+        "category": 1,
+        "special_category": 2,
+        "platform": 1,
+        "sub_category": 1,
+        "rating": 4.3,
+        "image": "3307215966648_l.jpeg"
+    }
+}, {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002701115",
+        "name": "Batman: Arkham Knight",
+        "description": "Batman: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile. The highly anticipated addition of this legendary vehicle, combined with the acclaimed gameplay of the Arkham series, offers gamers the ultimate and complete Batman experience as they tear through the streets and soar across the skyline of the entirety of Gotham City. In this explosive finale, Batman faces the ultimate threat against the city that he is sworn to protect, as Scarecrow returns to unite the super criminals of Gotham and destroy the Batman forever. FEATURES: - 'Be The Batman' - Live the complete Batman experience as the Dark Knight enters the concluding chapter of Rocksteady's Arkham trilogy.",
+        "price": 4.99,
+        "category": 1,
+        "special_category": 2,
+        "platform": 1,
+        "sub_category": 1,
+        "rating": 4.6,
+        "image": "5051892170543_l.jpeg"
+    }
+}, {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002761055",
+        "name": "Assassin's Creed Valhalla (No DLC)",
+        "description": "Stylish black-trim cook shirt from Chef Designs is just what you need for a confident, professional presence in the kitchen.  contrasting black stand collar black front buttons left chest pocket short hemmed sleeves squared bottom hem polyester/cotton washable imported of domestic fabric more sizes: regular, big",
+        "price": 30,
+        "category": 1,
+        "platform": 1,
+        "sub_category": 1,
+        "rating": 4.1,
+        "image": "3307216168294_l.jpeg"
+    }
+}, {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002820069",
+        "name": "Witcher 3: Wild Hunt",
+        "description": "The world is in chaos. The air is thick with tension and the smoke of burned villages. The fearsome Nilfgaardian Empire has struck again, ravaging the hapless Northern Kingdoms. The once mighty who tried to use Geralt are dead or gone. These are uncertain times and no one can say who will rise or fall, who will bring peace to the world and who will bring only misery. But a force darker and deadlier has appeared. Little do the petty men and women moving their tin-plated armies across the Northern Kingdoms know that their conflict is mere child's play compared with another otherworldly danger which now looms closer than ever. This brooding danger lusts after one thing: that which matters most to Geralt, that which is dearest to his heart.",
+        "price": 7.5,
+        "category": 1,
+        "platform": 1,
+        "sub_category": 1,
+        "rating": 4.8,
+        "image": "3391891978989_I.jpeg"
+    }
+}, {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002820147",
+        "name": "Need For Speed Payback",
+        "description": "Need for Speed Payback now to receive the Platinum Car Pack. Drive straight into the action on the roads of Fortune Valley with instant access to five uniquely customised and tuned iconic cars, each with exclusive Platinum Blue Tyre Smoke.",
+        "price": 12,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 3.9,
+        "image": "5030936121567_l.jpeg"
+    }
+}, {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002910572",
+        "name": "Rocket League",
+        "description": "Stafford Big & Tall ribbed athletic t-shirts deliver the tagless comfort and breathable performance he needs.  super soft, quick-drying, durable fabric preshrunk for lasting fit reinforced durable stitching tag free cotton/polyester washable imported ",
+        "price": 10.49,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 4.5,
+        "image": "8023171037691_l.jpeg"
+    }
+}, {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002990740",
+        "name": "Need For Speed (NFS) Heat",
+        "description": "Go up against the city's rogue police force as you battle your way into street racing's elite in the latest entry in the Need for Speed series.Work hard by day and risk it all at night in Need for Speed Heat, a white-knuckle racer that pits you against rogue police officers as you fight to earn your place in the world of underground street racing.",
+        "price": 25,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 4.4,
+        "image": "5035225122478_l.jpeg"
+    }
+}, {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003050248",
+        "name": "Crash Team Racing Nitro-Fueled",
+        "description": "Crash is back in the driver's seat! Get ready to go fur-throttle with Crash Team Racing Nitro-Fueled. It's the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls.Power slide to glory in additional karts, tracks and arenas from Crash Nitro Kart.Race online with friends and Crash the competition with online leaderboards.Customize your ride and swag out your racer with insane kart items and skins.",
+        "price": 25,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 4.6,
+        "image": "5030917269721_l.jpeg"
+    }
+}, {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003070787",
+        "name": "The Crew",
+        "description": "Take part in a relentless ride to infiltrate and overtake the 510s, a gang grown around Detroit's illegal street racing scene. Your plan? Get a rep on the underground-racing scene and sabotage their activities city-by-city all across the United States. Maneuver through the bustling streets of New York City and Los Angeles, cruise down sunny Miami Beach or trek through the breathtaking plateaus of Monument Valley. Each locale comes with its own set of surprises and driving challenges to master. On your journey you will encounter other players on the road - all potentially worthy companions to crew up with, or future rivals to compete against. This is driving at its most exciting, varied and open.",
+        "price": 4.99,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 4,
+        "image": "3307215748824_l.jpeg"
+    }
+}, {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003090182",
+        "name": "Wreckfest",
+        "description": "Break the rules and take full-contact racing to the limit with Wreckfest!Expect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend - These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you Flat Out 1 & 2!Burn rubber and shred metal in the ultimate driving playground!",
+        "price": 17.99,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 4.6,
+        "image": "9120080072818_l.jpeg"
+    }
+}, {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003090186",
+        "name": "Project CARS",
+        "description": "Project CARS is the most authentic, beautiful, intense, and technically-advanced racing game on the planet. Crowd-funded by a passionate community that has been involved in the development process throughout to create their ultimate racing experience, Project CARS allows you to create a driver, pick from a huge variety of motorsports, and shift into high gear to chase a number of Historic Goals and ultimate recognition in the Hall Of Fame. Then test your skills online either in competitive fully-loaded race weekends, leaderboard-based time challenges, or continually-updated community events - sometimes for real-world prizes. Featuring the largest track roster of any recent racing game with a ground-breaking dynamic time of day & weather system, world-class graphics and handling, deep tuning & pit stop functionality, and support for Oculus Rift and Project Morpheus, Project CARS leaves the competition behind in the dust.",
+        "price": 4,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "special_category": 2,
+        "rating": 3.5,
+        "image": "3391891981019_l.jpeg"
+    }
+}, {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003161326",
+        "name": "The Crew 2",
+        "description": "If there's one nation that's really been built by and for motorised travel, it's the United States of America. No country has embraced the car quite like the US, and there's arguably not a game that celebrates that spirit more than The Crew 2, Ubisoft's open-world racing game. There's an inherent glee in barreling right from one cost of the country to the other, hurling yourself round corners at breakneck speeds, piling from the top of buildings and tearing up the cities and landscapes in your wake and accruing multiplier after multiplier, getting rewards piled on top of you as fast as you can drive. The open world of The Crew 2 is limited only by US borders. From the tightly-packed streets of New York to the misty mountains of the Rockies, the country is open to you in all its glory. With the inclusion of planes and power boats, there's really no limit to what you can explore.",
+        "price": 10.99,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 4.4,
+        "image": "3307216024590_l.jpeg"
+    }
+}, {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003230723",
+        "name": "F1 2019",
+        "description": "The official videogame of the 2019 FIA FORMULA ONE WORLD CHAMPIONSHIP, F1 2019 challenges you to defeat your rivals in the most ambitious F1 game in Codemasters' history. F1 2019 features all the official teams, drivers and all 21 circuits from the 2019 season. This year sees the inclusion of F2 with players being able to complete the 2018 season with the likes of George Russell, Lando Norris and Alexander Albon.With greater emphasis on graphical fidelity, the environments have been significantly enhanced, and the tracks come to life like never before. Night races have been completely overhauled creating vastly improved levels of realism and the upgraded F1 broadcast sound and visuals add further realism to all aspects of the race weekend.",
+        "price": 9.99,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 4.7,
+        "image": "4020628747459_l.jpeg"
+    }
+}, {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003270936",
+        "name": "Grid 2019",
+        "description": "It has been, at the time the latest GRID game from Codemasters hits console blu-ray drives, a huge 11 years since the original Race Driver: GRID appeared. A lot has changed in the world of driving games since then. Most notably, for our purposes here, the GRID series lost its way a little and arcade racers all but went away. With this outing, Codies is looking to take its foot off the brake and turbo inject some fun and character back into racing games while welcoming racing fans of all different stripes into the fold. Car classes include GT, Touring, Stock, Muscle, Super-Modified and more, while race types run the gamut of styles, incorporating Circuit, Street Racing, Ovals, Hot Laps, Point-to-Point and World Time Attack.",
+        "price": 9.99,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 4.7,
+        "image": "4020628738594_l.jpeg"
+    }
+}, {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003360384",
+        "name": "Need For Speed Rivals",
+        "description": "When your workday calls for a heavyweight tee, grab this long-sleeve one from Dickies and enjoy industrial-strength comfort from the brand you trust.  chest pocket tagless back neck taped neck and shoulder seams cotton washable imported",
+        "price": 7.99,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 4.3,
+        "image": "5030947111342_l.jpeg"
+    }
+}, {
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003440111",
+        "name": "Need For Speed",
+        "description": "Need for Speed is a full reboot of this storied franchise. The game delivers on what the fans want, and what Need for Speed stands for - deep customisation, authentic urban car culture, a nocturnal open world, and an immersive narrative that pulls you through the game. Fuelled by EA's own car culture community, Speedhunters, Need for Speed will deliver an experience that's grounded in authentic car culture by diving into the rich world of past, present and emergent trends of the urban car scene. This collaboration with Speedhunters in the research and development of the game means the level of detail and real-world authenticity will envelop gamers in an exciting world to discover and enjoy in a way that only Need for Speed can deliver.",
+        "price": 8,
+        "category": 2,
+        "platform": 1,
+        "sub_category": 2,
+        "rating": 4.1,
+        "image": "5030944113738_l.jpeg"
+    }
+}, {
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003540313",
+        "name": "Call Of Duty Black Ops III",
+        "description": "Treyarch, developer of the two most-played games in Call of Duty history, returns with Call of Duty: Black Ops III. For the first time with three years of development, the revered, award-winning studio has created its first title for next-gen hardware in the critically acclaimed Black Ops series.Welcome to Call of Duty: Black Ops III, a dark, twisted future where a new breed of Black Ops soldier emerges and the lines are blurred between our own humanity and the technology we created to stay ahead, in a world where cutting-edge military robotics define warfare.",
+        "price": 10,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "rating": 4.4,
+        "image": "5030917162503_l.jpeg"
+    }
+}, {
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003560513",
+        "name": "Call of Duty: WWII",
+        "description": "After jaunts to every-when from the 1970s to the far-flung future, the Call of Duty series is returning to its roots with Call of Duty: WWII. Once again players will take to the battlegrounds of Europe in a bid to oust the evil of National Socialism from the world, but this time out they'll be doing it on the hardware of 2017 and with the benefit of lessons learned from multiple series installments. Activision and Sledgehammer Games are aiming squarely at the goal of delivering a gritty, cinematic World War II experience. You'll storm the beaches on D-Day, march across France to liberate Paris and ultimately push on for the invasion of Germany. There's even, in multiplayer, a map that offers players a chance to fight in Blitz-torn London. While the series is clearly going back to its roots in one sense, Sledgehammer has clearly learned from the games between the last CoD set in WWII and now. Most obvious is the inclusion of all the usual killstreaks, but CoD aficionados will also note the likes of turret gunning from Modern Warfare 2; maps with a hint of Black Ops 3 and Infinite Warfare's momentum-driven layouts to them and paratroopers who call back to World at War's attack dogs. There are certainly new additions too, however. War mode is a new narrative-driven multiplayer mode that has Allied and Axis forces clash in team-driven assault and defend missions. Headquarters, meanwhile, is a new social and competitive experience for players, with activities like 1v1 fights, anti-aircraft gunnery and eSports viewing available. Call of Duty: WWII also introduces Nazi Zombies, an all-new co-op experience with its own storyline set against the backdrop of World War II.",
+        "price": 8,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "rating": 4.5,
+        "image": "5030917215094_l.jpeg"
+    }
+}, {
+    "pk": 27,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003560948",
+        "name": "Call Of Duty: Black Ops 4",
+        "description": "Call of Duty: Black Ops 4 delivers the deepest and most tactical multiplayer experience ever created for the series, along with a huge day-one ‘zombies’ experience that will feature three times as many adventures.Blackout, an all-new competitive mode inspired by ‘battle royale’ brings together characters, locations, weapons and gear from across the series in all-out survival combat - all with a unique Black Ops twist.",
+        "price": 7.99,
+        "platform": 1,
+        "category": 3,
+        "sub_category": 3,
+        "rating": 4.2,
+        "image": "5030917239205_l.jpeg"
+    }
+}, {
+    "pk": 28,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003570628",
+        "name": "Call of Duty: Modern Warfare (2019)",
+        "description": "The stakes have never been higher as players take on the role of lethal Tier One operators in a heart-racing saga that will affect the global balance of power. Developed by the studio that started it all, Infinity Ward delivers an epic reimagining of the iconic Modern Warfare series from the ground up.Prepare to go dark Modern Warfare is backIn the visceral and dramatic single-player story campaign, Call of Duty : Modern Warfare pushes boundaries and breaks rules the way only Modern Warfare can.",
+        "price": 33.99,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "rating": 4.8,
+        "image": "5030917285752_l.jpeg"
+    }
+}, {
+    "pk": 29,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003620308",
+        "name": "Rainbow Six: Siege",
+        "description": "Rainbow Six Siege will, if Ubisoft Montreal has anything to do with it (and they do, what with them being the developers), take the original Tom Clancy action game series back to its roots. The emphasis is squarely on tactical gameplay, with a swift death always waiting around the corner. Multiplayer is at the heart of the game, and players take on the role of a counter-terrorist operative tasked with ending (the clue's in the title) terrorist sieges. Or, in the multiplayer mode, they might be one of those pesky terrorists themselves. With tactical play at the heart of the game defenders will need to secure their strongholds using teamwork and strategy. Counter terrorism operatives, meanwhile, can use tactical maps, observation drones and a new rappel system to work out how to deal with their enemies. As 'short-range' specialists, players will need to work primarily in indoor, close-quarters environments as bullets fly all around them. Right at the core of the game is a previously unseen level of destructability in the environme.",
+        "price": 7.99,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "rating": 4.6,
+        "image": "3307215889077_l.jpeg"
+    }
+}, {
+    "pk": 30,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003690115",
+        "name": "Far Cry 3 Classic Edition",
+        "description": "Far beyond the limits of civilization lies an island, a lawless place ruled by violence and human suffering, where your only escape is through drugs or the muzzle of a gun. This is where you find yourself, stranded in a place that has forgotten right from wrong, a place where you must live by the principles of violence to survive. Far Cry 3 Classic Edition brings the Rook Islands to current-gen consoles for the first time. Discover the island's bloody secrets and take the fight to the enemy; improvise and use your environment to your advantage; and outwit its roster of ruthless, deranged inhabitants to save your friends. Beware the beauty and mystery of this island of insanity. you'll need more than luck to escape alive.",
+        "price": 13.99,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "rating": 4.7,
+        "image": "3307216049333_l.jpeg"
+    }
+}, {
+    "pk": 31,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003690116",
+        "name": "Call Of Duty Infinite Warfare",
+        "description": "Activision and its developers have been inching towards science fiction with the Call of Duty franchise for years now, but with Infinite Warfare they've finally taken the plunge. In the campaign mode you play as Captain Reyes, a Tier 1 Special Operations pilot at the helm of the Retribution, one of Earth's last remaining warships, in a conflict not just for our planet, but for the whole solar system. See, in Infinite Warfare's future the Earth's resources are spent and our world relies on colonies spread across the solar system to provide it with resources. Not all the colonies are happy with this set-up, though, and the fascist SetDef, hardened by years in extreme environments, seeks to control these outposts and put a stranglehold on the countries of Earth. It's into this conflict that you step.",
+        "price": 4,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "special_category": 2,
+        "rating": 4.2,
+        "image": "5030917197116_l.jpeg"
+    }
+}, {
+    "pk": 32,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003780391",
+        "name": "Battlefield 1",
+        "description": "Only in Battlefield 1 will you bring a horse to a tank fight and squad-up with your allies in epic multiplayer battles with up to 64 players. Through ever-changing environments at the dawn of all-out war, no battle is ever the same. Battlefield 1 takes you across multiple and varied locations in a bid to fight your way through immersive battles. From tight urban fights in a besieged French city, to big open spaces in the Italian Alps and frantic combats in the deserts of Arabia, discover a world at war through an adventure-filled campaign. In a true multiplayer sandbox experience, take to the skies and engage in high-octane dogfights through treacherous landscapes, or have a battleship obliterating the coast from the sea, and engage in some of the biggest battles ever seen as empires clash for supremacy. Set against the backdrop of World War 1, witness the birth of modern warfare, as the Great War saw a furious arms race with new machines and weapons created to get the upper hand during the most technologically divergent war of all time. Feel the intensity and immersion as Battlefield 1 takes advantage of this modern arsenal to deliver the experience fans love, but with a fresh and modern twist.",
+        "price": 2,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "rating": 4.5,
+        "image": "5030935113761_l.jpeg"
+    }
+}, {
+    "pk": 33,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003790542",
+        "name": "Battlefield V",
+        "description": "Enter mankind s greatest conflict with Battlefield V as the series goes back to its roots in a never-before-seen portrayal of World War 2. Take on physical, all-out multiplayer with your squad in modes like the vast Grand Operations and the cooperative Combined Arms, or witness human drama set against global combat in the single player War Stories. As you fight in epic, unexpected locations across the globe, enjoy the richest and most immersive Battlefield yet.",
+        "price": 11.99,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "rating": 4.2,
+        "image": "5030946122271_l.jpeg"
+    }
+}, {
+    "pk": 34,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003831225",
+        "name": "Far Cry Primal",
+        "description": "Developed by Ubisoft Montréal, in collaboration with Ubisoft Toronto, Ubisoft Shanghai Studio, and Ubisoft Kiev Studio, Far Cry Primal is a full-fledged single player experience that will take gamers to 10,000 BC in history, to a time when massive beasts like the woolly mammoth and sabretooth tiger ruled the Earth. The award-winning franchise that stormed the tropics and climbed the Himalayas now brings its innovative open world sandbox gameplay to a time when humans were not at the top of the food chain, but were fighting to climb it, bringing together massive beasts, breathtaking environments, and unpredictable savage encounters. Gamers play as TAKKAR, a seasoned hunter and the last surviving member of his hunting group. Arriving in the majestic and savage land of Oros, players will pursue one single goal; survive in a world where humans are the prey. They will meet a cast of memorable characters who will help them push back and tame the dangers of the wild. Players will journey as the first human to tame the wilderness and rise above extinction. Along the way, they will have to hunt for food, master fire, fend off fierce predators, craft weapons and tools partly from the bones of slain beasts, and face off against other tribes to conquer Oros.",
+        "price": 8,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "rating": 4.4,
+        "image": "3307215938690_l.jpeg"
+    }
+}, {
+    "pk": 35,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003861402",
+        "name": "Far Cry 4",
+        "description": "Far Cry 4, is an open-world, first-person shooter that delivers the most expansive and immersive Far Cry experience ever. Hidden in the towering Himalayas lies a country steeped in tradition and violence. You are Ajay Ghale, returning to the country of your birth, the lush forests and harsh snowcapped summits of Kyrat, to fulfill your mother's dying wish of spreading her ashes. This striking and unpredictable country offers visitors opportunity and peril. You quickly find yourself caught up in a rebellion to overthrow the oppressive regime of Pagan Min, a man known as much for his sense of style and charisma as his cruelty and calculated brutality. Navigating the treacherous landscape, you find your fate increasingly determined by the choices you make because in Kyrat, every second is a story. In Far Cry 4, you'll conquer fortress outposts from the back of a six-ton elephant and take to the skies as you rain down explosives from the seat of your gyrocopter. The vertical landscape of the Himalayas isn't just a pretty backdrop, but a playground that encourages the player to fight, hunt and explore, grappling up cliffs or launching into the air, plummeting to the valley below in a controlled free fall with your wing suit. You'll carry with you a truly unique arsenal of weaponry that lets you play your way, whether it's sniping, sneaking or all-out assault. When all else fails, animals can be your biggest allies or your greatest danger, as Kyrat's wilderness delivers on the promise of a true open world anecdote factory. For the first time in any Far Cry game, you'll be able to hunt, fight and explore in the open world with a friend. With Guns for Hire, you can invite a friend into your world to liberate towers, take over outposts and share in the spoils. Hurk, from the Monkey Business add-on content of Far Cry 3, joins in the fight to take over Kyrat.",
+        "price": 3.99,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "rating": 4.6,
+        "image": "3307215793510_l.jpeg"
+    }
+}, {
+    "pk": 36,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003910638",
+        "name": "Far Cry 5",
+        "description": "For the first time ever, Far Cry is going to America. Players arrive in Hope County, Montana, as the new junior deputy. It's bad news for everyone (except the player) as this arrival accelerates a years-long coup by a murderous doomsday cult, the Project at Eden's Gate, and triggers a violent takeover of the county. Cut off from the rest of the world, players must range over a vast open environment of farmland, forest and mountains, to form a resistance and take it back piece by piece. Much of how Far Cry 5 plays out will be pleasingly familiar to fans of the series. It's still about capturing outposts, hunting wildlife and exploring a massive world, but certain tweaks and a greater emphasis on characters and cooperation change things up a bit. One difference is that everything you do contributes to your 'resistance' meter, and as this increases cult leader Joseph Seed will get more irate, dragging you into story missions and throwing greater defenses at you. Another is a greater emphasis on teamwork. You can play the whole game online in co-op mode, as well as recruit hired guns to help you in your crusade to take back Hope County. You can recruit fighters with different skillsets, adding a greater tactical element to the game than previous series outings. In other words, Far Cry 5 is offering players to get deeper into the game's world than ever before.",
+        "price": 9.99,
+        "category": 3,
+        "platform": 1,
+        "sub_category": 3,
+        "rating": 4.4,
+        "image": "3307216016595_l.jpeg"
+    }
+}, {
+    "pk": 37,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003950574",
+        "name": "Fifa 21",
+        "description": "Win as one in EA SPORTS FIFA 21, with new ways to team up on the street and in the stadium to enjoy even bigger victories together.Create more scoring opportunities than ever before with all-new dynamic attacking systems in the most intelligent FIFA gameplay to date; FIFA 21 raises players’ intelligence and decision-making to new levels both on and off the ball, creating more realistic and informed movement, building on the intensity of 1v1 situations, and unlocking the conditions for a true-to-life footballing experience that rewards you for your creativity and control all over the pitch.Manage Every Moment in FIFA 21 Career Mode with new innovations that create additional depth in matches, transfers, and training to give you more control over your team’s rise to the top and make it easier than ever for you to begin your managerial career.More ways to play; More customisation; More locations; Experience the soul of the streets together with friends as you show off your style in cages and courts around the world throughout various forms of small-sided football.Enjoy brand new ways to play the most popular mode in FIFA as you build your dream squad of players past and present in FIFA 21 Ultimate Team.",
+        "price": 23.99,
+        "category": 4,
+        "platform": 1,
+        "sub_category": 4,
+        "rating": 4.5,
+        "image": "5030943124421_l.jpeg"
+    }
+}, {
+    "pk": 38,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003950576",
+        "name": "Fifa 20",
+        "description": "As the 2019/2020 season kicks into high gear, EA's FIFA series is back with a host of improvements and one big new twist on its classic formula. With FIFA 20 EA Sports is taking the beautiful game back to the streets for a more casual, creative version of the sports know and love. Pitches are swapped out for courts and cages, sponsored kits are swapped out for casual-wear and tight formations and tactics are swapped out for a more dramatic style of play that's fast and fancy. Configurations include 3v3, 4v4, and 5v5 modes, as well as rush, where there's no keeper. Less obvious but no less important are changes that have been made under the hood. EA has been playing around with the pillars of how matches move and flow, crafting what it calls Football Intelligence around 'decisive moments' (play on the ball); 'authentic game flow' (off the ball) and ball physics (which sort of explains itself). As ever, fidelity to real world elements of the game is a big part of FIFA. The UEFA Champions League; UEFA Europa League and UEFA Super Cup are all present, accounted for and fully licensed, complete with official broadcast overlays, kit badges, match balls and trophies. Returning fans will also be glad of returning modes including FIFA 20 Ultimate Team, Career Mode, a standalone Champions League Mode. Basically, EA Sports FIFA 20 is the full package!",
+        "price": 5,
+        "category": 4,
+        "platform": 1,
+        "sub_category": 4,
+        "rating": 3.9,
+        "image": "5030943122533_l.jpeg"
+    }
+}, {
+    "pk": 39,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003960062",
+        "name": "The Golf Club 2019",
+        "description": "Do you have what it takes to win the FedExCup on the PGA TOUR? Compete in the all new officially licensed PGA TOUR Career mode. Play on famous courses like TPC Boston, TPC Sawgrass and more. Show off your skills as you take part in PGA TOUR events such as the Shriners Hospitals for Children Open, the John Deere Classic and the Waste Management Phoenix Open. Take on Career Rivals throughout the season for that extra challenge and promise of reward.The Golf Club 2019 Featuring the PGA TOUR is the sequel to the highly rated The Golf Club 2 and comes with a whole host and improved content and features across all aspects of the game, from a restructured Career mode experience, sponsors who challenge you and set you goals for a chance to earn rewards from licensed brand Under Armour. An improved character editor, new and improved online and solo societies, game modes such as Skins and ALT-SHOT as well as much, much more!",
+        "price": 20,
+        "category": 4,
+        "platform": 1,
+        "sub_category": 4,
+        "rating": 4.2,
+        "image": "5026555425346_l.jpeg"
+    }
+}, {
+    "pk": 40,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003960682",
+        "name": "eFootball PES 2020 (No DLC)",
+        "description": "Control the pitch.Experience the next evolution of PES on PS4.Step out of the stands and onto the pitch with the return of Konami’s authentic football franchise on PS4. Headlined by global superstar and FC Barcelona forward Lionel Messi, eFootball PES 2020 delivers dynamic new dribbling skills, first touch techniques and finely tuned ball physics, all developed in close consultation with world class Spanish midfielder Andrés Iniesta.And with the completely revamped Master League mode, you can take your team to success with an enhanced and more realistic transfer market and new interactive dialogue system that offers even more control over the progression of the narrative.Unlock stubborn defences with new player techniques, add another dimension to your tactics with intentional fouls and take in the full glory of the game with upgraded player models, better lighting and movie grade cut-scenes and replays.Unleash killer passes that your teammates will anticipate via the adaptive player interaction system, that encourages your squad play to their strengths.Pick one of two sides in the weekly Matchday mode, where you face off against members of the opposition for a place in the prestigious Grand Final.Create and customise sponsor logos and manager models in the Master League mode, or even use one of several legendary managers as your avatar, including Zico, Cruyff and Maradon.",
+        "price": 6.99,
+        "category": 4,
+        "platform": 1,
+        "sub_category": 4,
+        "rating": 4.4,
+        "image": "4012927104484_l.jpeg"
+    }
+}, {
+    "pk": 41,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003960775",
+        "name": "The Golf Club 2",
+        "description": "Rise to fame and fortune in the largest, most dynamic golf game ever created. Assemble and join online Societies with friends, compete in tournaments, and earn money to climb the ranks in golf's largest gaming community. The Golf Club 2 offers a dynamic, single-player Career mode, infinite hours of interactive golfing with online opponents, a new and improved course creator, cutting-edge swing mechanics, and a host of brand new, lush environments - all blending together seamlessly to create your dream golfing experience. Key Features: - Become a Pro in Career mode. Progress through a custom or pre-designed season by winning games and upgrading your clothing and gear, facing more difficult competition as you go. - Take your Society to the Top. Create or join multiple online Societies and challenge other clubhouses in tournaments to earn money and climb the ranks, constantly representing your team in every game you play. - Improve your Game. Play 100,000+ user-generated courses (from The Golf Club and The Golf Club 2) to test and improve your skills, plus compete in full seasons and major tournaments, either solo or with your golf Society. - Create Dynamic Golf Courses. Build any golf course you can imagine with the largest collection of props, tools, water features, bridges, vehicles, crowds, and more!",
+        "price": 15,
+        "category": 4,
+        "sub_category": 4,
+        "platform": 1,
+        "rating": 3.5,
+        "image": "5016488130318_l.jpeg"
+    }
+}, {
+    "pk": 42,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003990736",
+        "name": "Tony Hawk's Pro Skater 5",
+        "description": "Drop in and out of parks and rip with your friends.Tony Hawk’s Pro Skater 5 offers a fresh take on combo-driven skateboarding, the most advanced online multiplayer experience, and a state-of-the-art skatepark builder.Seamless online multiplayer.Complete objectives during online skate sessions and challenge other players from around the world to see who reigns supreme.Play as one of ten pros, including Tony Hawk, Nyjah Huston, and Aaron Jaws Homoki, each with their own tricks, or personalise a skater unique to your style.Jump in and out of over 80 unique missions across eight environments.If you build it, they will skate.Create and share the sickest skate parks using over 250 obstacles, and let loose on the most twisted designs from the community.",
+        "price": 9.99,
+        "category": 4,
+        "platform": 1,
+        "sub_category": 4,
+        "rating": 3.7,
+        "image": "5030917172038_l.jpeg"
+    }
+}, {
+    "pk": 43,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003990746",
+        "name": "Madden NFL 19",
+        "description": "Madden NFL 19 gives you game-changing control on and off the field. Real Player Motion transforms the way you play Madden delivering you gameplay control with precision and intent. Create and share custom Draft Classes, design your game strategy, progress your players and execute your game plan with all positional archetypes in Franchise. In Madden NFL 19 Ultimate Team, train your favorite players to fit your roster and lead your team to glory in all ways to compete.",
+        "price": 5.99,
+        "category": 4,
+        "sub_category": 4,
+        "platform": 1,
+        "rating": 4.9,
+        "image": "5035225121945_l.jpeg"
+    }
+}, {
+    "pk": 44,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004111503",
+        "name": "Tennis World Tour",
+        "description": "It's been a while since tennis fans had a true simulation of the sport to sink their racket into on console - arguably the last one was Top Spin 4, way back in 2011. With that in mind Tennis World Tour will be a very welcome addition to the catalogue, especially as it comes from developers who graduated from PAM Development and 2K Czech, the studios behind the Top Spin series. Tennis World Tour is a spiritual successor of sorts to that series - what the devs would have done if it weren't cancelled. It's been a while, though, and there have been changes. Seasoned players will notice, for example, significant changes to how a shot is delivered. The difficulty of a shot's timing has been softened, but there's a greater emphasis on factors such as where the player is when they get to it, the player's natural handedness and how strong their return ought to be. The aim, along with things like motion capture of whole games of tennis rather than isolated movements, is to produce a more rounded game of tennis. This is reflected in the career mode, which is the heart of the game. Most sports sims will take you through full seasons nowadays, but Tennis World Tour goes a step further in having you plan your progress. You'll need to plan which tournaments to skip and which to attend in order to both aid recovery and to prepare properly for the big events. You might, for example, choose to focus on events on different surfaces in order to cater to your player's strengths. With 30 licensed pros to play as (including the likes of Roger Federer, Angelique Kerber and Stan Wawrinka) and 18 types of courts: hard, clay, grass, carpet and even hardwood there are plenty of variables to contend with and doing well will be as much a matter of strategy as fast reflexes, just like the real game!",
+        "price": 10.99,
+        "category": 4,
+        "sub_category": 4,
+        "platform": 1,
+        "rating": 3.9,
+        "image": "3499550363906_l.jpeg"
+    }
+}, {
+    "pk": 45,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004230059",
+        "name": "Steep",
+        "description": "Ride a massive open world of the Alps and Alaska, where the powder is always fresh and the run never ends. Defy and master the world's most epic mountains on skis, wingsuit, snowboard, and in paraglide. Go solo or drop in side by side with other players. Record and share the most insane stunts ever captured. Dare your friends to try out your custom lines, then challenge the world to beat your best tricks and relive your most epic wipeouts. The mountain is yours to explore. So strap in, suit up, and drop in. Features: RIDE YOUR WAY Navigate the open world freely and create your own path as you decide how to explore your massive mountain playground. - Choose between four unique ways to traverse the mountain: ski, wingsuit, snowboard, or paraglide. - Rip through snowy terrains and skies, discover hidden spots, or just take in all the beauty the highlands of the Alps and Alaska have to offer. LIVE UNFORGETTABLE MOMENTS WITH OTHERS Share thrilling, adrenaline-fueled experiences with other players. - Seamlessly meet other players and choose to follow them or play together. - Group with your friends to pull off the craziest stunts imaginable; you can even mix sports to create wild tricks. - Challenge friends to beat your own personal records, lines, and scores. PARTICIPATE IN A WIDE VARIETY OF CHALLENGES Prove that you're the king of the mountain by dropping into unique and spectacular challenges that put your skills to the test. - Participate in specific challenges designed for each sport, such as Big Air, Proximity Flying, or Forest Slaloms. - Compete with your friends and the community on any challenge through leaderboards. - Play through epic riding quests to find out about the Mountain's secrets and experience unique moments. SHARE EVERYTHING Think your exploits are worth sharing? Relive epic moments and challenges, and share replays across all social media. Each time you cut a fresh path down the slopes, you create a one-of-a-kind run that can be watched and experienced by your friends online. Relive all your most spectacular runs, epic wipeouts, and wildest stunts. Choose the ideal camera angles, pace, and speeds to create the perfect post and dare the world to do better.",
+        "price": 6,
+        "category": 4,
+        "sub_category": 4,
+        "platform": 1,
+        "rating": 4.5,
+        "image": "3307215974285_l.jpeg"
+    }
+}, {
+    "pk": 46,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004310089",
+        "name": "NBA 2K20",
+        "description": "From the blacktop to the hardwood, carve out a career in the basketball league.NBA 2K returns for a new season of raw competition, featuring new modes, new ways to compete and the world's biggest superstar players.Put your career on the line and stand up for what you believe in in a the new MyCAREER mode, featuring topical storylines, true-to-life basketball characters and a star-studded cast.Master MyTEAM, NBA 2K's fantasy card collector, with daily goals, card-leveling, limited-time events and even more prizes. Stay connected to the community with Locker Codes, Leaderboards, Developer Tips, Team of the Week and more.Take your skills to the next level with an upgraded motion engine, signature styles, advanced shooting controls and a new dribble size-up system.Take to the court with all 12 WNBA teams and over 140 players, complete with gameplay animations, play styles and visuals built exclusively for the women's game.",
+        "price": 7.99,
+        "category": 5,
+        "sub_category": 4,
+        "platform": 1,
+        "rating": 4.6,
+        "image": "5026555426312_l.jpeg"
+    }
+}, {
+    "pk": 47,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004610254",
+        "name": "UFC 3",
+        "description": "EA SPORTS UFC 3 is the most revolutionary fighting game on the planet, connecting you to the real-world UFC all year round. Master the promotion and performance of becoming a professional fighter, inside and outside the Octagon. Build the ultimate lineup of authentic champion fighters. Customize with signature moves straight from the real UFC. In UFC 3, you will be able to fight with the best champion athletes in UFC and MMA history. From their dominance in the Octagon to their presence outside it, these five UFC champions rank among the greatest of all time. Find out who these five UFC 3 Champions Athletes are and learn more about their careers below.",
+        "price": 18.99,
+        "category": 4,
+        "sub_category": 4,
+        "platform": 1,
+        "rating": 4.4,
+        "image": "5030946121595_l.jpeg"
+    }
+}, {
+    "pk": 48,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004650050",
+        "name": "WWE 2K20",
+        "description": "Rise to glory in the WWE universe alongside Superstars like Becky Lynch and Roman Reigns.Forge your path to WWE stardomJoin your favourite Superstars in the ring as you take on the latest instalment of 2K's star-studded series.For the first time in the franchise, play as both male and female MyPlayers in mixed tag matches and the narrative-driven MyCareer campaign full of twists, turns and cutscenes voiced by the biggest stars of the WWE.Relive the journey of the Four Horsewomen and the Women's Evolution in the 2K Showcase featuring objective-based gameplay, cutscenes and documentary-style vignettes.",
+        "price": 14.99,
+        "category": 4,
+        "sub_category": 4,
+        "platform": 1,
+        "rating": 3.4,
+        "image": "5026555425544_l.jpeg"
+    }
+}, {
+    "pk": 49,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004821375",
+        "name": "Last Of Us, The: Remastered",
+        "description": "Joel and Ellie, brought together by harsh circumstance, must survive a brutal journey across the US in a dangerous post-pandemic world.Winner of over 200 Game of the Year awards, The Last of Us has been rebuilt for the PlayStation 4 system. Now featuring full 1080p, higher resolution character models, improved shadows and lighting, in addition to several other gameplay improvements.20 years after a pandemic has radically changed known civilization, infected humans run wild and survivors are killing each other for food, weapons; whatever they can get their hands on. Joel, a violent survivor, is hired to smuggle a 14 year-old girl, Ellie, out of an oppressive military quarantine zone, but what starts as a small job soon transforms into a brutal journey across the U. S.The Last of Us Remastered includes the Abandoned Territories Map Pack, Reclaimed Territories Map Pack, and the critically acclaimed The Last of Us: Left Behind Single Player campaign that combines themes of survival, loyalty, and love with tense, survival-action gameplay.",
+        "price": 10.99,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.8,
+        "image": "711719406716_l.jpeg"
+    }
+}, {
+    "pk": 50,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004900522",
+        "name": "The Last Of Us Part II/2, (2 Discs)",
+        "description": "Five years after their dangerous journey across the post-pandemic United States, Ellie and Joel have settled down in Jackson, Wyoming. Living amongst a thriving community of survivors has allowed them peace and stability, despite the constant threat of the infected and other, more desperate survivors.When a violent event disrupts that peace, Ellie embarks on a relentless journey to carry out justice and find closure. As she hunts those responsible one by one, she is confronted with the devastating physical and emotional repercussions of her actions.",
+        "price": 20,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.2,
+        "image": "711719329800_l.jpeg"
+    }
+}, {
+    "pk": 51,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004910158",
+        "name": "Days Gone",
+        "description": "At its core, Days Gone is about survivors and what makes them human: desperation, loss, madness, betrayal, friendship, brotherhood, regret, love—and hope. It's about how, even when confronted with such enormous tragedy, hope never dies.",
+        "price": 15.99,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.4,
+        "image": "711719795315_l.jpeg"
+    }
+}, {
+    "pk": 52,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004910477",
+        "name": "Evil Within",
+        "description": "Developed by Shinji Mikami -- creator of the seminal Resident Evil series -- and the talented team at Tango Gameworks, The Evil Within embodies the meaning of pure survival horror.  Experience a disturbing reality as you try to break free from warped machinations that could only exist in the most horrifying worlds. Face twisted creatures and experience true terror, all heightened by cutting edge lighting and animation made possible by a customized version of the id Tech 5 engine.While investigating the scene of a gruesome mass murder, Detective Sebastian Castellanos and his partners encounter a mysterious and powerful force. After seeing the slaughter of fellow officers, Sebastian is ambushed and knocked unconscious. When he awakens, he finds himself in a deranged world where hideous creatures wander among the dead.Facing unimaginable terror, and fighting for survival, Sebastian embarks on a frightening journey to unravel what’s behind this evil force.",
+        "price": 6,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.4,
+        "image": "093155148918_l.jpeg"
+    }
+}, {
+    "pk": 53,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004940703",
+        "name": "Evil Within 2",
+        "description": "Bethesda's reality warping, survival horror blockbuster, The Evil Within, is back with a sequel. You play as detective Sebastian Castellanos at his lowest point. With his daughter missing, he's left with no choice but to partner with Mobius, the shadowy organisation that destroyed his former life. As in the first game, you have to enter a world that's the very definition of a realm of psychological horror - an alternate reality created using someone's very mind. It can warp and change at a moment's notice, and the normal rules don't apply there... It's very much in the Silent Hill mold of tense, nerve-wracking gameplay punctuated by moments of outright visceral horror. There's a vast dark world to explore, and it's constantly shifting and creaking around you. You can choose to play stealthily, attaching from the shadows with a crossbow, go in guns blazing (albeit with very limited ammo) or just run like hell and hope for the best. Whatever you do, however, you'll need to prepare carefully and manage your limited resources wisely. This is a world that's literally out to get you, and it won't be doing you any favours by giving you ready stashes of ammo and supplies. However you try to save your daughter, however, you're in for a dark ride...",
+        "price": 6,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.4,
+        "image": "5055856416326_l.jpeg"
+    }
+}, {
+    "pk": 54,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004991006",
+        "name": "Resident Evil: Origins Collection",
+        "description": "On January 22nd, fans and newcomers will be able to re-visit the original stories that started it all, now brilliantly remastered in Resident Evil Origins Collection, a physical disc product that contains both the critically acclaimed, previously released Resident Evil and the upcoming Resident Evil 0. In the original Resident Evil, players choose to take on the role of either S.T.A.R.S. (Special Tactics and Rescue Service) team member Chris Redfield or Jill Valentine, who have been sent into the city to find the missing Bravo team. With limited ammo and survival items available, gamers need to keep their wits about them to survive the various traps and puzzles that greet them at every stage of the game. This is coupled with the upcoming Resident Evil 0, which takes players back to 1998. Reports have been mounting about unusual murders on the outskirts of Raccoon City. The city's Special Forces division, S.T.A.R.S., sends their Bravo Team to investigate, including rookie cop member Rebecca Chambers, who meets death row convict and ex-Navy lieutenant Billy Coen. Throughout the game, players take control of both Rebecca and Billy, at times switching between both characters in order to proceed. FEATURES: - Return to the series' origins - Discover the truth behind the horrors at the Mansion, and all that came before on the Ecliptic Express with this bundle of two fan-favourite titles. - Completely enhanced visuals - Both games now have high-resolution textures that have been created from scratch, including 1080p support on next-gen consoles, while still preserving the classic appearance of the original releases. - Fully remastered sound effects - 5.1 surround support provides a more experiential gaming atmosphere that best matches players' listening environments. - Introducing Wesker Mode - For the first time ever in Resident Evil 0, players can experience the events leading up to the iconic Mansion outbreak playing as alternative character Albert Wesker, including a special themed outfit and amazing new powers. This mode will provide series fans and newcomers with even more ammo to enjoy!",
+        "price": 16,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.9,
+        "image": "5055060931103_l.jpeg"
+    }
+}, {
+    "pk": 55,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004991162",
+        "name": "Resident Evil 2",
+        "description": "Relive Capcom's seminal survival horror classic, completely rebuilt with cutting-edge technology, a deeper, richer narrative and a range of great features.Step once again into the shoes of dauntless rookie cop Leon Kennedy and intrepid college student Claire Redfield as they peel back the horrific truths surrounding the collapse of Raccoon City and the catastrophic events that would set in motion the ongoing Resident Evil saga.Re-imagined for the 21st century, Resident Evil 2 combines the exploration, puzzle-solving and survival mechanics of the original with modern visual depth, snappy combat and vast environments.",
+        "price": 10,
+        "category": 5,
+        "special_category": 1,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.8,
+        "image": "5055060946121_l.jpeg"
+    }
+}, {
+    "pk": 56,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005000046",
+        "name": "Resident Evil 3",
+        "description": "Relive the horrifying downfall of Raccoon City in a stunning reimagining of the 1999 survival horror classic.In the nightmarish hours leading up to and following the events of Resident Evil 2, only you can help surviving S.T.A.R.S. officer Jill Valentine escape a city beset by a gruesome viral outbreak.But zombies aren't the only threat out for your blood. The towering, near-indestructible bioweapon, Nemesis T-Type, is also on the hunt. This brutal monstrosity uses an arsenal of high-powered weaponry to relentlessly pursue you across Raccoon City, meaning nowhere is truly safe.Featuring cutting-edge presentation and revamped action-adventure gameplay, Resident Evil 3 updates the unforgettable Raccoon City story arc finale in explosive fashion.",
+        "price": 20,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.2,
+        "image": "5055060949610_l.jpeg"
+    }
+}, {
+    "pk": 57,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005070254",
+        "name": "Resident Evil 4 HD Remake",
+        "description": "Back in the early days of the PlayStation, Resident Evil was a must-have game. The definitive survival horror game, it aimed to give players the experience of a videogame that delivered the frights and intense atmosphere of a horror movie. The gameplay involved claustrophobic fixed view cameras and required the player to blast at horrific groaning zombies. Two sequels followed for the Sony console, as well as some special editions and a lightgun spin-off. When RE: Code Veronica appeared on the Dreamcast, the graphics and gameplay developed in line with the then-new console's awesome powers. Since then, the series has continued on PS2 in third-person and lightgun versions. In 2002, the franchise came to GameCube with two titles: RE: Zero, an all-new prequel, and Resident Evil, a remake of the original. This remake, regarded as a worthy and laudable endeavour by some, and something of a white elephant by others, was perhaps the first game to show what Nintendo's diminutive and easily underestimated console was really capable of. The terrifying mansion, rendered in real and vibrant 3D rather than pre-rendered graphics, looked amazing. But as new versions arrived on the PS2, it was easy to believe that Capcom were hesitant to commit fully to the Nintendo system. In something of a departure, the fourth instalment in the series proper debuted on GameCube, and was followed inevitably by release on other - more popular - consoles. As a result of the game already having been in the public domain so long, the storyline is well known, but here's a quick thumbnail for you: the horrific incidents at Raccoon City now exist only in the memories of those who witnessed them. Leon, a US Secret Agent, is assigned to investigate the kidnapping of the President's daughter, and is led to a rural part of Europe in his quest. When he stops to ask directions, he is attacked by hideous monsters that he had assumed were human. Now his only choice is to battle for survival and hope to somehow find what the source of the creatures is. As well as having still very impressive graphics, the game is now played in a free-roaming environment rather than a series of fixed viewpoint scenes. Most exciting for horror fans is the inclusion of a new weapon, the shotgun, which tears chunks out of more than one enemy at a time; it's just as well, because ammo is limited. The creatures you battle all react convincingly depending on where you shoot them. This HD remake brings all the tension of the original to modern consoles, along with a thick coat of HD polish.",
+        "price": 12,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.7,
+        "image": "5055060931387_l.jpeg"
+    }
+}, {
+    "pk": 58,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005071145",
+        "name": "Madison Park Essentials Concord Reversible Complete Bedding Set with Sheets",
+        "description": "Resident Evil, one of the most revered series in gaming, returns to put the willies right up you once again. The fifth game in the series had a lot to live up to, with Resident Evil 4 holding a very special place in the hearts of survival horror fans. The game sees long-time Resident Evil hero, Chris Redfield, thrust back into the thick of things. And by 'things' we mean 'horde of zombie killers hungry for squelchy brains'. Having chased the undead around the globe and now working for a new organisation, Redfield heads to Africa where a terrifying new bioterrorism threat has emerged. It's turning the people and animals into mindless killers, and it needs sorting out. Redfield isn't alone. He'll have Sheva Alomar to lend her strength, speed and sharpshooting to his efforts. Sheva's presence is crucial to the game's core mechanics, as she enables both online and offline co-op play. Even when you're just playing with the AI, Redfield and Sheva will get to the serious business of slaying zombies together and you'll need to watch each other's backs to survive. As with past Resi titles, gameplay is tight and tense. You'll have to be ruthlessly efficient as you pop off headshots and try to conserve your limited ammo. Keeping a cool head is the name of the game! Not necessarily so easy, since you're in Africa...",
+        "price": 15,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.4,
+        "image": "5055060931516_l.jpeg"
+    }
+}, {
+    "pk": 59,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005140282",
+        "name": "Resident Evil 6 HD Remake",
+        "description": "Resident Evil is one of the best selling, and longest lasting franchises in gaming history. And although this is the sixth main game in the series, when all of the Survivor, Code, Outbreak, Chronicles and other games have been taken into account, over 20 games have born the Resident Evil name. The original game virtually invented the survival horror genre. And wile each subsequent iteration has moved the game more to a real time action style, the all important atmosphere of the original has always been a core part of the games' special appeal. Set in Easter Europe, RE 6 lets users play through three storylines, each of which is interconnected, but has its own feel and its own main playable character, either Leon Kennedy, Chris Redfield and Jake Muller. As with RE 5, the playable character is accompanied by a secondary character which is either computer controlled in the single player game, or can be controlled by a friend either locally or on-line. Once you complete all three of the scenarios, a fourth - in which you play Ada Wong in purely solo gameplay, is unlocked. After listening to user feedback from the fifth game, Capcom has made gameplay in RE 6 more fluid and fast moving. Items can now be picked up in real time and you can switch between weapons smoothly more quickly. Players can also target their weapon while moving, being unable to do so was a frustrating limitation of previous games in the series, but your speed of motion is restricted while you are using your firearm. Health can be restored by finding herbs and using them to create tablets, and thee is some strategy involved in using the resources most effectively. Tablets canbe used to revive your partner character too, but if either of you die, the game re-sets tot he last restore point. The shambling zombie foe of the previous game are joined by the J'avo - which can communicate and co-operate to plan their attacks, use weapons and heal one another. When killed some enemies release skill points which may be used to level up certain player characteristics. Resident Evil 6 aims to combine all that is familiar and popular from the previous games in the series, and introduce enough new thrills to keep even the most experienced RE player entertained.",
+        "price": 15,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.7,
+        "image": "5055060931646_l.jpeg"
+    }
+}, {
+    "pk": 60,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005200166",
+        "name": "Resident Evil 7: Biohazard",
+        "description": "Resident Evil 7 biohazard sets a new course for the Resident Evil series as it leverages its roots and opens the door to a truly terrifying horror experience. Set within a sinister plantation mansion in modern day rural America and taking place after the dramatic events of Resident Evil 6, players experience the terror directly from the first person perspective for the first time in the Resident Evil series. Embodying the iconic gameplay elements of exploration and tense atmosphere that first coined survival horror some twenty years ago, Resident Evil 7 biohazard delivers a disturbingly realistic experience that will define the next era in horror entertainment. FEATURES: - Returning to the series' roots - Resident Evil 7 biohazard will deliver an experience reminiscent of the series' signature gameplay including exploration, puzzles and a realistic tense atmosphere for players to encounter but will offer a complete refresh of the gameplay systems to propel the survival horror experience to the next level - Immersive, visceral horror - A new shift for the series to first person view brings the terrifying horror directly up close and personal; PSVR compatibility heightens the chilling experience even more - Built from the ground up on the RE Engine - Capcom's brand new VR compatible development engine works in tandem with industry leading audio and visual technologies to create a disturbingly photorealistic experience for an unprecedented level of immersion - Step inside the plantation now on PlayStation Plus - The standalone teaser demo Beginning Hour can be downloaded now by PlayStation Plus subscribers, delivering players a taste of what they can expect from Resident Evil 7 biohazard when it releases in January next year - Building upon on last year's KITCHEN tech demo for PlayStation VR, the events in Beginning Hour see the player awaken inside a dilapidated cottage within an ominous plantation mansion. Can players make it out alive?",
+        "price": 8,
+        "category": 5,
+        "sub_category": 5,
+        "platform": 1,
+        "rating": 4.7,
+        "image": "5055060900536_l.jpeg"
+    }
+}, {
+    "pk": 61,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005210241",
+        "name": "Crash Bandicoot N. Sane Trilogy",
+        "description": "Re-join your favourite marsupial, Crash Bandicoot, as he spins his way along with his three most memorable adventures, newly recreated for the current generation.Including Crash Bandicoot, Crash Bandicoot 2: Cortex Strikes Back and Crash Bandicoot 3: Warped, the N. Sane Trilogy has been lovingly built from the ground-up with brand new visiuals and audio to deliver the serie's classic gameplay to a whole new generation.Playing as either Crash or his baby sister Coco, bound, spin and even motorcycle your way through three mad-cap adventures, tackling everything from talking clocks to white-water rapids, all in ab id to save the world from the forces of evil.",
+        "price": 19.99,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.6,
+        "image": "5030917211034_l.jpeg"
+    }
+}, {
+    "pk": 62,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005280104",
+        "name": "Crash Bandicoot 4: It's About Time",
+        "description": "Neo Cortex and N. Tropy are back at it again and launching an all-out assault on not just this universe, but the entire multiverse! Crash and Coco are here to save the day by reuniting the four quantum masks and bending the rules of reality.New abilities? Check. More playable characters? Yep. Alternate dimensions? Obviously. Ridonkulous bosses? For sure. Same awesome sauce? You bet your sweet jorts. Wait, are they actually jorts? Not in this universe!",
+        "price": 39.99,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.1,
+        "image": "5030917290947_l.jpeg"
+    }
+}, {
+    "pk": 63,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005310360",
+        "name": "Rayman Legends",
+        "description": "Rayman, Globox, and the teensies have been wandering through the forest when... you know, things happen. Don't sweat the details. What you need to know is: you have to save the teensies by crusading through various levels roughly themed around fairytales/folklore. You navigate the different worlds/levels by wandering along galleries and hopping into paintings with various different themes attached to them. If you wander about the level navigation for a moment you're bound to find something to do, and linearity is hardly important here. The game plays and flows beautifully, with some really imaginative level design. It does everything you expect from a sidescrolling platformer: you run, you jump, you glide, you punch. Except it does all this with really rich, varied and imaginative level design. Legends sits somewhere between 2D Mario and old school Sonic in terms of the feel of the thing, leaning more toward the latter. It's not as quick as Sonic, but if you're good enough it has something of that smooth flow. There are various sorts of levels on offer. For example, once certain levels are completed, a secondary level re-using some of its features (you might call it a 'remix' at a push) opens up. These are speed runs, but accuracy is critical if you even want to make it through, let alone do so in reasonable time. Using Murfy adds some fun moments, too. Players can get him to perform certain actions like tickling large enemies or eating out sections of cake-based levels, adding a rewarding extra dimension to certain levels. Rayman Legends is, all in all, a really fun little game with some great design behind it.",
+        "price": 15.99,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.8,
+        "image": "3307215774519_l.jpeg"
+    }
+}, {
+    "pk": 64,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005330595",
+        "name": "Disney Classic Games: Aladdin & The Lion King",
+        "description": "Two of the most beloved Disney games of all time make their long-awaited return to modern consoles in Disney Classic Games: Aladdin and The Lion King! This unforgettable package of Disney classics is filled with tons of new features, enhancements, game modes, and display options, plus multiple versions of the games! Join Aladdin and his sidekick, Abu, as they race through the marketplace toward their date with destiny. Relive Aladdin's classic adventure as you travel through Agrabah, the Cave of Wonders and more to defeat Jafar and rescue Jasmine. Jump, fight, dodge and carpet-ride your way through this adventure, collecting gems along the way. The Lion King brings to life the majesty and mystery of Africa through the tale of Simba, a lion cub faced with the challenging transition to maturity. Now, you too can be part of the adventure! Driven into the wilderness by his evil uncle Scar, Simba finds salvation and Hakuna Matata with Pumbaa the warthog and Timon the meerkat. Tackle heinous hyenas in the elephant's graveyard, avoid the trampling hooves of stampeding wildebeest as you battle through 10 levels to ensure Simba claims his rightful place as The Lion King.",
+        "price": 10,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.5,
+        "image": "5060146468459_l.jpeg"
+    }
+}, {
+    "pk": 65,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005330596",
+        "name": "LEGO Marvel Avengers",
+        "description": "Avengers Assemble! The best-selling LEGO Marvel videogame franchise returns with a new action-packed, Super Hero adventure. Join the LEGO Marvel's Avengers team and experience the first console videogame featuring characters and storylines from the critically-acclaimed film Marvel's The Avengers, the blockbuster sequel Marvel's Avengers: Age of Ultron, and more. Play as the most powerful Super Heroes in their quest to save the world. GAME FEATURES: Diverse roster of Marvel's Avengers characters -Play and unlock more than 100 new and returning characters with an array of exciting capabilities, including fan favorites like Hulk, Iron Man, Captain America and Thor, new characters from Marvel's Avengers: Age of Ultron, and more. New and enhanced powers and abilities - Battle in new ways with enhanced powers and character abilities. Team up with core Avengers to execute incredible combo moves. Free Roam Gameplay - Enjoy LEGO Marvel's Avengers' unique take on open world gameplay as you assume the roles of Earth's Mightiest Heroes to collect gold bricks, studs, and unlock additional characters. Variety of iconic locations - Visit iconic Marvel Cinematic Universe locations from around the world. Experience the blockbuster action from the Avengers films - Relive key moments from Marvel's The Avengers, Marvel's Avengers: Age of Ultron and more, with a splash of classic LEGO humor",
+        "price": 8.99,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.1,
+        "image": "5051892189767_l.jpeg"
+    }
+}, {
+    "pk": 66,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005430914",
+        "name": "LEGO Marvel Super Heroes",
+        "description": "It had to happen sooner or later, and now it has. The Marvel Universe has been given the LEGO treatment. And developer Traveller's Tales hasn't left anything out, either. Not content to settle on just Spider-Man, the Avengers, the X-Men, the Fantastic Four... or any of the other Marvel characters that could have held their own game, the developer has thrown the whole lot into the mix! Characters available range from the likes of Iron Man and Captain America through Spidey and the Fantastic Four right across to X-Men such as Wolverine, Cyclops and Storm. The Silver Surfer has turned up on Earth, which is often bad news. You see, the Surfer is the herald of Galactus, devourer of worlds, so where he goes Galactus isn't usually far behind. Before he can do much, however, he's knocked out of the sky and his surfboard is destroyed by Doctor Doom. It falls to Earth as cosmic bricks of immense power, and the Marvel universe's assorted villains scramble to get hold of them. Cue the assembled Marvel heroes to fight them off! The game plays out in the familiar LEGO manner. Gameplay is a combination of platforming, brawling and puzzle solving. There's a strong emphasis on teamwork, whether you're playing solo or in co-op, using the right character for the right job is crucial. As with LEGO Batman 2, there's a whole open world for players to explore. With Marvel, that's the iconic city of New York, with famous locations such as Stark Tower and the X-Mansion! LEGO Marvel is a definite win for any family member of the family who's taken a shine to the world's mightiest heroes.",
+        "price": 9.99,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.8,
+        "image": "5051892145237_l.jpeg"
+    }
+}, {
+    "pk": 67,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005430944",
+        "name": "Unravel Yarny Bundle",
+        "description": "The Unravel Yarny bundle contains Unravel and Unravel Two.Unravel is a visually stunning, physics-based puzzle platformer that introduced lovable and endearing character made from a single thread of yarn, that slowly unravels as he embarks on a seemingly larger than life journey.In Unravel Two, create a Yarny of your very own. Then build relationships with other Yarnys in local co-op or as a single player, fostering friendship and support as you journey together.",
+        "price": 17.99,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.6,
+        "image": "5030933123427_l.jpeg"
+    }
+}, {
+    "pk": 68,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005510265",
+        "name": "Sonic Forces ",
+        "description": "From the team that brought you Sonic Colours and Sonic Generations, join an epic high-speed fight to save a world decimated by Dr. Eggman and mysterious new villain… Infinite! In Sonic Forces, you must help Sonic build an army to reclaim the world as you fight against chaos and destruction. Experience fast-paced action with three unique gameplay styles with Classic Sonic, Modern Sonic and your very own Custom Character.",
+        "price": 9.99,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.4,
+        "image": "5055277029785_l.jpeg"
+    }
+}, {
+    "pk": 69,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005520201",
+        "name": "Little Nightmares",
+        "description": "Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears! Embark on a grim shadow-filled adventure with an interactive storyline, outstanding sound design, and a unique art style that is sure to deliver eerie chills and goosebumps. Players will discover a world that blurs the lines between dreams and nightmares as they help Six escape The Maw - a vast, mysterious vessel inhabited by corrupted souls looking for their next meal. Consider every option and master Six's every movement in a super-sized world where even the smallest doubt can lead to a fatal misstep! Features: Embark on a Grim Adventure: Confront your childhood fears in this dark, whimsical tale, set in an immersive and emotive world full of unsettling situations. Visit the Maw: Peek into Six's super-sized world, part dream, part nightmare, where every step feels like a leap, and every shadow a vast darkness! Rekindle your Childlike Joys: Reconnect with your inner child, unleash your imagination, and stay out of harm's way. Each room is a cell, each resident a threat, and both are puzzles to untangle. Original Soundtrack: The box includes the original soundtrack CD composed by Tobias Lilja from Tarsier Studio.",
+        "price": 20,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.6,
+        "image": "3391891992411_l.jpeg"
+    }
+}, {
+    "pk": 70,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005520205",
+        "name": "LEGO Jurassic World ",
+        "description": "LEGO Jurassic World is the latest addition to the wildly successful LEGO videogame series. The all-new game will feature in LEGO form the first three blockbuster Jurassic Park films as well as Jurassic World, the long-awaited next instalment in the groundbreaking Jurassic Park series. Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park and Jurassic Park III, as well as the highly anticipated Jurassic World, LEGO Jurassic World is the first videogame where players will be able to relive and experience all four Jurassic films. Reimagined in LEGO form and told in TT Games' signature classic LEGO humour, the thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar and Isla Sorna. In LEGO Jurassic World, players will be able to collect precious amber, which contains dinosaur DNA to create and customize species. And, for the first time in a LEGO game, players will be able to play as LEGO dinosaurs, including dinosaurs from the Jurassic Park series and from the upcoming Jurassic World film.",
+        "price": 10.99,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.6,
+        "image": "5051892187831_l.jpeg"
+    }
+}, {
+    "pk": 71,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005630545",
+        "name": "LEGO Marvel Super Heroes 2",
+        "description": "It's been a while coming but, finally, one of the most popular LEGO games of all time has a sequel. The time travelling baddie Kang the Conqueror has really gone all-out this time, pulling chunks of space and time together to form the strange and perilous city of Chronopolis. It's a concept that might be recognisable to Marvel fans who read the Secret Wars crossover event in 2015, and readers of that story know it's ripe for fun and interesting stories. It falls, of course, to the Marvel heroes to set things straight. The Guardians of the Galaxy are front and centre, but there's a deep (and sometimes bewildering!) bench of characters to play around with here. From marquee names like Captain America and Thor right through to obscure figures from deep in the annals of Marvel history such as Forbush Man and Greenskyn Smashtroll, TT Games has really taken the plunge on this one. The developer has also really done its homework on realising the wide array of powers the heroes have, too, especially with new teleportation and time-bending mechanics. Alongside the main story missions, which take you through realms ranging from medieval England to the shady New York of Spider-Man Noir, there are shorter levels introduced by third wall smashing Gwenpool that have you playing as fan favourites such as Squirrel Girl. In short, LEGO Marvel Superheroes 2 is a highly polished love letter to not only the characters it contains, but to 70+ years of Marvel comics.",
+        "price": 10.99,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.6,
+        "image": "5051892206907_l.jpeg"
+    }
+}, {
+    "pk": 72,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005630605",
+        "name": "Spyro Reignited Trilogy",
+        "description": "The original roast master is back! The same sick burns, same smouldering attitude, now all scaled up in stunning HD. Spyro is bringing the heat like never before in the Spyro Reignited Trilogy game collection. Rekindle the fire with the original three games, Spyro the Dragon, Spyro 2: Ripto's Rage! and Spyro: Year of the Dragon. Explore the expansive realms, re-encounter the fiery personalities and relive the adventure in fully remastered glory. Because when there's a realm that needs saving, there's only one dragon to call.",
+        "price": 19.99,
+        "category": 6,
+        "sub_category": 6,
+        "platform": 1,
+        "rating": 4.8,
+        "image": "5030917242175_l.jpeg"
+    }
+}, {
+    "pk": 73,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001340155",
+        "name": "Assassin's Creed Odyssey ",
+        "description": "Write your own legendary Odyssey and live an epic adventure in a world where every choice matters. Sentenced to death by your family, embark on an epic journey from outcast mercenary to legendary Greek hero, and uncover the truth about your past. Forge your path through a war-torn world shaped by gods and men, where mountains and sea collide. Meet Ancient Greece's famous figures and discover a pivotal point in history that shaped western civilization. Assassin's Creed Odyssey brings player choice to the forefront through innovations never-before-seen in Assassin's Creed as you choose the hero you want to become and change the world around you. Through the relationships you build with colourful characters and the decisions you make along your Odyssey, it is you who is in control of your destiny. Customize your equipment and master new special abilities, tailoring your hero's skillset to your play style. Fight your way across Greece, engaging in visceral battles both on land and sea, to become a true hero of legend.",
+        "price": 12,
+        "category": 1,
+        "sub_category": 7,
+        "platform": 1,
+        "rating": 4.9,
+        "image": "3307216066569_l.jpeg"
+    }
+}, {
+    "pk": 74,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001600425",
+        "name": "Watch Dogs Legion",
+        "description": "Build a resistance made from anyone in the world to take back a near-future London that is facing its downfall.Recruit and play as anyone from London. Everyone you see has a unique backstory, personality, and skill set for unique situations.Hack armed drones, deploy spider-bots, and take down enemies using an Augmented Reality Cloak.Explore a massive urban open world featuring London's many iconic landmarks and fun side activities.Team up with your friends as you complete co-op missions and unique game modes.",
+        "price": 20,
+        "category": 1,
+        "sub_category": 7,
+        "platform": 1,
+        "rating": 4.7,
+        "image": "3307216135340_l.jpeg"
+    }
+}, {
+    "pk": 75,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001730010",
+        "name": "Assasin's Creed Origins",
+        "description": "Ancient Egypt, a land of majesty and intrigue, is disappearing in a ruthless fight for power. Unveil dark secrets and forgotten myths as you go back to the one founding moment: The Origins of the Assassin’s Brotherhood.Sail down the Nile, uncover the mysteries of the pyramids or fight your way against dangerous ancient factions and wild beasts as you explore this gigantic and unpredictable land.Engage into multiple quests and gripping stories as you cross paths with strong and memorable characters, from the wealthiest high-born to the most desperate outcasts.Experience a completely new way to fight. Loot and use dozens of weapons with different characteristics and rarities. Explore deep progression mechanics and challenge your skills against unique and powerful bosses.",
+        "price": 8,
+        "category": 1,
+        "sub_category": 7,
+        "special_category": 1,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "3307216029571_l.jpeg"
+    }
+}, {
+    "pk": 76,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001890157",
+        "name": "Grand Theft Auto V",
+        "description": "One of the biggest events of the last console generation is finally striding onto more powerful formats! GTA V finally makes its next-gen debut. With GTA IV having taken place in a decidedly east coast sort of setting in Liberty City, this game takes things over to the west coast. The action takes place in Los Santos and the surrounding countryside of San Andreas. Los Santos has seen better days. A sprawling metropolis full of faded stars, self-help gurus and desperate celebrities, the city has declined somewhat in the face economic uncertainty and cheap reality TV. In need of a big score are Franklin, a former street-level gangster; Michael, an ex-con living the high life in witness protection and Trevor, who's a bit on the sociopathic side. These are the three characters through whose eyes you'll see Los Santos. Of course, you'll do a lot more than looking around. The game is centred around six big heists, with plenty of driving, shoot-outs and other assorted missions to get stuck into in between. The open world map is huge, with hours upon hours of content on offer. If you should happen to get through it all, however, there's a whole other side to the game. GTA V also gets you access to GTA Online, a sprawling persistent world for you and up to 15 other players to play in either cooperatively or against each other in traditional competitive modes. With the next-gen version, players get the advantage of higher levels of detail than have ever been seen in GTA before, with better draw distances, finer texture detail and denser traffic to make the city seem more vibrant than ever.",
+        "price": 10.99,
+        "category": 1,
+        "sub_category": 7,
+        "platform": 2,
+        "rating": 4.5,
+        "image": "5026555284073_l.jpeg"
+    }
+}, {
+    "pk": 77,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002111605",
+        "name": "Red Dead Redemption 2 (2 Disc) (No DLC)",
+        "description": "Developed by the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America's unforgiving heartland. The game's vast and atmospheric world will also provide the foundation for a brand new online multiplayer experience.",
+        "price": 14.29,
+        "category": 1,
+        "sub_category": 7,
+        "rating": 5,
+        "platform": 2,
+        "image": "5026555358972_l.jpeg"
+    }
+}, {
+    "pk": 78,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002260206",
+        "name": "Star Wars Jedi: Fallen Order (No DLC)",
+        "description": "Following the events of Episode III - Revenge of the Sith and Senator Palpatine's deadly Order 66 - designed to destroy the Jedi order and pave the way for the Empire to rise - you are the last remaining Jedi Padawan and their last hope of survival.Pick up the pieces of your shattered past and complete your Jedi training, develop powerful Force abilities and master your Lightsabre on your quest to rebuild the Jedi. Fight to stay one step ahead of the Empire and its deadly Inquisitors, use your Jedi training to strategically approach every fight, and visit far-flung corners of the Star Wars galaxy, packed with characters, creatures, enemies and droids.",
+        "price": 12,
+        "category": 1,
+        "sub_category": 7,
+        "platform": 2,
+        "rating": 4,
+        "image": "5035223122449_l.jpeg"
+    }
+}, {
+    "pk": 79,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002440521",
+        "name": "Star Wars Battlefront",
+        "description": "Feeling the ominous thud of an AT-AT stomping down on the frozen tundra of Hoth. Rebel forces firing blasters as Imperial speeder bikes zip through the lush forests of Endor. Intense dogfights between squadrons of X-wings and TIE fighters filling the skies. Immerse yourself in the epic Star WarsTM battles you've always dreamed of and create new heroic moments of your own in Star WarsT BattlefrontT. Fight for the Rebellion or Empire in a wide variety of multiplayer matches for up to 40 players, or in exciting challenges inspired by the films available solo, split-screen or through online co-op. Star Wars Battlefront combines this epic action on a galactic scale with stunning visual recreations of some of the most iconic planets, weapons, characters, and vehicles in the Star Wars universe and the original sound effects from the films, to give Star Wars fans the ultimate, authentic and immersive interactive experience they've been looking for.",
+        "price": 2.5,
+        "category": 1,
+        "sub_category": 7,
+        "special_category": 2,
+        "platform": 2,
+        "rating": 4.1,
+        "image": "5030947121631_l.jpeg"
+    }
+}, {
+    "pk": 80,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002601115",
+        "name": "Gears Of War 4",
+        "description": "A new saga begins for one of the most acclaimed video game franchises in history. After narrowly escaping an attack on their village, JD Fenix and his friends, Kait and Del, must rescue the ones they love and discover the source of a monstrous new enemy. Features: Never Fight Alone: Enjoy two-player co-op with friends locally via split-screen, over Xbox Live or LAN. Player 2 can select either Kait or Del Redefined Cover Gameplay: New close-cover combat moves and combat-knife executions turn each piece of cover into an offensive opportunity Brutal New Weapons: An incredible arsenal of new weapons includes the Buzzkill and Dropshot, which can shoot around and over cover, raining destruction from all angles Explosive Versus Multiplayer: Compete online in new and favorite game types, all at 60fps on dedicated servers. A new visible ranking system means fairer matchmaking for social, competitive and professional players alike",
+        "price": 3,
+        "category": 1,
+        "sub_category": 7,
+        "special_category": 2,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "0889842121513_l.jpeg"
+    }
+}, {
+    "pk": 81,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002690715",
+        "name": "Avengers",
+        "description": "Assemble your team of Earth’s Mightiest Heroes, embrace your powers, and live your Super Hero dreams.Marvel’s Avengers is an epic, third-person, action-adventure game that combines an original, cinematic story with single-player. Assemble into a team of up to four players online, master extraordinary abilities, customize a growing roster of Heroes, and defend the Earth from escalating threats.",
+        "price": 20.5,
+        "category": 1,
+        "sub_category": 7,
+        "special_category": 1,
+        "platform": 2,
+        "rating": 4.3,
+        "image": "5021290085084_l.jpeg"
+    }
+}, {
+    "pk": 82,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002701115",
+        "name": "Mafia III",
+        "description": "After years of combat in Vietnam, Lincoln Clay knows this truth: family isn't who you're born with, it's who you die for. When his surrogate family, the black mob, is wiped out by the Italian Mafia, Lincoln builds a new family and blazes a path of military-grade revenge through the Mafioso responsible.Be Lincoln Clay, orphan and Vietnam veteran hell bent on revenge for the deaths of his surrogate family.Choose your own play-style; brute force, blazing guns or stalk-and-kill tactics, to tear down the Italian Mafia.Build a new criminal empire your way by deciding which lieutenants you reward, and which you betray.",
+        "price": 4.99,
+        "category": 1,
+        "sub_category": 7,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "5050013393069_l.jpeg"
+    }
+}, {
+    "pk": 83,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002761055",
+        "name": "Assassin's Creed Valhalla (No DLC)",
+        "description": "Stylish black-trim cook shirt from Chef Designs is just what you need for a confident, professional presence in the kitchen.  contrasting black stand collar black front buttons left chest pocket short hemmed sleeves squared bottom hem polyester/cotton washable imported of domestic fabric more sizes: regular, big",
+        "price": 30,
+        "category": 1,
+        "sub_category": 7,
+        "platform": 2,
+        "rating": 4.1,
+        "image": "3307216168041_l.jpeg"
+    }
+}, {
+    "pk": 84,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002820069",
+        "name": "Fallout 4 (No DLC)",
+        "description": "Bethesda Game Studios, the award-winning creators of Fallout 3 and The Elder Scrolls V: Skyrim, welcome you to the world of Fallout 4 - their most ambitious game ever, and the next generation of open-world gaming. As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland. Welcome home. Key Features: Freedom and Liberty! Do whatever you want in a massive open world with hundreds of locations, characters, and quests. Join multiple factions vying for power or go it alone, the choices are all yours. You're S.P.E.C.I.A.L! Be whoever you want with the S.P.E.C.I.A.L. character system. From a Power Armored soldier to the charismatic smooth talker, you can choose from hundreds of Perks and develop your own playstyle. Super Deluxe Pixels! An all-new next generation graphics and lighting engine brings to life the world of Fallout like never before. From the blasted forests of the Commonwealth to the ruins of Boston, every location is packed with dynamic detail. Violence and V.A.T.S.! Intense first or third person combat can also be slowed down with the new dynamic Vault-Tec Assisted Targeting System (V.A.T.S) that lets you choose your attacks and enjoy cinematic carnage. Collect and Build! Collect, upgrade, and build thousands of items in the most advanced crafting system ever. Weapons, armor, chemicals, and food are just the beginning - you can even build and manage entire settlements",
+        "price": 2,
+        "category": 1,
+        "sub_category": 7,
+        "special_category": 2,
+        "platform": 2,
+        "rating": 4.7,
+        "image": "5055856406266_l.jpeg"
+    }
+}, {
+    "pk": 85,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002820147",
+        "name": "Need For Speed Payback",
+        "description": "Need for Speed Payback now to receive the Platinum Car Pack. Drive straight into the action on the roads of Fortune Valley with instant access to five uniquely customised and tuned iconic cars, each with exclusive Platinum Blue Tyre Smoke.",
+        "price": 12,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "rating": 3.9,
+        "image": "5030947121563_l.jpeg"
+    }
+}, {
+    "pk": 86,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002910572",
+        "name": "Rocket League",
+        "description": "Stafford Big & Tall ribbed athletic t-shirts deliver the tagless comfort and breathable performance he needs.  super soft, quick-drying, durable fabric preshrunk for lasting fit reinforced durable stitching tag free cotton/polyester washable imported ",
+        "price": 10.49,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "rating": 4.5,
+        "image": "8023171037769_l.jpeg"
+    }
+}, {
+    "pk": 87,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002990740",
+        "name": "Need For Speed (NFS) Heat",
+        "description": "Go up against the city's rogue police force as you battle your way into street racing's elite in the latest entry in the Need for Speed series.Work hard by day and risk it all at night in Need for Speed Heat, a white-knuckle racer that pits you against rogue police officers as you fight to earn your place in the world of underground street racing.",
+        "price": 25,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "rating": 4.4,
+        "image": "5030938122487_l.jpeg"
+    }
+}, {
+    "pk": 88,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003050248",
+        "name": "Forza Horizon 3",
+        "description": "You're in charge of the Horizon Festival. Customize everything, hire and fire your friends, and explore Australia in over 350 of the world's greatest cars. Make your Horizon the ultimate celebration of cars, music, and freedom of the open road. How you get there is up to you. Explore Australia in over 350 Cars 7; Explore the Horizon Festival's Largest and Most Diverse World Ever. Drive through the vast desert and rocky canyons of the Outback to lush, wild rainforests, and the sandy beaches and gleaming skyscrapers of Australia's Gold Coast. 7; Choose from Over 350 of the World's Greatest Cars recreated with ForzaVistaT detail including full cockpit views, working lights and wipers, and new vehicle types bringing all-new driving experiences never before seen in Forza. 7; Discover New Driving Gameplay including Danger Sign Jumps, Convoys, and Drift Zones, which are just some of the exciting new driving challenges that await you. 7; Star in Thrilling Showcase Events that pit you and your car against a fleet of powerboats, even a giant zeppelin! You're in Charge 7; Hire and Fire Your Friends. You're the boss. Hire your friends' Drivatars to help you gain fans and expand your festival, and form Convoys with them to explore the world even when they're not online. If they're not winning you fans, fire them! 7; Create and Share Gameplay. Horizon Blueprint gives you the power to modify every aspect of race events, championships and Bucket List challenges - and instantly share your custom events with friends. 7; Customize Everything. Choose your driver character, create custom paint jobs and vanity license plates, add new body kits - even select your own car horn sound. 7; Drive to the Music You Love. Choose from eight diverse radio stations, or create a custom station from your own music collection with Groove Music. Start an Online Driving Adventure 7; Online 4-Player Co-op allows you and your friends to experience the variety, competition, and rewards of a Horizon campaign together for the first time. 7; Create Your Bucket List and challenge friends to beat you at your own game. 7; Rule the Leaderboards. Beat your rivals in every race event, Speed Camera, Danger Sign Jump, Drift Zone, and Bucket List you find; everything you do is a chance to one-up your friends. 7; Play the Auction House to find rare cars and incredible works of art by the most talented creators in the Forza community.",
+        "price": 10,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "rating": 4.7,
+        "image": "0889842150018_l.jpeg"
+    }
+}, {
+    "pk": 89,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003070787",
+        "name": "The Crew",
+        "description": "Take part in a relentless ride to infiltrate and overtake the 510s, a gang grown around Detroit's illegal street racing scene. Your plan? Get a rep on the underground-racing scene and sabotage their activities city-by-city all across the United States. Maneuver through the bustling streets of New York City and Los Angeles, cruise down sunny Miami Beach or trek through the breathtaking plateaus of Monument Valley. Each locale comes with its own set of surprises and driving challenges to master. On your journey you will encounter other players on the road - all potentially worthy companions to crew up with, or future rivals to compete against. This is driving at its most exciting, varied and open.",
+        "price": 4.99,
+        "category": 2,
+        "sub_category": 8,
+        "special_category": 2,
+        "platform": 2,
+        "rating": 4,
+        "image": "3307215748961_l.jpeg"
+    }
+}, {
+    "pk": 90,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003090182",
+        "name": "Wreckfest",
+        "description": "Break the rules and take full-contact racing to the limit with Wreckfest!Expect epic crashes, neck-to-neck fights over the finish line and brand-new ways for metal to bend - These are the once-in-a-lifetime moments that can only be achieved in Wreckfest, with its true-to-life physics simulation crafted by legendary developer Bugbear, who also brought you Flat Out 1 & 2!Burn rubber and shred metal in the ultimate driving playground!",
+        "price": 17.99,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "9120080072849_l.jpeg"
+    }
+}, {
+    "pk": 91,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003090186",
+        "name": "Project CARS 2",
+        "description": "Created by gamers and tested by a team of world-class racing drivers-including two-time Le Mans winner Tommy Milner, Audi factory driver René Rast, stunt driver Ben Collins (Skyfall, Doctor Strange), and Rallycross and sim racing champion Mitchell DeJong-Project CARS 2 continues to be the choice for the world's best Esports drivers and teams while delivering the full spectrum of motorsport racing for all levels of racers with complete freedom to choose what and where to drive. Anytime. Anywhere. Project CARS 2 invites racers to challenge a host of online opponents, or take on lifelike AI in the most beautiful, authentically-crafted, and technically advanced racing simulation game on the planet. Race without boundaries. Following the critical acclaim and success of Project CARS-one of the highest-rated racing games of its generation-Project CARS 2 shifts up a gear with a host of new and improved features and gameplay: -THE PINNACLE OF AUTHENTICITY: With the largest track roster ever on console, a wide selection of over 170 licensed cars from the most iconic brands, and support for VR and 12K; -THE HEAT OF COMPETITION: With a brand-new, fan-requested Online Championships game mode allowing racers to make and join ongoing racing leagues, Esports functionality built-in from day one (including Competitive Racing License accreditation), Director/Broadcaster integration and streaming, and an array of old and new motorsport classes including Rallycross, IndyCar, and many more; -THE POWER OF CONDITIONS: With every tarmac, mud, gravel, and dirt-covered surface utilizing LiveTrack 3.0 featuring dynamic time of day, seasonal changes, altering atmospheric conditions, and evolution over the course of a race weekend. Fight against Mother Nature with dynamic weather that now includes snow, and take on the challenge of ice-based tracks such as the official Mercedes-Benz Driving Events Winter Training Ice Track in Sweden. This specific track in the game is a faithful recreation of an exclusive venue that Mercedes-Benz has established near the town of Sorsele in the very north of Sweden. Set on a frozen ice lake, this track is teaching and testing everybody's driving skills on snow & ice in a perfect manner - equally in the game as in real life.",
+        "price": 3.5,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "rating": 4.4,
+        "image": "3391891993531_l.jpeg"
+    }
+}, {
+    "pk": 92,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003161326",
+        "name": "The Crew 2",
+        "description": "If there's one nation that's really been built by and for motorised travel, it's the United States of America. No country has embraced the car quite like the US, and there's arguably not a game that celebrates that spirit more than The Crew 2, Ubisoft's open-world racing game. There's an inherent glee in barreling right from one cost of the country to the other, hurling yourself round corners at breakneck speeds, piling from the top of buildings and tearing up the cities and landscapes in your wake and accruing multiplier after multiplier, getting rewards piled on top of you as fast as you can drive. The open world of The Crew 2 is limited only by US borders. From the tightly-packed streets of New York to the misty mountains of the Rockies, the country is open to you in all its glory. With the inclusion of planes and power boats, there's really no limit to what you can explore.",
+        "price": 10.99,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "rating": 4.4,
+        "image": "3307216024774_l.jpeg"
+    }
+}, {
+    "pk": 93,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003230723",
+        "name": "Forza Horizon 2",
+        "description": "Race through a massive wide-open world featuring dramatic weather and day-to-night cycles. Instantly connect with friends in the ultimate celebration of speed, style, and action-packed driving. Explore beautiful and exotic locations in more than 200 of the world's greatest cars, all created with precise detail in stunning 1080p. Features: Explore a Massive, Living Open World - A world of beauty and freedom awaits. The next evolution of the best-in-class Forza graphics engine delivers full day and night cycle with spectacular weather, lighting, and visual effects. An epic road trip career mode adapts to your car choices with hundreds of events across a beautiful and diverse European landscape. However you like to play, there is an endless variety of free-roam driving fun. Whether you're racing, hunting hidden treasures like exotic barn find cars, or showing off your customized rides at car meet locations spread across the world, the choice is yours. Action-Packed Driving - Take risks and earn rewards for showing off your driving skills and style. Smash through fences onto back country dirt trails, plow though fields of crops and dense forests, and discover new shortcuts on your thrilling, high- speed adventures. Race against aircraft and trains in thrilling Showcase events. Make your name at the Horizon Festival. Whether you're racing in traffic, catching huge air, or racking up skill points and combos with awesome stunts, your legacy begins here. Instantly Connect with Friends on Xbox One. Jump between solo and online play instantly. No lobbies, no waiting. Join friends online and free roam together, compete in races and team modes, or take part in fun co-op Bucket List challenges. Join or create your own Car Club of up to 1000 members to expand your network of friends and rule the leaderboards. In solo play, DrivatarT technology fills your world with your friends even when they aren't online. Your Ultimate Car Fantasy - Drive more than 200 of the world's greatest cars. A diverse collection of amazing vehicles ranging from extreme off-roaders to modern supercars, classic muscle, and much more. Every car and truck is recreated in obsessive detail, with full cockpit views, including functional windshield wipers, working headlights, and authentic interiors. The Horizon Festival invites you to join its celebration of cars, music, freedom, and fun on the world's greatest roads. Get ready for the road trip of your life!",
+        "price": 7.99,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "rating": 4.7,
+        "image": "0885370861440_l.jpeg"
+    }
+}, {
+    "pk": 94,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003270936",
+        "name": "Forza Horizon 4",
+        "description": "Enjoy the largest and most diverse Horizon car roster yet, including over 100 licensed manufacturers.In the open-ended campaign, everything you do progresses your game.Real players populate your world. When time of day, weather and seasons change, everyone playing the game experiences it at the same time.This is Britain Like You've Never Seen it. Discover lakes, valleys, castles and breathtaking scenery all in spectacular native 4K and HDR.",
+        "price": 29.99,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "special_category": 1,
+        "rating": 4.8,
+        "image": "889842392432_l.jpeg"
+    }
+}, {
+    "pk": 95,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003360384",
+        "name": "Need For Speed Rivals",
+        "description": "When your workday calls for a heavyweight tee, grab this long-sleeve one from Dickies and enjoy industrial-strength comfort from the brand you trust.  chest pocket tagless back neck taped neck and shoulder seams cotton washable imported",
+        "price": 7.99,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "rating": 4.3,
+        "image": "5030930111359_l.jpeg"
+    }
+}, {
+    "pk": 96,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003440111",
+        "name": "Need For Speed",
+        "description": "Need for Speed is a full reboot of this storied franchise. The game delivers on what the fans want, and what Need for Speed stands for - deep customisation, authentic urban car culture, a nocturnal open world, and an immersive narrative that pulls you through the game. Fuelled by EA's own car culture community, Speedhunters, Need for Speed will deliver an experience that's grounded in authentic car culture by diving into the rich world of past, present and emergent trends of the urban car scene. This collaboration with Speedhunters in the research and development of the game means the level of detail and real-world authenticity will envelop gamers in an exciting world to discover and enjoy in a way that only Need for Speed can deliver.",
+        "price": 8,
+        "category": 2,
+        "sub_category": 8,
+        "platform": 2,
+        "rating": 4.1,
+        "image": "5030930113742_l.jpeg"
+    }
+}, {
+    "pk": 97,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003540313",
+        "name": "Call Of Duty Black Ops III",
+        "description": "Treyarch, developer of the two most-played games in Call of Duty history, returns with Call of Duty: Black Ops III. For the first time with three years of development, the revered, award-winning studio has created its first title for next-gen hardware in the critically acclaimed Black Ops series.Welcome to Call of Duty: Black Ops III, a dark, twisted future where a new breed of Black Ops soldier emerges and the lines are blurred between our own humanity and the technology we created to stay ahead, in a world where cutting-edge military robotics define warfare.",
+        "price": 10,
+        "category": 3,
+        "sub_category": 9,
+        "platform": 2,
+        "rating": 4.4,
+        "image": "5030917162282_l.jpeg"
+    }
+}, {
+    "pk": 98,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003560513",
+        "name": "Call of Duty: WWII",
+        "description": "After jaunts to every-when from the 1970s to the far-flung future, the Call of Duty series is returning to its roots with Call of Duty: WWII. Once again players will take to the battlegrounds of Europe in a bid to oust the evil of National Socialism from the world, but this time out they'll be doing it on the hardware of 2017 and with the benefit of lessons learned from multiple series installments. Activision and Sledgehammer Games are aiming squarely at the goal of delivering a gritty, cinematic World War II experience. You'll storm the beaches on D-Day, march across France to liberate Paris and ultimately push on for the invasion of Germany. There's even, in multiplayer, a map that offers players a chance to fight in Blitz-torn London. While the series is clearly going back to its roots in one sense, Sledgehammer has clearly learned from the games between the last CoD set in WWII and now. Most obvious is the inclusion of all the usual killstreaks, but CoD aficionados will also note the likes of turret gunning from Modern Warfare 2; maps with a hint of Black Ops 3 and Infinite Warfare's momentum-driven layouts to them and paratroopers who call back to World at War's attack dogs. There are certainly new additions too, however. War mode is a new narrative-driven multiplayer mode that has Allied and Axis forces clash in team-driven assault and defend missions. Headquarters, meanwhile, is a new social and competitive experience for players, with activities like 1v1 fights, anti-aircraft gunnery and eSports viewing available. Call of Duty: WWII also introduces Nazi Zombies, an all-new co-op experience with its own storyline set against the backdrop of World War II.",
+        "price": 8,
+        "category": 3,
+        "sub_category": 9,
+        "platform": 2,
+        "rating": 4.5,
+        "image": "5030917215087_l.jpeg"
+    }
+}, {
+    "pk": 99,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003560948",
+        "name": "Call Of Duty: Black Ops 4",
+        "description": "Call of Duty: Black Ops 4 delivers the deepest and most tactical multiplayer experience ever created for the series, along with a huge day-one ‘zombies’ experience that will feature three times as many adventures.Blackout, an all-new competitive mode inspired by ‘battle royale’ brings together characters, locations, weapons and gear from across the series in all-out survival combat - all with a unique Black Ops twist.",
+        "price": 7.99,
+        "category": 3,
+        "sub_category": 9,
+        "platform": 2,
+        "rating": 4.2,
+        "image": "5030917238925_l.jpeg"
+    }
+}, {
+    "pk": 100,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003570628",
+        "name": "Call of Duty: Modern Warfare (2019)",
+        "description": "The stakes have never been higher as players take on the role of lethal Tier One operators in a heart-racing saga that will affect the global balance of power. Developed by the studio that started it all, Infinity Ward delivers an epic reimagining of the iconic Modern Warfare series from the ground up.Prepare to go dark Modern Warfare is backIn the visceral and dramatic single-player story campaign, Call of Duty : Modern Warfare pushes boundaries and breaks rules the way only Modern Warfare can.",
+        "price": 33.99,
+        "category": 3,
+        "sub_category": 9,
+        "platform": 2,
+        "rating": 4.8,
+        "image": "5030917285776_l.jpeg"
+    }
+}, {
+    "pk": 101,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003620308",
+        "name": "Rainbow Six: Siege",
+        "description": "Rainbow Six Siege will, if Ubisoft Montreal has anything to do with it (and they do, what with them being the developers), take the original Tom Clancy action game series back to its roots. The emphasis is squarely on tactical gameplay, with a swift death always waiting around the corner. Multiplayer is at the heart of the game, and players take on the role of a counter-terrorist operative tasked with ending (the clue's in the title) terrorist sieges. Or, in the multiplayer mode, they might be one of those pesky terrorists themselves. With tactical play at the heart of the game defenders will need to secure their strongholds using teamwork and strategy. Counter terrorism operatives, meanwhile, can use tactical maps, observation drones and a new rappel system to work out how to deal with their enemies. As 'short-range' specialists, players will need to work primarily in indoor, close-quarters environments as bullets fly all around them. Right at the core of the game is a previously unseen level of destructability in the environme.",
+        "price": 7.99,
+        "category": 3,
+        "sub_category": 9,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "3307215889282_l.jpeg"
+    }
+}, {
+    "pk": 102,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003690115",
+        "name": "Call of Duty Infinite Warfare Legacy Edition ",
+        "description": "Activision and its developers have been inching towards science fiction with the Call of Duty franchise for years now, but with Infinite Warfare they've finally taken the plunge. In the campaign mode you play as Captain Reyes, a Tier 1 Special Operations pilot at the helm of the Retribution, one of Earth's last remaining warships, in a conflict not just for our planet, but for the whole solar system. See, in Infinite Warfare's future the Earth's resources are spent and our world relies on colonies spread across the solar system to provide it with resources. Not all the colonies are happy with this set-up, though, and the fascist SetDef, hardened by years in extreme environments, seeks to control these outposts and put a stranglehold on the countries of Earth. It's into this conflict that you step. As is befitting this interplanetary set-up, the action takes place across a wide array of environments that bring their own twists on gameplay. In particular, Infinity Ward has included zero-g combat, in which players can move around using a grappling hook and attempt to outflank their enemies. One example is a rapidly-spinning, airless asteroid that's repeatedly baked in searing sunlight. It doesn't get much more tense than that... Another big addition is the Jackal, a futuristic fighter jet that players can take control of. This backdrop will bring brand new challenges to the game's multiplayer, with maps that are designed to leverage tweaks to Call of Duty's movement system for faster, more frenetic play than ever. All this sci-fi action means we get an interesting twist on zombies mode. Zombies in Spaceland takes players back in time to a 1980s amusement park with its After Life Arcade, Fate & Fortune Cards and brand new team mechanics. The Legacy Edition comes with a huge extra treat, too. Modern Warfare Remastered is packed in there, bringing the Call of Duty classic to current generation consoles with a graphical overhaul, iconic campaign and 10 fan favourite multiplayer maps!",
+        "price": 6,
+        "category": 3,
+        "sub_category": 9,
+        "platform": 2,
+        "rating": 4.4,
+        "image": "5030917196997_l.jpeg"
+    }
+}, {
+    "pk": 103,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003690116",
+        "name": "Call Of Duty Infinite Warfare",
+        "description": "Activision and its developers have been inching towards science fiction with the Call of Duty franchise for years now, but with Infinite Warfare they've finally taken the plunge. In the campaign mode you play as Captain Reyes, a Tier 1 Special Operations pilot at the helm of the Retribution, one of Earth's last remaining warships, in a conflict not just for our planet, but for the whole solar system. See, in Infinite Warfare's future the Earth's resources are spent and our world relies on colonies spread across the solar system to provide it with resources. Not all the colonies are happy with this set-up, though, and the fascist SetDef, hardened by years in extreme environments, seeks to control these outposts and put a stranglehold on the countries of Earth. It's into this conflict that you step.",
+        "price": 5,
+        "category": 3,
+        "sub_category": 9,
+        "platform": 2,
+        "rating": 4.2,
+        "image": "5030917196874_l.jpeg"
+    }
+}, {
+    "pk": 104,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003780391",
+        "name": "Battlefield 1",
+        "description": "Only in Battlefield 1 will you bring a horse to a tank fight and squad-up with your allies in epic multiplayer battles with up to 64 players. Through ever-changing environments at the dawn of all-out war, no battle is ever the same. Battlefield 1 takes you across multiple and varied locations in a bid to fight your way through immersive battles. From tight urban fights in a besieged French city, to big open spaces in the Italian Alps and frantic combats in the deserts of Arabia, discover a world at war through an adventure-filled campaign. In a true multiplayer sandbox experience, take to the skies and engage in high-octane dogfights through treacherous landscapes, or have a battleship obliterating the coast from the sea, and engage in some of the biggest battles ever seen as empires clash for supremacy. Set against the backdrop of World War 1, witness the birth of modern warfare, as the Great War saw a furious arms race with new machines and weapons created to get the upper hand during the most technologically divergent war of all time. Feel the intensity and immersion as Battlefield 1 takes advantage of this modern arsenal to deliver the experience fans love, but with a fresh and modern twist.",
+        "price": 2,
+        "category": 3,
+        "sub_category": 9,
+        "special_category": 2,
+        "platform": 2,
+        "rating": 4.5,
+        "image": "5030948113765_l.jpeg"
+    }
+}, {
+    "pk": 105,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003790542",
+        "name": "Call Of Duty: Advanced Warfare",
+        "description": "Call of Duty: Advanced Warfare takes the stellar blockbuster franchise and shifts it in a new direction. The biggest change for fans of the Call of Duty series will be the fact that for the first time, development isn't led by series veterans Infinity Ward or Treyarch, but by relative newcomer Sledgehammer Games. With a new team comes a somewhat new direction. While Call of Duty: Black Ops II pushed things into the near future of 2025, Advanced Warfare takes things further. The game puts players in the futuristic gear of Jack Mitchell. It's a future where the world has been devastated by a global attack and Atlas, a Private Military Corporation, is effectively a superpower for hire. Activision has gone to pains to state that this is a carefully researched future, so don't expect black hole guns or laser blasters. The most immediate impact of this premise, then, is the exoskeleton players wear. This piece of kit enhances the player's movement with bigger leaps, dashes and dodges. The exoskeleton, along with the futuristic weaponry on offer, changes the way gamers will play Call of Duty, and of course that extends to the game's multiplayer. All of this is polished off with a revamped Create-a-Class feature, offering the deepest customisation options in a Call of Duty game yet.",
+        "price": 4.99,
+        "category": 3,
+        "sub_category": 9,
+        "platform": 2,
+        "rating": 4.2,
+        "image": "5030917147722_l.jpeg"
+    }
+}, {
+    "pk": 106,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003831225",
+        "name": "Call of Duty: Black Ops Cold War",
+        "description": "The iconic Black Ops series is back with Call of Duty: Black Ops Cold War - the direct sequel to the original and fan-favorite Call of Duty: Black Ops.Black Ops Cold War will drop fans into the depths of the Cold War's volatile geopolitical battle of the early 1980s. Nothing is ever as it seems in a gripping single-player Campaign, where players will come face-to-face with historical figures and hard truths, as they battle around the globe through iconic locales like East Berlin, Vietnam, Turkey, Soviet KGB headquarters and more.As elite operatives, you will follow the trail of a shadowy figure named Perseus who is on a mission to destabilise the global balance of power and change the course of history. Descend into the dark center of this global conspiracy alongside iconic characters Woods, Mason and Hudson and a cast of operatives attempting to stop a plot decades in the making.Beyond the Campaign, players will bring a Cold War arsenal of weapons and equipment into the next generation of Multiplayer and Zombies experiences.",
+        "price": 48,
+        "category": 3,
+        "sub_category": 9,
+        "special_category": 1,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "5030917291968_l.jpeg"
+    }
+}, {
+    "pk": 107,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003861402",
+        "name": "Halo 5: Guardians",
+        "description": "A mysterious and unstoppable force threatens the galaxy, the Master Chief is missing and his loyalty questioned. Experience the most dramatic Halo story to date in a 4-player cooperative epic that spans three worlds. Challenge friends and rivals in new multiplayer modes: Warzone, massive 24-player battles, and Arena, pure 4-vs-4 competitive combat.New, massive-scale multiplayer mode that supports 24-player battles with both friendly and enemy AI dropping in. It’s nonstop action when you confront Spartans, Covenant, and Forerunners while trying to complete a variety of objectives.Prepare for nonstop action with Warzone. This all-new, massive-scale multiplayer mode features 24-player battles (12-vs-12) with both friendly and enemy AI dropping in to pump up the mayhem. The first team to score 1,000 points or destroy the other guys wins.Fireteam AI adds a new level of drop-in/drop-out co-op excitement by keeping four Spartans active at all times. It's designed to be completely autonomous, and when controlled by AI, your teammates support you by navigating the environment and reacting dynamically throughout combat.Halo's legacy of pure, skill-based 4-vs-4 competitive combat lives on in Guardians' thrilling Arena multiplayer mode. Rely on your smarts and work with your teammates as you go for the kill and assert your dominance.",
+        "price": 3.99,
+        "category": 3,
+        "sub_category": 9,
+        "special_category": 1,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "885370929522_l.jpeg"
+    }
+}, {
+    "pk": 108,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003910638",
+        "name": "Far Cry 5",
+        "description": "For the first time ever, Far Cry is going to America. Players arrive in Hope County, Montana, as the new junior deputy. It's bad news for everyone (except the player) as this arrival accelerates a years-long coup by a murderous doomsday cult, the Project at Eden's Gate, and triggers a violent takeover of the county. Cut off from the rest of the world, players must range over a vast open environment of farmland, forest and mountains, to form a resistance and take it back piece by piece. Much of how Far Cry 5 plays out will be pleasingly familiar to fans of the series. It's still about capturing outposts, hunting wildlife and exploring a massive world, but certain tweaks and a greater emphasis on characters and cooperation change things up a bit. One difference is that everything you do contributes to your 'resistance' meter, and as this increases cult leader Joseph Seed will get more irate, dragging you into story missions and throwing greater defenses at you. Another is a greater emphasis on teamwork. You can play the whole game online in co-op mode, as well as recruit hired guns to help you in your crusade to take back Hope County. You can recruit fighters with different skillsets, adding a greater tactical element to the game than previous series outings. In other words, Far Cry 5 is offering players to get deeper into the game's world than ever before.",
+        "price": 9.99,
+        "category": 3,
+        "sub_category": 9,
+        "special_category": 1,
+        "platform": 2,
+        "rating": 4.4,
+        "image": "3307216016649_l.jpeg"
+    }
+}, {
+    "pk": 109,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003950574",
+        "name": "Fifa 21",
+        "description": "Win as one in EA SPORTS FIFA 21, with new ways to team up on the street and in the stadium to enjoy even bigger victories together.Create more scoring opportunities than ever before with all-new dynamic attacking systems in the most intelligent FIFA gameplay to date; FIFA 21 raises players’ intelligence and decision-making to new levels both on and off the ball, creating more realistic and informed movement, building on the intensity of 1v1 situations, and unlocking the conditions for a true-to-life footballing experience that rewards you for your creativity and control all over the pitch.Manage Every Moment in FIFA 21 Career Mode with new innovations that create additional depth in matches, transfers, and training to give you more control over your team’s rise to the top and make it easier than ever for you to begin your managerial career.More ways to play; More customisation; More locations; Experience the soul of the streets together with friends as you show off your style in cages and courts around the world throughout various forms of small-sided football.Enjoy brand new ways to play the most popular mode in FIFA as you build your dream squad of players past and present in FIFA 21 Ultimate Team.",
+        "price": 23.99,
+        "category": 4,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 4.5,
+        "image": "5030935124422_l.jpeg"
+    }
+}, {
+    "pk": 110,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003950576",
+        "name": "Fifa 20",
+        "description": "As the 2019/2020 season kicks into high gear, EA's FIFA series is back with a host of improvements and one big new twist on its classic formula. With FIFA 20 EA Sports is taking the beautiful game back to the streets for a more casual, creative version of the sports know and love. Pitches are swapped out for courts and cages, sponsored kits are swapped out for casual-wear and tight formations and tactics are swapped out for a more dramatic style of play that's fast and fancy. Configurations include 3v3, 4v4, and 5v5 modes, as well as rush, where there's no keeper. Less obvious but no less important are changes that have been made under the hood. EA has been playing around with the pillars of how matches move and flow, crafting what it calls Football Intelligence around 'decisive moments' (play on the ball); 'authentic game flow' (off the ball) and ball physics (which sort of explains itself). As ever, fidelity to real world elements of the game is a big part of FIFA. The UEFA Champions League; UEFA Europa League and UEFA Super Cup are all present, accounted for and fully licensed, complete with official broadcast overlays, kit badges, match balls and trophies. Returning fans will also be glad of returning modes including FIFA 20 Ultimate Team, Career Mode, a standalone Champions League Mode. Basically, EA Sports FIFA 20 is the full package!",
+        "price": 5,
+        "category": 4,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 3.9,
+        "image": "5030936122564_l.jpeg"
+    }
+}, {
+    "pk": 111,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003960062",
+        "name": "Trials Fusion",
+        "description": "Welcome to the next generation of Trials! Set in a shining vision of what our future could be, where technology and nature co-exist as a splendid backdrop for the most popular and exciting motorsport of the era, Trials Fusion retains and enhances the vital features from the best-selling and critically acclaimed games Trials Evolution and Trials HD. It melds the classic, proven Trials formula of simple yet addictive competition with the social and visual breakthroughs.",
+        "price": 4,
+        "category": 4,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 4.1,
+        "image": "3307215777572_l.jpeg"
+    }
+}, {
+    "pk": 112,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003960682",
+        "name": "Rugby 15",
+        "description": "The brand new rugby union simulation arrives on your next-generation console! Next-generation graphics unrivalled in a rugby union game, voices by the real TV commentators, accessible and precise controls, and emergent AI that dynamically adapts to situations and your playing style, so you experience all of the emotions of rugby union with the only official TOP 14 simulation! Take the helm of official teams and clubs from the most prestigious leagues: the Aviva Premiership Rugby, the PRO 12 and, in a world exclusive, the TOP 14 and PRO D2! Share your passion for rugby with players from around the world through the online social features and tables. Features: - One of the most broadcast, reported and watched sports worldwide - A game developed by HB Studios, sport game experts (Madden NFL, FIFA...) and creators of Rugby World Cup 2011 - For the first time in a rugby videogame, carry out technical moves like cross passes, up-and-unders and behind-the-back passes - Authenticity guaranteed through the involvment of an international level consultant, Lewis Moody, 71 caps for England, five-time champion of England and World Champion in 2003.",
+        "price": 4,
+        "category": 4,
+        "special_category": 2,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 3,
+        "image": "3499550330090_l.jpeg"
+    }
+}, {
+    "pk": 113,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003960775",
+        "name": "Tour De France 2019",
+        "description": "The yellow jersey is yours!The official route of the 21 stages of the 2019 Tour de France has been reproduced down to the last detail, and will take you from Belgium to the Champs-Elysées.You can also play online for the first time in the history of the series, challenging up to 3 other players in shorter, more intense races.Descents, sprints, team tactics. Experience the Tour from inside the peloton!",
+        "price": 20,
+        "category": 4,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 4.2,
+        "image": "3499550375343_l.jpeg"
+    }
+}, {
+    "pk": 114,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003990736",
+        "name": "Hunter, The: Call Of The Wild",
+        "description": "Avalanche, the studio behind the massively successful open world action Just Cause series, has gone in a slightly unexpected direction with its latest game. Eschewing the fast-paced, over the top antics of the franchise it made its name on, the studio has made a quieter, more meditative game that nonetheless places a lot of emphasis on tension and skill. theHunter: Call of the Wild offers players two huge open world environments in which to immerse themselves in nature and see if they have the skill to kill some of the world's most exciting game. This is no run-and-gun shootfest. First you'll need to track and find your prey, something that requires keen observation and patience. As you sneak up on it, stealth is crucial. If you disturb some brush or break a branch, there's every chance the stag you're stalking will hear you and bolt, remaining on high alert and potentially sending any other potential kills bolting. Similarly, taking your shot requires a lot of precision. If you don't take it down with your first shot, you might not get a second. theHunter: Call of the Wild is certainly a game that rewards patience and care, while immersing the player some of the most beautiful environments on the planet.",
+        "price": 15,
+        "category": 4,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 3.7,
+        "image": "4041417850129_l.jpeg"
+    }
+}, {
+    "pk": 115,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003990746",
+        "name": "Euro Fishing",
+        "description": "Dovetail Games Euro Fishing immerses you deep into the adrenaline-packed action, fun and beauty of Europe's most famous lakes. Master your rod, line and tactics, and refine your technique to become a top angler. This is the closest you can get to real fishing from the comfort of your own couch. Welcome to the Great Indoors! Whether you're a fishing beginner or angling pro, Dovetail Games Euro Fishing accurately and authentically replicates the feeling of actual fishing using our unique physics-based casting and reeling system, 'Total Cast Control'. Start by learning the basics of casting with in-game tutorials, or dive straight into one of the five unique European locations included, such as the famous St John's Pool at Linear Fisheries and Digger Lakes, each posing their own unique challenge to land the big catch. Using advanced AI and customisable environment effects, fish respond to water temperature, time of day, weather conditions and baits as they do in real life. Spot fish 'shows' before casting into the right area from a pre-set peg or the lake bank, and customise your angling equipment for the best chance of landing a catch. In Dovetail Games Euro Fishing, you can fish by yourself, or compete against friends and opponents in single player or hosted multiplayer tournaments, tracking and comparing catches in real time.",
+        "price": 26.99,
+        "category": 4,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 4.8,
+        "image": "5016488131360_l.jpeg"
+    }
+}, {
+    "pk": 116,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004111503",
+        "name": "Madden NFL 25",
+        "description": "This year's Madden game celebrates 25 years of innovation and unlocks the power, precision, and creativity of the NFL ball carrier. Whether you're a slashing running back, dual-threat QB, or ball-hawking safety, fans will be able unleash 30 new moves and string together devastating combos with the all-new precision modifier. Year two of the award-winning Infinity Engine brings both a more polished physics simulation and introduces the all-new Force Impact System. Power moves including the Hit Stick, Truck, dive tackle and stiff-arm have been completely redesigned to harness the full potential of Infinity Engine 2, giving you more control over the outcome of a play than ever before. Infinity Engine 2 also introduces a suite of new features and improvements, including hard run cutting for more natural changes of direction, user-controlled stumble recovery, improved run blocking, new post-play logic and more. On defense, new tackle pursuit angles and breakdown behavior create a more authentic defensive experience. Defenders can now utilize hard cuts to recover quickly when caught out of position to get back into the play, and the introduction heat-seeker tackling, special lunge tackles and more accurate dive tackles create the ultimate game of cat-and-mouse between the offense and defense. Embraced by fans and honored by critics for 25 years, Madden NFL is known as the NFL's 33rd Franchise due to its authentic gameplay, the development team's unparalleled access to NFL resources and its prominent place in NFL culture.",
+        "price": 2,
+        "category": 4,
+        "special_category": 2,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 4.5,
+        "image": "5030949111326_l.jpeg"
+    }
+}, {
+    "pk": 117,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004230059",
+        "name": "8 To Glory",
+        "description": "8 To Glory - Bull Riding, the official game of the PBR, gives you the full experience of being a professional bull rider in the TOUGHEST SPORT ON DIRT. Show your skills against the toughest bulls in the sport today. Play season mode and progress through the actual 2018 circuit from New York City to the World Finals in Las Vegas. Unlock bulls and riders that you can challenge anytime and gain points on your road to the championship. Challenge a friend to local head-to-head mode, where one player is the rider and the other controls a famous PBR bulls.",
+        "price": 4,
+        "category": 4,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 4.5,
+        "image": "9120080073389_l.jpeg"
+    }
+}, {
+    "pk": 118,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004310089",
+        "name": "Don Bradman Cricket",
+        "description": "Don Bradman Cricket 14 includes: -Career Mode, allowing you to take control of an aspiring young cricketer and take him through the ranks to International glory. -Unique Batting and Bowling Controls, giving full 360 Shot control and Line and Length delivery without pitch markers. -A fully featured fielding system that allows you to run down the ball and slide to prevent a Four, catch a high ball on the boundary rope, or knock down the stumps to take a vital run out. You are always involved in the play at every stage of the game! -Ball Physics giving realistic Edges, bat pad catches and movement off the pitch. -A complete player physics system with individual attributes including weight and height - ?imagine running in a 2 metre bowler to deliver that perfect bouncer! -Appeal and Electronic Review system allowing for the first time challenges of the umpires ?decision. -Practice Nets, Hone your skills to perfection before taking to the field. -Dynamic time of day, Weather System and Pitch Degradation that are based on real world ?data with effects occurring in real-time throughout a days' play. -The Cricket Academy, allowing for unparalleled customisation of your Cricket experience, ?creating Teams, players, Tours, Competitions, Match Types and even Umpires. -More than 4000 Community created Players and teams ready to download and use in game. -An online Save system that lets you continue your match whenever you want with online opponents.",
+        "price": 3.5,
+        "category": 5,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 4.5,
+        "image": "9312590111600_l.jpeg"
+    }
+}, {
+    "pk": 119,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004610254",
+        "name": "Don Bradman Cricket 17",
+        "description": "Don Bradman Cricket 17 includes a variety of enhancements from the previous release, as well as a multitude of new features to get gamers really excited. Known for its unparalleled, deep, character creation options with male players and teams, gamers will now be able to extend the same level of customisation with female players. They will also be able to create teams from scratch to square off against the world's best, and upload their favourite teams so other gamers can import them into their own game. Career Mode One of the most popular gameplay modes in the original Don Bradman Cricket was the career mode. This has been substantially expanded, with new features including: - Club Cricket - You'll begin your career at the local level, playing for teams in your own starting region before ascending to domestic and international levels. - Dynamic Squads - Teams will change as players around you age and retire, get injured, go in and out of form, get selected or dropped from higher levels of play. - Be a Pro - This option allows the user to take a pre-existing player and begin a career with them. - Play as Team - Allow the user to play as the whole team in career mode if they choose to. More Character Creation Options In addition to a greatly expanded creation options around facial features, tattoos, and so on, Don Bradman Cricket will also have a full and comprehensive stadium creator mode that will allow players to recreate their own local cricket ground in-game.",
+        "price": 5,
+        "category": 4,
+        "sub_category": 10,
+        "platform": 2,
+        "rating": 4,
+        "image": "9312590111846_l.jpeg"
+    }
+}, {
+    "pk": 120,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004650050",
+        "name": "AO International Tennis",
+        "description": "AO International Tennis is the most advanced tennis game ever produced.AO International Tennis combines fully licensed, photo realistic players with a decade’s worth of historical shot data that enhances their AI so that they play just like their real-life counterparts, right down to shot selection at any given point of time in a match.PLAY THE AUSTRALIAN OPEN - AO International Tennis is the officially licensed game of the Australian Open. Take the title in Singles, Doubles or Mixed Doubles.LICENSED PLAYERS and STADIA - Dozens of fully licensed male and female players, including Rafael Nadal and Angelique Kerber in licensed tennis stadia such as Rod Laver Arena.ARTIFICIAL INTELLIGENCE - Based on ten years of ball tracking data taken from Australian Open championship matches, players behave as they would in real life.MOTION CAPTURE - Professional players have been 3D scanned and motion captured in order to bring the most authentic tennis game to date.HARD COURT, CLAY OR GRASS - Play on your surface of choice, each has a distinct play style and presents different challenges.PLAY ONLINE - Challenge the world and become the world champion from the comfort of your living room.PLAYER CREATOR - Comprehensive player creator allowing you to create yourself or anyone else - bring your game to the world’s best!",
+        "price": 9.99,
+        "category": 4,
+        "platform": 2,
+        "sub_category": 10,
+        "rating": 4.3,
+        "image": "9352522000077_l.jpeg"
+    }
+}, {
+    "pk": 121,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004821375",
+        "name": "Dead Rising 3",
+        "description": "Anything and everything is a weapon in Dead Rising 3 where you’ll explore, scavenge and fight to survive in a massive open world overrun with zombies.More Zombies than ever before: Players will face overwhelming zombie hordes with tons of variation, detailed gore, and shared awareness.All new city, massive open world: Explore the city of Los Perdidos while staying immersed in the action and stunning new-generation visuals.Anything and Everything is a Weapon: Create your own tools of zombie destruction by combining hundreds of potential weapon combinations.SmartGlass: Use your Xbox SmartGlass enabled device to gain access to exclusive missions, new weapons, and more.Kinect: Kinect allows the zombie horde to hear beyond the screen and respond to noise in your living room, so go ahead and flip off the lights…if you dare.",
+        "price": 5.99,
+        "category": 5,
+        "sub_category": 11,
+        "platform": 2,
+        "rating": 4.8,
+        "image": "885370663945_l.jpeg"
+    }
+}, {
+    "pk": 122,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004900522",
+        "name": "Gears Of War: Ultimate Edition",
+        "description": "The story of “Gears of War” thrusts gamers into a deep and harrowing battle for survival against the Locust Horde, a nightmarish race of creatures that surface from the depths of the planet. Players live and breathe the role of Marcus Fenix. A disgraced former war hero, Marcus seeks personal redemption as he leads his fire team against an onslaught of merciless warriors from below.Rebuilt from the ground up: The landmark original Gears of War has been completely rebuilt from the ground up in full 1080P. Every aspect of the game including lighting, environments, characters, and cinematic scenes have been beautifully recreated - this is the first at its best.New campaign missions: Included are five exhilarating campaign missions never played before on console that follow Delta Squad as they battle their way to Timgad Station.Gears of War comic books: Go deeper into Gears fiction with five Gears of War comic books, which can be unlocked and read within the game.",
+        "price": 4,
+        "category": 5,
+        "sub_category": 11,
+        "platform": 2,
+        "rating": 4.8,
+        "image": "885370951592_l.jpeg"
+    }
+}, {
+    "pk": 123,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004910158",
+        "name": "Dead by Daylight",
+        "description": "Dead by Daylight is an asymmetrical multiplayer horror game in which one crazed killer hunts four friends through a terrifying nightmare. Players take on the role of both killer and survivors in a deadly game of cat and mouse. It's a Mature Gamer take on the thrills of Hide & Seek. Players experience two styles of gameplay -- as a survivor, from third-person perspective; or the killer, in first-person perspective. Survivors can work together or act alone using their situational awareness, while killers are on the hunt in first-person, focused on their prey. With a dynamic environment that changes after every playthrough, players must find new ways to escape the Killing Ground without getting caught. Features: A Feast for Killers: Dead by Daylight draws from all corners of the horror world. Play anything from a powerful Slasher to terrifying paranormal entity. Players can familiarise themselves with the Killing Grounds and master each killer's unique power to be able to hunt, catch and sacrifice victims. Deeper and Deeper: Each killer and survivor has their own deep progression system and plenty of unlockables that can be customised to fit each player's own personal strategy. Experience, skills and understanding of the environment are key to being able to hunt or outwit the killer. Real Fear: Expect the unexpected. Ambience, music, and chilling environments combine into a terrifying experience. With enough time, players might even discover what's hiding in the fog. Survive Together... Or Not: Survivors can either cooperate with the others or be selfish. Chances for survival depend on player's decisions. Where Am I? Each level is procedurally generated, so players never know what to expect. Random spawn points mean players will never feel safe as the world and its danger change every playthrough.",
+        "price": 15,
+        "category": 5,
+        "platform": 2,
+        "sub_category": 11,
+        "rating": 4.6,
+        "image": "8023171039961_l.jpeg"
+    }
+}, {
+    "pk": 124,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004910477",
+        "name": "Evil Within",
+        "description": "Developed by Shinji Mikami -- creator of the seminal Resident Evil series -- and the talented team at Tango Gameworks, The Evil Within embodies the meaning of pure survival horror.  Experience a disturbing reality as you try to break free from warped machinations that could only exist in the most horrifying worlds. Face twisted creatures and experience true terror, all heightened by cutting edge lighting and animation made possible by a customized version of the id Tech 5 engine.While investigating the scene of a gruesome mass murder, Detective Sebastian Castellanos and his partners encounter a mysterious and powerful force. After seeing the slaughter of fellow officers, Sebastian is ambushed and knocked unconscious. When he awakens, he finds himself in a deranged world where hideous creatures wander among the dead.Facing unimaginable terror, and fighting for survival, Sebastian embarks on a frightening journey to unravel what’s behind this evil force.",
+        "price": 6,
+        "category": 5,
+        "sub_category": 11,
+        "platform": 2,
+        "rating": 4.4,
+        "image": "093155149021_l.jpeg"
+    }
+}, {
+    "pk": 125,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004940703",
+        "name": "Evil Within 2",
+        "description": "Bethesda's reality warping, survival horror blockbuster, The Evil Within, is back with a sequel. You play as detective Sebastian Castellanos at his lowest point. With his daughter missing, he's left with no choice but to partner with Mobius, the shadowy organisation that destroyed his former life. As in the first game, you have to enter a world that's the very definition of a realm of psychological horror - an alternate reality created using someone's very mind. It can warp and change at a moment's notice, and the normal rules don't apply there... It's very much in the Silent Hill mold of tense, nerve-wracking gameplay punctuated by moments of outright visceral horror. There's a vast dark world to explore, and it's constantly shifting and creaking around you. You can choose to play stealthily, attaching from the shadows with a crossbow, go in guns blazing (albeit with very limited ammo) or just run like hell and hope for the best. Whatever you do, however, you'll need to prepare carefully and manage your limited resources wisely. This is a world that's literally out to get you, and it won't be doing you any favours by giving you ready stashes of ammo and supplies. However you try to save your daughter, however, you're in for a dark ride...",
+        "price": 6,
+        "category": 5,
+        "sub_category": 11,
+        "platform": 2,
+        "rating": 4.4,
+        "image": "5055856416494_l.jpeg"
+    }
+}, {
+    "pk": 126,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004991006",
+        "name": "Resident Evil: Origins Collection",
+        "description": "On January 22nd, fans and newcomers will be able to re-visit the original stories that started it all, now brilliantly remastered in Resident Evil Origins Collection, a physical disc product that contains both the critically acclaimed, previously released Resident Evil and the upcoming Resident Evil 0. In the original Resident Evil, players choose to take on the role of either S.T.A.R.S. (Special Tactics and Rescue Service) team member Chris Redfield or Jill Valentine, who have been sent into the city to find the missing Bravo team. With limited ammo and survival items available, gamers need to keep their wits about them to survive the various traps and puzzles that greet them at every stage of the game. This is coupled with the upcoming Resident Evil 0, which takes players back to 1998. Reports have been mounting about unusual murders on the outskirts of Raccoon City. The city's Special Forces division, S.T.A.R.S., sends their Bravo Team to investigate, including rookie cop member Rebecca Chambers, who meets death row convict and ex-Navy lieutenant Billy Coen. Throughout the game, players take control of both Rebecca and Billy, at times switching between both characters in order to proceed. FEATURES: - Return to the series' origins - Discover the truth behind the horrors at the Mansion, and all that came before on the Ecliptic Express with this bundle of two fan-favourite titles. - Completely enhanced visuals - Both games now have high-resolution textures that have been created from scratch, including 1080p support on next-gen consoles, while still preserving the classic appearance of the original releases. - Fully remastered sound effects - 5.1 surround support provides a more experiential gaming atmosphere that best matches players' listening environments. - Introducing Wesker Mode - For the first time ever in Resident Evil 0, players can experience the events leading up to the iconic Mansion outbreak playing as alternative character Albert Wesker, including a special themed outfit and amazing new powers. This mode will provide series fans and newcomers with even more ammo to enjoy!",
+        "price": 16,
+        "category": 5,
+        "sub_category": 11,
+        "platform": 2,
+        "rating": 4.9,
+        "image": "5055060931226_l.jpeg"
+    }
+}, {
+    "pk": 127,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5004991162",
+        "name": "Resident Evil 2",
+        "description": "Relive Capcom's seminal survival horror classic, completely rebuilt with cutting-edge technology, a deeper, richer narrative and a range of great features.Step once again into the shoes of dauntless rookie cop Leon Kennedy and intrepid college student Claire Redfield as they peel back the horrific truths surrounding the collapse of Raccoon City and the catastrophic events that would set in motion the ongoing Resident Evil saga.Re-imagined for the 21st century, Resident Evil 2 combines the exploration, puzzle-solving and survival mechanics of the original with modern visual depth, snappy combat and vast environments.",
+        "price": 10,
+        "category": 5,
+        "sub_category": 11,
+        "platform": 2,
+        "rating": 4.8,
+        "image": "5055060987223_l.jpeg"
+    }
+}, {
+    "pk": 128,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005000046",
+        "name": "Resident Evil 3",
+        "description": "Relive the horrifying downfall of Raccoon City in a stunning reimagining of the 1999 survival horror classic.In the nightmarish hours leading up to and following the events of Resident Evil 2, only you can help surviving S.T.A.R.S. officer Jill Valentine escape a city beset by a gruesome viral outbreak.But zombies aren't the only threat out for your blood. The towering, near-indestructible bioweapon, Nemesis T-Type, is also on the hunt. This brutal monstrosity uses an arsenal of high-powered weaponry to relentlessly pursue you across Raccoon City, meaning nowhere is truly safe.Featuring cutting-edge presentation and revamped action-adventure gameplay, Resident Evil 3 updates the unforgettable Raccoon City story arc finale in explosive fashion.",
+        "price": 20,
+        "category": 5,
+        "sub_category": 11,
+        "platform": 2,
+        "rating": 4.2,
+        "image": "5055060968017_l.jpeg"
+    }
+}, {
+    "pk": 129,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005070254",
+        "name": "Resident Evil 4 HD Remake",
+        "description": "Back in the early days of the PlayStation, Resident Evil was a must-have game. The definitive survival horror game, it aimed to give players the experience of a videogame that delivered the frights and intense atmosphere of a horror movie. The gameplay involved claustrophobic fixed view cameras and required the player to blast at horrific groaning zombies. Two sequels followed for the Sony console, as well as some special editions and a lightgun spin-off. When RE: Code Veronica appeared on the Dreamcast, the graphics and gameplay developed in line with the then-new console's awesome powers. Since then, the series has continued on PS2 in third-person and lightgun versions. In 2002, the franchise came to GameCube with two titles: RE: Zero, an all-new prequel, and Resident Evil, a remake of the original. This remake, regarded as a worthy and laudable endeavour by some, and something of a white elephant by others, was perhaps the first game to show what Nintendo's diminutive and easily underestimated console was really capable of. The terrifying mansion, rendered in real and vibrant 3D rather than pre-rendered graphics, looked amazing. But as new versions arrived on the PS2, it was easy to believe that Capcom were hesitant to commit fully to the Nintendo system. In something of a departure, the fourth instalment in the series proper debuted on GameCube, and was followed inevitably by release on other - more popular - consoles. As a result of the game already having been in the public domain so long, the storyline is well known, but here's a quick thumbnail for you: the horrific incidents at Raccoon City now exist only in the memories of those who witnessed them. Leon, a US Secret Agent, is assigned to investigate the kidnapping of the President's daughter, and is led to a rural part of Europe in his quest. When he stops to ask directions, he is attacked by hideous monsters that he had assumed were human. Now his only choice is to battle for survival and hope to somehow find what the source of the creatures is. As well as having still very impressive graphics, the game is now played in a free-roaming environment rather than a series of fixed viewpoint scenes. Most exciting for horror fans is the inclusion of a new weapon, the shotgun, which tears chunks out of more than one enemy at a time; it's just as well, because ammo is limited. The creatures you battle all react convincingly depending on where you shoot them. This HD remake brings all the tension of the original to modern consoles, along with a thick coat of HD polish.",
+        "price": 12,
+        "category": 5,
+        "platform": 2,
+        "sub_category": 11,
+        "rating": 4.7,
+        "image": "5055060966013_l.jpeg"
+    }
+}, {
+    "pk": 130,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005071145",
+        "name": "Madison Park Essentials Concord Reversible Complete Bedding Set with Sheets",
+        "description": "Resident Evil, one of the most revered series in gaming, returns to put the willies right up you once again. The fifth game in the series had a lot to live up to, with Resident Evil 4 holding a very special place in the hearts of survival horror fans. The game sees long-time Resident Evil hero, Chris Redfield, thrust back into the thick of things. And by 'things' we mean 'horde of zombie killers hungry for squelchy brains'. Having chased the undead around the globe and now working for a new organisation, Redfield heads to Africa where a terrifying new bioterrorism threat has emerged. It's turning the people and animals into mindless killers, and it needs sorting out. Redfield isn't alone. He'll have Sheva Alomar to lend her strength, speed and sharpshooting to his efforts. Sheva's presence is crucial to the game's core mechanics, as she enables both online and offline co-op play. Even when you're just playing with the AI, Redfield and Sheva will get to the serious business of slaying zombies together and you'll need to watch each other's backs to survive. As with past Resi titles, gameplay is tight and tense. You'll have to be ruthlessly efficient as you pop off headshots and try to conserve your limited ammo. Keeping a cool head is the name of the game! Not necessarily so easy, since you're in Africa...",
+        "price": 15,
+        "category": 5,
+        "sub_category": 11,
+        "platform": 2,
+        "rating": 4.4,
+        "image": "5055060966136_l.jpeg"
+    }
+}, {
+    "pk": 131,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005140282",
+        "name": "Resident Evil 6 HD Remake",
+        "description": "Resident Evil is one of the best selling, and longest lasting franchises in gaming history. And although this is the sixth main game in the series, when all of the Survivor, Code, Outbreak, Chronicles and other games have been taken into account, over 20 games have born the Resident Evil name. The original game virtually invented the survival horror genre. And wile each subsequent iteration has moved the game more to a real time action style, the all important atmosphere of the original has always been a core part of the games' special appeal. Set in Easter Europe, RE 6 lets users play through three storylines, each of which is interconnected, but has its own feel and its own main playable character, either Leon Kennedy, Chris Redfield and Jake Muller. As with RE 5, the playable character is accompanied by a secondary character which is either computer controlled in the single player game, or can be controlled by a friend either locally or on-line. Once you complete all three of the scenarios, a fourth - in which you play Ada Wong in purely solo gameplay, is unlocked. After listening to user feedback from the fifth game, Capcom has made gameplay in RE 6 more fluid and fast moving. Items can now be picked up in real time and you can switch between weapons smoothly more quickly. Players can also target their weapon while moving, being unable to do so was a frustrating limitation of previous games in the series, but your speed of motion is restricted while you are using your firearm. Health can be restored by finding herbs and using them to create tablets, and thee is some strategy involved in using the resources most effectively. Tablets canbe used to revive your partner character too, but if either of you die, the game re-sets tot he last restore point. The shambling zombie foe of the previous game are joined by the J'avo - which can communicate and co-operate to plan their attacks, use weapons and heal one another. When killed some enemies release skill points which may be used to level up certain player characteristics. Resident Evil 6 aims to combine all that is familiar and popular from the previous games in the series, and introduce enough new thrills to keep even the most experienced RE player entertained.",
+        "price": 15,
+        "category": 5,
+        "sub_category": 11,
+        "platform": 2,
+        "rating": 4.7,
+        "image": "5055060966259_l.jpeg"
+    }
+}, {
+    "pk": 132,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005200166",
+        "name": "Resident Evil 7: Biohazard",
+        "description": "Resident Evil 7 biohazard sets a new course for the Resident Evil series as it leverages its roots and opens the door to a truly terrifying horror experience. Set within a sinister plantation mansion in modern day rural America and taking place after the dramatic events of Resident Evil 6, players experience the terror directly from the first person perspective for the first time in the Resident Evil series. Embodying the iconic gameplay elements of exploration and tense atmosphere that first coined survival horror some twenty years ago, Resident Evil 7 biohazard delivers a disturbingly realistic experience that will define the next era in horror entertainment. FEATURES: - Returning to the series' roots - Resident Evil 7 biohazard will deliver an experience reminiscent of the series' signature gameplay including exploration, puzzles and a realistic tense atmosphere for players to encounter but will offer a complete refresh of the gameplay systems to propel the survival horror experience to the next level - Immersive, visceral horror - A new shift for the series to first person view brings the terrifying horror directly up close and personal; PSVR compatibility heightens the chilling experience even more - Built from the ground up on the RE Engine - Capcom's brand new VR compatible development engine works in tandem with industry leading audio and visual technologies to create a disturbingly photorealistic experience for an unprecedented level of immersion - Step inside the plantation now on PlayStation Plus - The standalone teaser demo Beginning Hour can be downloaded now by PlayStation Plus subscribers, delivering players a taste of what they can expect from Resident Evil 7 biohazard when it releases in January next year - Building upon on last year's KITCHEN tech demo for PlayStation VR, the events in Beginning Hour see the player awaken inside a dilapidated cottage within an ominous plantation mansion. Can players make it out alive?",
+        "price": 8,
+        "category": 5,
+        "sub_category": 11,
+        "platform": 2,
+        "rating": 4.7,
+        "image": "5055060965887_l.jpeg"
+    }
+}, {
+    "pk": 133,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005210241",
+        "name": "Crash Bandicoot N. Sane Trilogy",
+        "description": "Re-join your favourite marsupial, Crash Bandicoot, as he spins his way along with his three most memorable adventures, newly recreated for the current generation.Including Crash Bandicoot, Crash Bandicoot 2: Cortex Strikes Back and Crash Bandicoot 3: Warped, the N. Sane Trilogy has been lovingly built from the ground-up with brand new visiuals and audio to deliver the serie's classic gameplay to a whole new generation.Playing as either Crash or his baby sister Coco, bound, spin and even motorcycle your way through three mad-cap adventures, tackling everything from talking clocks to white-water rapids, all in ab id to save the world from the forces of evil.",
+        "price": 19.99,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "5030917236594_l.jpeg"
+    }
+}, {
+    "pk": 134,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005280104",
+        "name": "Crash Bandicoot 4: It's About Time",
+        "description": "Neo Cortex and N. Tropy are back at it again and launching an all-out assault on not just this universe, but the entire multiverse! Crash and Coco are here to save the day by reuniting the four quantum masks and bending the rules of reality.New abilities? Check. More playable characters? Yep. Alternate dimensions? Obviously. Ridonkulous bosses? For sure. Same awesome sauce? You bet your sweet jorts. Wait, are they actually jorts? Not in this universe!",
+        "price": 39.99,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "special_category": 1,
+        "rating": 4.1,
+        "image": "5030917291050_l.jpeg"
+    }
+}, {
+    "pk": 135,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005310360",
+        "name": "Rayman Legends",
+        "description": "Rayman, Globox, and the teensies have been wandering through the forest when... you know, things happen. Don't sweat the details. What you need to know is: you have to save the teensies by crusading through various levels roughly themed around fairytales/folklore. You navigate the different worlds/levels by wandering along galleries and hopping into paintings with various different themes attached to them. If you wander about the level navigation for a moment you're bound to find something to do, and linearity is hardly important here. The game plays and flows beautifully, with some really imaginative level design. It does everything you expect from a sidescrolling platformer: you run, you jump, you glide, you punch. Except it does all this with really rich, varied and imaginative level design. Legends sits somewhere between 2D Mario and old school Sonic in terms of the feel of the thing, leaning more toward the latter. It's not as quick as Sonic, but if you're good enough it has something of that smooth flow. There are various sorts of levels on offer. For example, once certain levels are completed, a secondary level re-using some of its features (you might call it a 'remix' at a push) opens up. These are speed runs, but accuracy is critical if you even want to make it through, let alone do so in reasonable time. Using Murfy adds some fun moments, too. Players can get him to perform certain actions like tickling large enemies or eating out sections of cake-based levels, adding a rewarding extra dimension to certain levels. Rayman Legends is, all in all, a really fun little game with some great design behind it.",
+        "price": 15.99,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.8,
+        "image": "3307215774595_l.jpeg"
+    }
+}, {
+    "pk": 136,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005330595",
+        "name": "Terraria",
+        "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. The world is your canvas and the ground itself is your paint. Grab your tools and go! You can do many things in Terraria: make weapons and fight off a variety of enemies in numerous biomes, dig deep underground to find accessories, money, and other useful things, gather wood, stone, ores, and other resources to create everything you need to make the world your own and defend it. Build a house, a fort, even a castle and people will move in to live there and perhaps even sell you different wares to assist you on your journey. But beware, there are even more challenges awaiting you... Are you up to the task? Features: 7; Sandbox Play 7; Randomly generated worlds 7; Co-op and PvP multiplayer modes playable via internet",
+        "price": 6,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.5,
+        "image": "8023171035925_l.jpeg"
+    }
+}, {
+    "pk": 137,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005330596",
+        "name": "LEGO Marvel Avengers",
+        "description": "Avengers Assemble! The best-selling LEGO Marvel videogame franchise returns with a new action-packed, Super Hero adventure. Join the LEGO Marvel's Avengers team and experience the first console videogame featuring characters and storylines from the critically-acclaimed film Marvel's The Avengers, the blockbuster sequel Marvel's Avengers: Age of Ultron, and more. Play as the most powerful Super Heroes in their quest to save the world. GAME FEATURES: Diverse roster of Marvel's Avengers characters -Play and unlock more than 100 new and returning characters with an array of exciting capabilities, including fan favorites like Hulk, Iron Man, Captain America and Thor, new characters from Marvel's Avengers: Age of Ultron, and more. New and enhanced powers and abilities - Battle in new ways with enhanced powers and character abilities. Team up with core Avengers to execute incredible combo moves. Free Roam Gameplay - Enjoy LEGO Marvel's Avengers' unique take on open world gameplay as you assume the roles of Earth's Mightiest Heroes to collect gold bricks, studs, and unlock additional characters. Variety of iconic locations - Visit iconic Marvel Cinematic Universe locations from around the world. Experience the blockbuster action from the Avengers films - Relive key moments from Marvel's The Avengers, Marvel's Avengers: Age of Ultron and more, with a splash of classic LEGO humor",
+        "price": 8.99,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.1,
+        "image": "5051892189781_l.jpeg"
+    }
+}, {
+    "pk": 138,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005430914",
+        "name": "LEGO Marvel Super Heroes",
+        "description": "It had to happen sooner or later, and now it has. The Marvel Universe has been given the LEGO treatment. And developer Traveller's Tales hasn't left anything out, either. Not content to settle on just Spider-Man, the Avengers, the X-Men, the Fantastic Four... or any of the other Marvel characters that could have held their own game, the developer has thrown the whole lot into the mix! Characters available range from the likes of Iron Man and Captain America through Spidey and the Fantastic Four right across to X-Men such as Wolverine, Cyclops and Storm. The Silver Surfer has turned up on Earth, which is often bad news. You see, the Surfer is the herald of Galactus, devourer of worlds, so where he goes Galactus isn't usually far behind. Before he can do much, however, he's knocked out of the sky and his surfboard is destroyed by Doctor Doom. It falls to Earth as cosmic bricks of immense power, and the Marvel universe's assorted villains scramble to get hold of them. Cue the assembled Marvel heroes to fight them off! The game plays out in the familiar LEGO manner. Gameplay is a combination of platforming, brawling and puzzle solving. There's a strong emphasis on teamwork, whether you're playing solo or in co-op, using the right character for the right job is crucial. As with LEGO Batman 2, there's a whole open world for players to explore. With Marvel, that's the iconic city of New York, with famous locations such as Stark Tower and the X-Mansion! LEGO Marvel is a definite win for any family member of the family who's taken a shine to the world's mightiest heroes.",
+        "price": 9.99,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.8,
+        "image": "5051892145220_l.jpeg"
+    }
+}, {
+    "pk": 139,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005430944",
+        "name": "LEGO DC Super-Villains",
+        "description": "The baddies of the DC Universe just can't catch a break. The disappearance of Superman, Batman, Wonder Woman and the rest of the Justice League should mean planet Earth is open for business as far as its resident ne'er-do-wells are concerned. Alas, no sooner do they disappear than a gang of replacements from Earth 3 show up. The Justice Syndicate - the suspiciously familiar Ultraman, Owlman, Superwoman and their pals - are a tad (read A LOT) less well meaning than their counterparts, however, and the DC villains just aren't going to let this racket stand. What follows is an epic and bad-to-the-bone team-up of the DC Universe's most corrupt characters, with the likes of the Joker, Lex Luthor, Harley Quinn and Darkseid accompanied by more obscure sorts such as Calendar Man and Condiment King (no, we didn't make him up). In a departure from previous LEGO games, however, your own custom character isn't relegated to open world exploration and takes centre stage in the story mode. You can build them from the ground up, including choosing their powers. Furthermore, the ability to acquire new abilities as you go means you won't need to swap around characters as often as in other LEGO games. Gameplay is, as ever, a light blend of platforming, puzzle solving and combat, with plenty of laughs sprinkled throughout. That's helped, of course, by the inclusion of familiar voice talent such as Mark Hamill playing the Joker. Beyond the main game you can explore iconic locations such as Metropolis, Gotham and Smallville, completing side missions for other villains and generally causing chaos. You might, of course, attract the attention of the authorities (you're a criminal, after all) and, in a nice touch, find yourself in a Grand Theft Auto style 'wanted' challenge. It's good to be good, but it's better to be bad. Take your dark side out for a spin...",
+        "price": 12,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.7,
+        "image": "5051892213240_l.jpeg"
+    }
+}, {
+    "pk": 140,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005510265",
+        "name": "Sonic Forces ",
+        "description": "From the team that brought you Sonic Colours and Sonic Generations, join an epic high-speed fight to save a world decimated by Dr. Eggman and mysterious new villain… Infinite! In Sonic Forces, you must help Sonic build an army to reclaim the world as you fight against chaos and destruction. Experience fast-paced action with three unique gameplay styles with Classic Sonic, Modern Sonic and your very own Custom Character.",
+        "price": 9.99,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.4,
+        "image": "5055277029907_l.jpeg"
+    }
+}, {
+    "pk": 141,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005520201",
+        "name": "Little Nightmares",
+        "description": "Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears! Embark on a grim shadow-filled adventure with an interactive storyline, outstanding sound design, and a unique art style that is sure to deliver eerie chills and goosebumps. Players will discover a world that blurs the lines between dreams and nightmares as they help Six escape The Maw - a vast, mysterious vessel inhabited by corrupted souls looking for their next meal. Consider every option and master Six's every movement in a super-sized world where even the smallest doubt can lead to a fatal misstep! Features: Embark on a Grim Adventure: Confront your childhood fears in this dark, whimsical tale, set in an immersive and emotive world full of unsettling situations. Visit the Maw: Peek into Six's super-sized world, part dream, part nightmare, where every step feels like a leap, and every shadow a vast darkness! Rekindle your Childlike Joys: Reconnect with your inner child, unleash your imagination, and stay out of harm's way. Each room is a cell, each resident a threat, and both are puzzles to untangle. Original Soundtrack: The box includes the original soundtrack CD composed by Tobias Lilja from Tarsier Studio.",
+        "price": 20,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "3391891992312_l.jpeg"
+    }
+}, {
+    "pk": 142,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005520205",
+        "name": "LEGO Jurassic World",
+        "description": "LEGO Jurassic World is the latest addition to the wildly successful LEGO videogame series. The all-new game will feature in LEGO form the first three blockbuster Jurassic Park films as well as Jurassic World, the long-awaited next instalment in the groundbreaking Jurassic Park series. Following the epic storylines of Jurassic Park, The Lost World Jurassic Park and Jurassic Park III, as well as the highly anticipated Jurassic World, LEGO Jurassic World is the first videogame where players will be able to relive and experience all four Jurassic films. Reimagined in LEGO form and told in TT Games signature classic LEGO humour, the thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar and Isla Sorna. In LEGO Jurassic World, players will be able to collect precious amber, which contains dinosaur DNA to create and customize species. And, for the first time in a LEGO game, players will be able to play as LEGO dinosaurs, including dinosaurs from the Jurassic Park series and from the upcoming Jurassic World film.",
+        "price": 10.99,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "5051892187770_l.jpeg"
+    }
+}, {
+    "pk": 143,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005630545",
+        "name": "LEGO Marvel Super Heroes 2",
+        "description": "It's been a while coming but, finally, one of the most popular LEGO games of all time has a sequel. The time travelling baddie Kang the Conqueror has really gone all-out this time, pulling chunks of space and time together to form the strange and perilous city of Chronopolis. It's a concept that might be recognisable to Marvel fans who read the Secret Wars crossover event in 2015, and readers of that story know it's ripe for fun and interesting stories. It falls, of course, to the Marvel heroes to set things straight. The Guardians of the Galaxy are front and centre, but there's a deep (and sometimes bewildering!) bench of characters to play around with here. From marquee names like Captain America and Thor right through to obscure figures from deep in the annals of Marvel history such as Forbush Man and Greenskyn Smashtroll, TT Games has really taken the plunge on this one. The developer has also really done its homework on realising the wide array of powers the heroes have, too, especially with new teleportation and time-bending mechanics. Alongside the main story missions, which take you through realms ranging from medieval England to the shady New York of Spider-Man Noir, there are shorter levels introduced by third wall smashing Gwenpool that have you playing as fan favourites such as Squirrel Girl. In short, LEGO Marvel Superheroes 2 is a highly polished love letter to not only the characters it contains, but to 70+ years of Marvel comics.",
+        "price": 10.99,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.6,
+        "image": "5051892206914_l.jpeg"
+    }
+},
+
+{
+    "pk": 144,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5005630605",
+        "name": "Spyro Reignited Trilogy",
+        "description": "The original roast master is back! The same sick burns, same smouldering attitude, now all scaled up in stunning HD. Spyro is bringing the heat like never before in the Spyro Reignited Trilogy game collection. Rekindle the fire with the original three games, Spyro the Dragon, Spyro 2: Ripto's Rage! and Spyro: Year of the Dragon. Explore the expansive realms, re-encounter the fiery personalities and relive the adventure in fully remastered glory. Because when there's a realm that needs saving, there's only one dragon to call.",
+        "price": 19.99,
+        "category": 6,
+        "sub_category": 12,
+        "platform": 2,
+        "rating": 4.8,
+        "image": "5030917242281_l.jpeg"
+    }
+}
+]

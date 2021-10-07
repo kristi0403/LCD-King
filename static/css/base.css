@@ -3,9 +3,7 @@ html {
 }
 
 body {
-    background: url('/media/AdobeStock_165653144_1944x.jpeg') no-repeat center center fixed;
     background-size: cover;
-    height: calc(100vh - 164px);
     color: black;
     font-family: 'Lato';
 }
@@ -78,4 +76,17 @@ body {
 .navbar-collapse {
     background-color: #152F4F;
     height: 60px;
+}
+
+.header-container {
+    padding-top: 204px;
+}
+
+.card{
+    margin-top: 40px;
+    padding-top: calc(var(--bs-gutter-x) * .5);
+}
+
+.card-img-overlay {
+    position: relative;
 }

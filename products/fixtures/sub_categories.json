@@ -1,0 +1,138 @@
+[{
+    "pk": 1,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "iphone_5",
+        "friendly_name": "Iphone 5"
+    }
+},
+{
+    "pk": 2,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "iphone_6",
+        "friendly_name": "Iphone 6"
+    }
+},
+{
+    "pk": 3,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "iphone_7",
+        "friendly_name": "Iphone 7"
+    }
+},
+{
+    "pk": 4,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "iphone_8",
+        "friendly_name": "Iphone 8"
+    }
+},
+{
+    "pk": 5,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "iphone_X",
+        "friendly_name": "Iphone X"
+    }
+},
+{
+    "pk": 6,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "iphone_11",
+        "friendly_name": "Iphone 11"
+    }
+},
+{
+    "pk": 7,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "iphone_12",
+        "friendly_name": "iphone 12"
+    }
+},
+{
+    "pk": 8,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "samsung_s_range",
+        "friendly_name": "Samsung S Range"
+    }
+},
+{
+    "pk": 9,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "samsung_j_range",
+        "friendly_name": "Samsung J Range"
+    }
+},
+{
+    "pk": 10,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "samsung_a_range",
+        "friendly_name": "Samsung A Range"
+    }
+},
+{
+    "pk": 11,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "samsung_note_range",
+        "friendly_name": "Samsung Note Range"
+    }
+},
+{
+    "pk": 12,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "tablet_samsung",
+        "friendly_name": "Tablet Samsung"
+    }
+},
+{
+    "pk": 12,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "ipad_air",
+        "friendly_name": "Ipad Air"
+    }
+},
+{
+    "pk": 12,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "ipad_pro",
+        "friendly_name": "Ipad Pro"
+    }
+},
+{
+    "pk": 12,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "accessories_apple",
+        "friendly_name": "accessories_android"
+    }
+},
+{
+    "pk": 12,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "service_apple",
+        "friendly_name": "Service Apple"
+    }
+},
+{
+    "pk": 12,
+    "model": "products.sub_category",
+    "fields": {
+        "name": "service_samsung",
+        "friendly_name": "Service Samsung"
+    }
+}
+
+]
