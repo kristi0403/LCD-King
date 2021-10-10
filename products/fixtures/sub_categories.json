@@ -95,7 +95,7 @@
     }
 },
 {
-    "pk": 12,
+    "pk": 13,
     "model": "products.sub_category",
     "fields": {
         "name": "ipad_air",
@@ -103,7 +103,7 @@
     }
 },
 {
-    "pk": 12,
+    "pk": 14,
     "model": "products.sub_category",
     "fields": {
         "name": "ipad_pro",
@@ -111,7 +111,7 @@
     }
 },
 {
-    "pk": 12,
+    "pk": 15,
     "model": "products.sub_category",
     "fields": {
         "name": "accessories_apple",
@@ -119,7 +119,7 @@
     }
 },
 {
-    "pk": 12,
+    "pk": 16,
     "model": "products.sub_category",
     "fields": {
         "name": "service_apple",
@@ -127,7 +127,7 @@
     }
 },
 {
-    "pk": 12,
+    "pk": 17,
     "model": "products.sub_category",
     "fields": {
         "name": "service_samsung",

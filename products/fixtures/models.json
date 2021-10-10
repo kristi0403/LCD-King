@@ -1,6 +1,6 @@
 [{
     "pk": 1,
-    "model": "products.sub_category",
+    "model": "products.models",
     "fields": {
         "name": "iphone_5",
         "friendly_name": "Iphone 5"
@@ -8,7 +8,7 @@
 },
 {
     "pk": 2,
-    "model": "products.sub_category",
+    "model": "products.models",
     "fields": {
         "name": "iphone_6",
         "friendly_name": "Iphone 6"
@@ -16,123 +16,474 @@
 },
 {
     "pk": 3,
-    "model": "products.sub_category",
+    "model": "products.models",
+    "fields": {
+        "name": "iphone_6_s",
+        "friendly_name": "Iphone 6s"
+    }
+},
+{
+    "pk": 4,
+    "model": "products.models",
+    "fields": {
+        "name": "iphone_6_plus",
+        "friendly_name": "Iphone 6 Plus"
+    }
+},
+{
+    "pk": 5,
+    "model": "products.models",
+    "fields": {
+        "name": "iphone_6_s_plus",
+        "friendly_name": "Iphone 6"
+    }
+},
+{
+    "pk": 6,
+    "model": "products.models",
     "fields": {
         "name": "iphone_7",
         "friendly_name": "Iphone 7"
     }
 },
 {
-    "pk": 4,
-    "model": "products.sub_category",
+    "pk": 7,
+    "model": "products.models",
+    "fields": {
+        "name": "iphone_7_plus",
+        "friendly_name": "Iphone 7 plus"
+    }
+},
+{
+    "pk": 8,
+    "model": "products.models",
     "fields": {
         "name": "iphone_8",
         "friendly_name": "Iphone 8"
     }
 },
 {
-    "pk": 5,
-    "model": "products.sub_category",
+    "pk": 9,
+    "model": "products.models",
+    "fields": {
+        "name": "iphone_8_plus",
+        "friendly_name": "Iphone 8 plus"
+    }
+},
+{
+    "pk": 10,
+    "model": "products.models",
     "fields": {
         "name": "iphone_X",
         "friendly_name": "Iphone X"
     }
 },
 {
-    "pk": 6,
-    "model": "products.sub_category",
+    "pk": 11,
+    "model": "products.models",
+    "fields": {
+        "name": "iphone_XR",
+        "friendly_name": "Iphone XR"
+    }
+},
+{
+    "pk": 12,
+    "model": "products.models",
+    "fields": {
+        "name": "iphone_XS",
+        "friendly_name": "Iphone XS"
+    }
+},
+{
+    "pk": 13,
+    "model": "products.models",
+    "fields": {
+        "name": "iphone_XS_Max",
+        "friendly_name": "Iphone XS Max"
+    }
+},
+{
+    "pk": 14,
+    "model": "products.models",
     "fields": {
         "name": "iphone_11",
         "friendly_name": "Iphone 11"
     }
 },
 {
-    "pk": 7,
-    "model": "products.sub_category",
+    "pk": 15,
+    "model": "products.models",
+    "fields": {
+        "name": "iphone_11_pro",
+        "friendly_name": "Iphone 11 pro"
+    }
+},
+{
+    "pk": 16,
+    "model": "products.models",
+    "fields": {
+        "name": "iphone_11_pro_max",
+        "friendly_name": "Iphone 11 pro max"
+    }
+},
+{
+    "pk": 17,
+    "model": "products.models",
     "fields": {
         "name": "iphone_12",
         "friendly_name": "iphone 12"
     }
 },
 {
-    "pk": 8,
-    "model": "products.sub_category",
+    "pk": 18,
+    "model": "products.models",
     "fields": {
-        "name": "samsung_s_range",
-        "friendly_name": "Samsung S Range"
+        "name": "iphone_12_pro",
+        "friendly_name": "iphone 12 pro"
     }
 },
 {
-    "pk": 9,
-    "model": "products.sub_category",
+    "pk": 19,
+    "model": "products.models",
     "fields": {
-        "name": "samsung_j_range",
-        "friendly_name": "Samsung J Range"
+        "name": "iphone_12_pro_max",
+        "friendly_name": "iphone 12 pro max"
     }
 },
 {
-    "pk": 10,
-    "model": "products.sub_category",
+    "pk": 20,
+    "model": "products.models",
     "fields": {
-        "name": "samsung_a_range",
-        "friendly_name": "Samsung A Range"
+        "name": "samsung_A_90",
+        "friendly_name": "Samsung A90"
     }
 },
 {
-    "pk": 11,
-    "model": "products.sub_category",
+    "pk": 21,
+    "model": "products.models",
     "fields": {
-        "name": "samsung_note_range",
-        "friendly_name": "Samsung Note Range"
+        "name": "samsung_A_80",
+        "friendly_name": "Samsung A80"
     }
 },
 {
-    "pk": 12,
-    "model": "products.sub_category",
+    "pk": 22,
+    "model": "products.models",
     "fields": {
-        "name": "tablet_samsung",
-        "friendly_name": "Tablet Samsung"
+        "name": "samsung_A_71",
+        "friendly_name": "Samsung A71"
     }
 },
 {
-    "pk": 12,
-    "model": "products.sub_category",
+    "pk": 23,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_70",
+        "friendly_name": "Samsung A70"
+    }
+},
+{
+    "pk": 24,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_51",
+        "friendly_name": "Samsung A51"
+    }
+},
+{
+    "pk": 25,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_50",
+        "friendly_name": "Samsung A 50"
+    }
+},
+{
+    "pk": 26,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_42",
+        "friendly_name": "Samsung A42"
+    }
+},
+{
+    "pk": 27,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_41",
+        "friendly_name": "Samsung A41"
+    }
+},
+{
+    "pk": 28,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_40",
+        "friendly_name": "Samsung A40"
+    }
+},
+{
+    "pk": 29,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_30",
+        "friendly_name": "Samsung A30"
+    }
+},
+{
+    "pk": 30,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_20_E",
+        "friendly_name": "Samsung A20E"
+    }
+},
+{
+    "pk": 31,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_20",
+        "friendly_name": "Samsung A20"
+    }
+},
+{
+    "pk": 32,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_10",
+        "friendly_name": "Samsung A10"
+    }
+},
+{
+    "pk": 33,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_8",
+        "friendly_name": "Samsung A8"
+    }
+},
+{
+    "pk": 34,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_6",
+        "friendly_name": "Samsung A6"
+    }
+},
+{
+    "pk": 35,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_5_2016",
+        "friendly_name": "Samsung A5"
+    }
+},
+{
+    "pk": 36,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_5_2016",
+        "friendly_name": "Samsung A5 2017"
+    }
+},
+{
+    "pk": 37,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_3_2017",
+        "friendly_name": "Samsung A3 2017"
+    }
+},
+{
+    "pk": 38,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_A_3_2016",
+        "friendly_name": "Samsung A3 2016"
+    }
+},
+{
+    "pk": 39,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_J_5_2017",
+        "friendly_name": "Samsung J5 2017"
+    }
+},
+{
+    "pk": 40,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_J_5_2016",
+        "friendly_name": "Samsung J5 2016"
+    }
+},
+{
+    "pk": 41,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_J_3_2017",
+        "friendly_name": "Samsung J3 2017"
+    }
+},
+{
+    "pk": 42,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_J_3_2016",
+        "friendly_name": "Samsung J3 2016"
+    }
+},
+{
+    "pk": 43,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S20",
+        "friendly_name": "Samsung S20"
+    }
+},
+{
+    "pk": 44,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S20_ultra",
+        "friendly_name": "Samsung S20 Ultra"
+    }
+},
+{
+    "pk": 45,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S20_plus",
+        "friendly_name": "Samsung S20 Plus"
+    }
+},
+{
+    "pk": 46,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S10_e",
+        "friendly_name": "Samsung S20E"
+    }
+},
+{
+    "pk": 47,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S10",
+        "friendly_name": "Samsung S10"
+    }
+},
+{
+    "pk": 48,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S10_plus",
+        "friendly_name": "Samsung S10 Plus"
+    }
+},
+{
+    "pk": 49,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S9",
+        "friendly_name": "Samsung S9"
+    }
+},
+{
+    "pk": 50,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S9_plus",
+        "friendly_name": "Samsung S9 Plus"
+    }
+},
+{
+    "pk": 51,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S8",
+        "friendly_name": "Samsung S8"
+    }
+},
+{
+    "pk": 52,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S8_plus",
+        "friendly_name": "Samsung S8 Plus"
+    }
+},
+{
+    "pk": 53,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S7",
+        "friendly_name": "Samsung S7"
+    }
+},
+{
+    "pk": 54,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S7_edge",
+        "friendly_name": "Samsung S7 Edge"
+    }
+},
+{
+    "pk": 55,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S6",
+        "friendly_name": "Samsung S6"
+    }
+},
+{
+    "pk": 56,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_S6_edge",
+        "friendly_name": "Samsung S6 edge"
+    }
+},
+{
+    "pk": 57,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_note_8",
+        "friendly_name": "Samsung Note 8"
+    }
+},
+{
+    "pk": 58,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_note_9",
+        "friendly_name": "Samsung Note 9"
+    }
+},
+{
+    "pk": 59,
+    "model": "products.models",
+    "fields": {
+        "name": "samsung_note_10",
+        "friendly_name": "Samsung Note 10"
+    }
+},
+{
+    "pk": 60,
+    "model": "products.models",
     "fields": {
         "name": "ipad_air",
         "friendly_name": "Ipad Air"
     }
 },
 {
-    "pk": 12,
-    "model": "products.sub_category",
+    "pk": 61,
+    "model": "products.models",
     "fields": {
         "name": "ipad_pro",
         "friendly_name": "Ipad Pro"
     }
-},
-{
-    "pk": 12,
-    "model": "products.sub_category",
-    "fields": {
-        "name": "accessories_apple",
-        "friendly_name": "accessories_android"
-    }
-},
-{
-    "pk": 12,
-    "model": "products.sub_category",
-    "fields": {
-        "name": "service_apple",
-        "friendly_name": "Service Apple"
-    }
-},
-{
-    "pk": 12,
-    "model": "products.sub_category",
-    "fields": {
-        "name": "service_samsung",
-        "friendly_name": "Service Samsung"
-    }
 }
-
 ]
