@@ -104,7 +104,7 @@ hr {margin: auto;}
 }
 
 .card-homepage {
-    height: 500px;
+    border-top: 10px solid black;
     margin-top: 40px;
 }
 
