@@ -3,6 +3,7 @@ html {
 }
 
 body {
+    background-color: #f9f9f9;
     background-size: cover;
     color: black;
     font-family: 'Lato';
@@ -19,9 +20,11 @@ body {
     top: 0;
     left: 0;
     position: fixed;
-    background: white;
     z-index: -1;
 }
+
+hr {margin: auto;}
+
 /*--------------------------------footer */
 
 .footer {
@@ -92,10 +95,22 @@ body {
 }
 
 .card{
-    margin-top: 40px;
     padding-top: calc(var(--bs-gutter-x) * .5);
+    border: 1px solid #CCCCCC;
 }
 
 .card-img-overlay {
     position: relative;
+}
+
+.card-homepage {
+    height: 500px;
+    margin-top: 40px;
+}
+
+
+@media (min-width: 1200px) {
+    .card-img {
+        height: 500px;
+    }
 }
