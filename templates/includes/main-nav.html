@@ -10,13 +10,14 @@
                 Iphone
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="apple-link">
-                <a href="" class="dropdown-item">Iphone 6</a>
-                <a href="" class="dropdown-item">Iphone 7</a>
-                <a href="" class="dropdown-item">Iphone 8</a>
-                <a href="" class="dropdown-item">Iphone X</a>
-                <a href="" class="dropdown-item">Iphone 11</a>
-                <a href="" class="dropdown-item">Iphone 12</a>
-                <a href="" class="dropdown-item">All Iphones</a>
+                <a href="{% url 'products' %}?sub_category=iphone_5" class="dropdown-item">Iphone 5</a>
+                <a href="{% url 'products' %}?sub_category=iphone_6" class="dropdown-item">Iphone 6</a>
+                <a href="{% url 'products' %}?sub_category=iphone_7" class="dropdown-item">Iphone 7</a>
+                <a href="{% url 'products' %}?sub_category=iphone_8" class="dropdown-item">Iphone 8</a>
+                <a href="{% url 'products' %}?sub_category=iphone_X" class="dropdown-item">Iphone X</a>
+                <a href="{% url 'products' %}?sub_category=iphone_11" class="dropdown-item">Iphone 11</a>
+                <a href="{% url 'products' %}?sub_category=iphone_12" class="dropdown-item">Iphone 12</a>
+                <a href="{% url 'products' %}?category=iphone" class="dropdown-item">All Iphones</a>
             </div>
         </li>
         <li class="nav-item categories dropdown">
@@ -24,11 +25,11 @@
                 Samsung
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="apple-link">
-                <a href="" class="dropdown-item">Samsung S Range</a>
-                <a href="" class="dropdown-item">Samsung A Range</a>
-                <a href="" class="dropdown-item">Samsung J Range</a>
-                <a href="" class="dropdown-item">Samsung Note Range</a>
-                <a href="" class="dropdown-item">All Samsung</a>
+                <a href="{% url 'products' %}?sub_category=samsung_s_range" class="dropdown-item">Samsung S Range</a>
+                <a href="{% url 'products' %}?sub_category=samsung_a_range" class="dropdown-item">Samsung A Range</a>
+                <a href="{% url 'products' %}?sub_category=samsung_j_range" class="dropdown-item">Samsung J Range</a>
+                <a href="{% url 'products' %}?sub_category=samsung_note_range" class="dropdown-item">Samsung Note Range</a>
+                <a href="{% url 'products' %}?category=samsung" class="dropdown-item">All Samsung</a>
             </div>
         </li>
         <li class="nav-item categories dropdown">
@@ -36,8 +37,8 @@
                 Tablet
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="apple-link">
-                <a href="" class="dropdown-item">Samsung</a>
-                <a href="" class="dropdown-item">All Samsung</a>
+                <a href="{% url 'products' %}?sub_category=samsung" class="dropdown-item">Samsung</a>
+                <a href="{% url 'products' %}?category=tablet" class="dropdown-item">All Samsung</a>
             </div>
         </li>
         <li class="nav-item categories dropdown">
@@ -45,10 +46,10 @@
                 Ipads
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="apple-link">
-                <a href="" class="dropdown-item">Ipad Air</a>
-                <a href="" class="dropdown-item">Ipad</a>
-                <a href="" class="dropdown-item">Ipad Pro</a>
-                <a href="" class="dropdown-item">All Ipads</a>
+                <a href="{% url 'products' %}?sub_category=ipad_air" class="dropdown-item">Ipad Air</a>
+                <a href="{% url 'products' %}?sub_category=ipad_air" class="dropdown-item">Ipad</a>
+                <a href="{% url 'products' %}?sub_category=ipad_pro" class="dropdown-item">Ipad Pro</a>
+                <a href="{% url 'products' %}?category=ipad" class="dropdown-item">All Ipads</a>
             </div>
         </li>
         <li class="nav-item categories dropdown">
@@ -56,36 +57,25 @@
                 Accesoris
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="apple-link">
-                <a href="" class="dropdown-item">Samsung S Range</a>
-                <a href="" class="dropdown-item">Samsung A Range</a>
-                <a href="" class="dropdown-item">Samsung J Range</a>
-                <a href="" class="dropdown-item">Samsung Note Range</a>
-                <a href="" class="dropdown-item">All Samsung</a>
+                <a href="{% url 'products' %}?sub_category=accesoris_apple" class="dropdown-item">Accesoris Apple</a>
+                <a href="" class="dropdown-item">Accesoris Samsung</a>
+                <a href="{% url 'products' %}?category=accesories" class="dropdown-item">All Services</a>
             </div>
         </li>
         <li class="nav-item categories dropdown">
             <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="all-products-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Serive
+                Service
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="apple-link">
-                <a href="" class="dropdown-item">Samsung S Range</a>
-                <a href="" class="dropdown-item">Samsung A Range</a>
-                <a href="" class="dropdown-item">Samsung J Range</a>
-                <a href="" class="dropdown-item">Samsung Note Range</a>
-                <a href="" class="dropdown-item">All Samsung</a>
+                <a href="{% url 'products' %}?sub_category=service_apple" class="dropdown-item">Service Apple</a>
+                <a href="{% url 'products' %}?sub_category=service_samsung" class="dropdown-item">Service Samsung</a>
+                <a href="{% url 'products' %}?category=service" class="dropdown-item">All Services</a>
             </div>
         </li>
         <li class="nav-item categories dropdown">
             <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="all-products-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Trade
             </a>
-            <div class="dropdown-menu border-0" aria-labelledby="apple-link">
-                <a href="" class="dropdown-item">Samsung S Range</a>
-                <a href="" class="dropdown-item">Samsung A Range</a>
-                <a href="" class="dropdown-item">Samsung J Range</a>
-                <a href="" class="dropdown-item">Samsung Note Range</a>
-                <a href="" class="dropdown-item">All Samsung</a>
-            </div>
         </li>
     </ul>
 </div>
