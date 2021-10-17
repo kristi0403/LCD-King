@@ -15,12 +15,59 @@
     <div class="row">
         <div class="col text-center mt-3">
             <h2 class="logo-font text-black">Products</h2>
+            {% for c in current_categories %}
+            <!--Get products by category-->
+            <a class="category-badge text-decoration-none" href="{% url 'products' %}?category={{ c.name }}">
+                <span
+                    class="p-2 mt-2 badge badge-white text-black rounded-0 border border-dark">{{ c.friendly_name}}</span>
+            </a>
+            {% endfor %}
             <hr class="w-50 mb-1">
         </div>
     </div>
     <div class="row">
         <div class="product-container col-10 offset-1">
-            <div class="row mt-1 mb-2"></div>
+            <div class="row mt-1 mb-2">
+                <div class="col-12 col-md-6 order-md-first">
+                        <h4>Our quality refurbished phones are guaranteed to be great for your peace of mind.</h4>
+                        <p>Our price match guarantee means we won't be beaten on price.
+                        <p>With free fast delivery, our turnaround times are short and sweet keeping your downtime to a minimum.</p>
+                        <p>LCD King have a XX point inspection to ensure phones are as good as new.</p>
+                </div>
+                <div class="col-12 col-md-6 my-auto d-flex justify-content-center justify-content-md-end">
+                    <div class="sort-select-wrapper w-50">
+                        <p class="products-count order-md-last mt-3 text-center text-md-left">
+                            {% if search_term or current_categories or current_sorting != 'None_None' %}
+                            <span class="small"><a href="{% url 'products' %}">Products Home</a> | </span>
+                            {% endif %}
+                            {{ products|length }} Products{% if search_term %} found for
+                            <strong>"{{ search_term }}"</strong>{% endif %}
+                        </p>
+                        <!--Product sorting-->
+                        <select id="sort-selector"
+                            class="custom-select custom-select-sm rounded-0 border border-{% if current_sorting != 'None_None' %}info{% else %}black{% endif %}">
+                            <option value="reset" {% if current_sorting == 'None_None' %}selected{% endif %}>Sort by...
+                            </option>
+                            <option value="price_asc" {% if current_sorting == 'price_asc' %}selected{% endif %}>Price
+                                (low to high)</option>
+                            <option value="price_desc" {% if current_sorting == 'price_desc' %}selected{% endif %}>Price
+                                (high to low)</option>
+                            <option value="grade_asc" {% if current_sorting == 'rating_asc' %}selected{% endif %}>
+                                Grade (low to high)</option>
+                            <option value="grade_desc" {% if current_sorting == 'rating_desc' %}selected{% endif %}>
+                                Grade (high to low)</option>
+                            <option value="name_asc" {% if current_sorting == 'name_asc' %}selected{% endif %}>Name
+                                (A-Z)</option>
+                            <option value="name_desc" {% if current_sorting == 'name_desc' %}selected{% endif %}>Name
+                                (Z-A)</option>
+                            <option value="category_asc" {% if current_sorting == 'category_asc' %}selected{% endif %}>
+                                Category (A-Z)</option>
+                            <option value="category_desc"
+                                {% if current_sorting == 'category_desc' %}selected{% endif %}>Category (Z-A)</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
             <div class="row">
                 {% for product in products %}
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
@@ -56,7 +103,7 @@
                                         <small class="text-muted">No Grade</small>
                                         {% endif %}
                                         {% if request.user.is_superuser %}
-                                        <small class="ml-4">
+                                        <small class="ml-4 superuser_options">
                                             <a href="">Edit</a> |
                                             <a class="text-danger" href="">Delete</a>
                                         </small>
@@ -89,4 +136,29 @@
     </div>
 </div>
 
+{% endblock %}
+{% block postloadjs %}
+{{ block.super }}
+<script type="text/javascript">
+    $('#sort-selector').change(function () {
+        var selector = $(this);
+        var currentUrl = new URL(window.location);
+
+        var selectedVal = selector.val();
+        if (selectedVal != "reset") {
+            var sort = selectedVal.split("_")[0];
+            var direction = selectedVal.split("_")[1];
+
+            currentUrl.searchParams.set("sort", sort);
+            currentUrl.searchParams.set("direction", direction);
+
+            window.location.replace(currentUrl);
+        } else {
+            currentUrl.searchParams.delete("sort");
+            currentUrl.searchParams.delete("direction");
+
+            window.location.replace(currentUrl);
+        }
+    })
+</script>
 {% endblock %}
