@@ -21,6 +21,22 @@ a {
     margin-left: 50px;
 }
 
+.information_paragraphs {
+    margin: 0;
+}
+
+.blue_background_paragraph{
+    background-color: steelblue;
+}
+
+.beige_background_paragraph {
+    background-color: blanchedalmond;
+}
+
+.about-us-container {
+    margin-top: 25px;
+}
+
 .overlay {
     height: 100%;
     width: 100%;
