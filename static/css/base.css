@@ -60,6 +60,10 @@ hr {
     width: 100%;
 }
 
+.no-padding-image{
+    padding-top: 0 !important;
+}
+
 .btt-button {
     height: 42px;
     width: 42px;
