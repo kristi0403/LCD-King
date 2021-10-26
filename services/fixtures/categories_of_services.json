@@ -1,0 +1,57 @@
+[{
+    "pk": 1,
+    "model": "services.category_of_service",
+    "fields": {
+        "name": "iphone",
+        "friendly_name": "Iphone"
+    }
+},
+{
+    "pk": 2,
+    "model": "services.category_of_service",
+    "fields": {
+        "name": "samsung",
+        "friendly_name": "Samsung"
+    }
+},
+{
+    "pk": 3,
+    "model": "services.category_of_service",
+    "fields": {
+        "name": "tablet",
+        "friendly_name": "Tablet"
+    }
+},
+{
+    "pk": 4,
+    "model": "services.category_of_service",
+    "fields": {
+        "name": "ipad",
+        "friendly_name": "Ipad"
+    }
+},
+{
+    "pk": 5,
+    "model": "services.category_of_service",
+    "fields": {
+        "name": "accesories",
+        "friendly_name": "Accesories"
+    }
+},
+{
+    "pk": 6,
+    "model": "services.category_of_service",
+    "fields": {
+        "name": "service",
+        "friendly_name": "Service"
+    }
+},
+{
+    "pk": 6,
+    "model": "services.category_of_service",
+    "fields": {
+        "name": "trade",
+        "friendly_name": "Trade"
+    }
+}
+]

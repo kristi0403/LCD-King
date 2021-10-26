@@ -1,0 +1,489 @@
+[{
+    "pk": 1,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_5",
+        "friendly_name": "Iphone 5"
+    }
+},
+{
+    "pk": 2,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_6",
+        "friendly_name": "Iphone 6"
+    }
+},
+{
+    "pk": 3,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_6_s",
+        "friendly_name": "Iphone 6s"
+    }
+},
+{
+    "pk": 4,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_6_plus",
+        "friendly_name": "Iphone 6 Plus"
+    }
+},
+{
+    "pk": 5,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_6_s_plus",
+        "friendly_name": "Iphone 6"
+    }
+},
+{
+    "pk": 6,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_7",
+        "friendly_name": "Iphone 7"
+    }
+},
+{
+    "pk": 7,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_7_plus",
+        "friendly_name": "Iphone 7 plus"
+    }
+},
+{
+    "pk": 8,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_8",
+        "friendly_name": "Iphone 8"
+    }
+},
+{
+    "pk": 9,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_8_plus",
+        "friendly_name": "Iphone 8 plus"
+    }
+},
+{
+    "pk": 10,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_X",
+        "friendly_name": "Iphone X"
+    }
+},
+{
+    "pk": 11,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_XR",
+        "friendly_name": "Iphone XR"
+    }
+},
+{
+    "pk": 12,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_XS",
+        "friendly_name": "Iphone XS"
+    }
+},
+{
+    "pk": 13,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_XS_Max",
+        "friendly_name": "Iphone XS Max"
+    }
+},
+{
+    "pk": 14,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_11",
+        "friendly_name": "Iphone 11"
+    }
+},
+{
+    "pk": 15,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_11_pro",
+        "friendly_name": "Iphone 11 pro"
+    }
+},
+{
+    "pk": 16,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_11_pro_max",
+        "friendly_name": "Iphone 11 pro max"
+    }
+},
+{
+    "pk": 17,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_12",
+        "friendly_name": "iphone 12"
+    }
+},
+{
+    "pk": 18,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_12_pro",
+        "friendly_name": "iphone 12 pro"
+    }
+},
+{
+    "pk": 19,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "iphone_12_pro_max",
+        "friendly_name": "iphone 12 pro max"
+    }
+},
+{
+    "pk": 20,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_90",
+        "friendly_name": "Samsung A90"
+    }
+},
+{
+    "pk": 21,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_80",
+        "friendly_name": "Samsung A80"
+    }
+},
+{
+    "pk": 22,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_71",
+        "friendly_name": "Samsung A71"
+    }
+},
+{
+    "pk": 23,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_70",
+        "friendly_name": "Samsung A70"
+    }
+},
+{
+    "pk": 24,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_51",
+        "friendly_name": "Samsung A51"
+    }
+},
+{
+    "pk": 25,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_50",
+        "friendly_name": "Samsung A 50"
+    }
+},
+{
+    "pk": 26,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_42",
+        "friendly_name": "Samsung A42"
+    }
+},
+{
+    "pk": 27,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_41",
+        "friendly_name": "Samsung A41"
+    }
+},
+{
+    "pk": 28,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_40",
+        "friendly_name": "Samsung A40"
+    }
+},
+{
+    "pk": 29,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_30",
+        "friendly_name": "Samsung A30"
+    }
+},
+{
+    "pk": 30,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_20_E",
+        "friendly_name": "Samsung A20E"
+    }
+},
+{
+    "pk": 31,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_20",
+        "friendly_name": "Samsung A20"
+    }
+},
+{
+    "pk": 32,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_10",
+        "friendly_name": "Samsung A10"
+    }
+},
+{
+    "pk": 33,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_8",
+        "friendly_name": "Samsung A8"
+    }
+},
+{
+    "pk": 34,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_6",
+        "friendly_name": "Samsung A6"
+    }
+},
+{
+    "pk": 35,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_5_2016",
+        "friendly_name": "Samsung A5"
+    }
+},
+{
+    "pk": 36,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_5_2016",
+        "friendly_name": "Samsung A5 2017"
+    }
+},
+{
+    "pk": 37,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_3_2017",
+        "friendly_name": "Samsung A3 2017"
+    }
+},
+{
+    "pk": 38,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_A_3_2016",
+        "friendly_name": "Samsung A3 2016"
+    }
+},
+{
+    "pk": 39,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_J_5_2017",
+        "friendly_name": "Samsung J5 2017"
+    }
+},
+{
+    "pk": 40,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_J_5_2016",
+        "friendly_name": "Samsung J5 2016"
+    }
+},
+{
+    "pk": 41,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_J_3_2017",
+        "friendly_name": "Samsung J3 2017"
+    }
+},
+{
+    "pk": 42,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_J_3_2016",
+        "friendly_name": "Samsung J3 2016"
+    }
+},
+{
+    "pk": 43,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S20",
+        "friendly_name": "Samsung S20"
+    }
+},
+{
+    "pk": 44,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S20_ultra",
+        "friendly_name": "Samsung S20 Ultra"
+    }
+},
+{
+    "pk": 45,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S20_plus",
+        "friendly_name": "Samsung S20 Plus"
+    }
+},
+{
+    "pk": 46,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S10_e",
+        "friendly_name": "Samsung S20E"
+    }
+},
+{
+    "pk": 47,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S10",
+        "friendly_name": "Samsung S10"
+    }
+},
+{
+    "pk": 48,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S10_plus",
+        "friendly_name": "Samsung S10 Plus"
+    }
+},
+{
+    "pk": 49,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S9",
+        "friendly_name": "Samsung S9"
+    }
+},
+{
+    "pk": 50,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S9_plus",
+        "friendly_name": "Samsung S9 Plus"
+    }
+},
+{
+    "pk": 51,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S8",
+        "friendly_name": "Samsung S8"
+    }
+},
+{
+    "pk": 52,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S8_plus",
+        "friendly_name": "Samsung S8 Plus"
+    }
+},
+{
+    "pk": 53,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S7",
+        "friendly_name": "Samsung S7"
+    }
+},
+{
+    "pk": 54,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S7_edge",
+        "friendly_name": "Samsung S7 Edge"
+    }
+},
+{
+    "pk": 55,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S6",
+        "friendly_name": "Samsung S6"
+    }
+},
+{
+    "pk": 56,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_S6_edge",
+        "friendly_name": "Samsung S6 edge"
+    }
+},
+{
+    "pk": 57,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_note_8",
+        "friendly_name": "Samsung Note 8"
+    }
+},
+{
+    "pk": 58,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_note_9",
+        "friendly_name": "Samsung Note 9"
+    }
+},
+{
+    "pk": 59,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "samsung_note_10",
+        "friendly_name": "Samsung Note 10"
+    }
+},
+{
+    "pk": 60,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "ipad_air",
+        "friendly_name": "Ipad Air"
+    }
+},
+{
+    "pk": 61,
+    "model": "services.device_of_service",
+    "fields": {
+        "name": "ipad_pro",
+        "friendly_name": "Ipad Pro"
+    }
+}
+]

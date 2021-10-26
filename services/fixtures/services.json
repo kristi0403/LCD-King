@@ -1,0 +1,2170 @@
+[{
+    "pk": 1,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_5_Screen_Replacement",
+        "price": 20.00,
+        "category_of_service": 1,
+        "device_of_service": 1
+    }
+},
+{
+    "pk": 2,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_5_Battery_Replacement",
+        "price": 15.00,
+        "category_of_service": 1,
+        "device_of_service": 1
+    }
+},
+{
+    "pk": 3,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_5_Charge_Port_Replacement",
+        "price": 15.00,
+        "category_of_service": 1,
+        "device_of_service": 1
+    }
+},
+{
+    "pk": 4,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6_Charge_Port_Replacement",
+        "price": 20.00,
+        "category_of_service": 2,
+        "device_of_service": 2
+    }
+},
+{
+    "pk": 5,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6_Battery_Replacement",
+        "price": 20.00,
+        "category_of_service": 2,
+        "device_of_service": 2
+    }
+},
+{
+    "pk": 6,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6_Screen_Replacement",
+        "price": 25.00,
+        "category_of_service": 2,
+        "device_of_service": 2
+    }
+},
+{
+    "pk": 7,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6_Plus_Screen_Replacement",
+        "price": 30.00,
+        "category_of_service": 3,
+        "device_of_service": 3
+    }
+},
+{
+    "pk": 8,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6_Plus_Battery_Replacement",
+        "price": 20.00,
+        "category_of_service": 3,
+        "device_of_service": 3
+    }
+},
+{
+    "pk": 9,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6_Plus_Charge_Port_Replacement",
+        "price": 20.00,
+        "category_of_service": 3,
+        "device_of_service": 3
+    }
+},{
+    "pk": 10,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6s_Screen_Replacement",
+        "price": 30.00,
+        "category_of_service": 4,
+        "device_of_service": 4
+    }
+},
+{
+    "pk": 11,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6s_Battery_Replacement",
+        "price": 20.00,
+        "category_of_service": 4,
+        "device_of_service": 4
+    }
+},
+{
+    "pk": 12,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6s_Charge_Port_Replacement",
+        "price": 20.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 13,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6s_Plus_Screen_Replacement",
+        "price": 35.00,
+        "category_of_service": 6,
+        "device_of_service": 6
+    }
+},
+{
+    "pk": 14,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6s_Plus_Battery_Replacement",
+        "price": 20.00,
+        "category_of_service": 6,
+        "device_of_service": 6
+    }
+},
+{
+    "pk": 15,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_6s_Plus_Charge_Port_Replacement",
+        "price": 20.00,
+        "category_of_service": 6,
+        "device_of_service": 6
+    }
+}
+,{
+    "pk": 16,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_7_Screen_Replacement",
+        "price": 40.00,
+        "category_of_service": 7,
+        "device_of_service": 7
+    }
+},
+{
+    "pk": 17,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_7_Battery_Replacement",
+        "price": 20.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 18,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_7_Charge_Port_Replacement",
+        "price": 20.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 19,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_8_Front_Screen_Replacement",
+        "price": 45.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 20,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_8_Battery_Replacement",
+        "price": 25.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 21,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_8_Charge_Port_Replacement",
+        "price": 25.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 22,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_8_Back_Glass_Replacement",
+        "price": 30.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 23,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_7_plus_Battery_Replacement",
+        "price": 25.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 24,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_7_plus_Charge_Port_Replacement",
+        "price": 25.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 25,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_7_plus_Screen_Replacement",
+        "price": 45.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 26,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_8_plus_Battery_Replacement",
+        "price": 30.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 27,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_8_plus_Charge_Port_Replacement",
+        "price": 30.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 28,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_8_plus_Screen_Replacement",
+        "price": 55.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 29,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_8_plus_back_glass_Replacement",
+        "price": 35.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 30,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XR_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 31,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XR_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 32,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XR_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 33,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XR_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 34,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_X_Battery_Replacement",
+        "price": 35.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 35,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_X_Charge_Port_Replacement",
+        "price": 35.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 36,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_X_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 37,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_X_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 38,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XS_Battery_Replacement",
+        "price": 50.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 39,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XS_Charge_Port_Replacement",
+        "price": 50.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 40,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XS_Screen_Replacement",
+        "price": 90.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 41,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XS_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 42,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XS_MAX_Battery_Replacement",
+        "price": 90.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 43,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XS_MAX_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 44,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XS_MAX_Screen_Replacement",
+        "price": 120.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 45,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_XS_MAX_back_glass_Replacement",
+        "price": 50.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 46,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 47,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 48,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_Screen_Replacement",
+        "price": 100.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 49,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 50,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_Pro_Battery_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 51,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_Pro_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 52,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_Pro_Screen_Replacement",
+        "price": 140.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 53,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_back_glass_Replacement",
+        "price": 60.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 54,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_Pro_Max_Battery_Replacement",
+        "price": 90.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 55,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_Pro_Max_Charge_Port_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 56,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_Pro_Max_Screen_Replacement",
+        "price": 180.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 57,
+    "model": "services.service",
+    "fields": {
+        "name": "iPhone_11_Pro_Max_back_glass_Replacement",
+        "price": 70.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 58,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A90_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 59,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A90_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 60,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A90_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 61,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A90_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 62,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A80_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 63,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A80_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 64,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A80_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 65,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A80_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 66,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A71_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 67,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A71_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 68,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A71_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 69,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A71_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 70,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A70_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 71,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A70_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 72,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A70_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 73,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A70_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 74,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A51_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 75,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A51_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 76,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A51_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 77,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A51_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 78,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A50_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 79,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A50_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 80,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A50_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 81,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A50_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 82,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A42_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 83,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A42_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 84,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A42_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 85,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A41_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 86,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A41_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 87,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A41_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 88,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A41_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 89,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A41_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 90,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A40_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 91,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A40_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 92,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A40_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 93,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A40_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 94,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A30_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 95,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A30_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 96,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A30_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 97,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A30_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 98,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A20E_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 99,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A20E_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 100,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A20E_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 101,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A20E_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 102,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A20_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 103,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A20_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 104,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A20_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 105,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A20_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 106,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A10_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 107,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A10_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 108,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A10_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 109,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A10_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 110,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A8_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 111,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A8_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 112,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A8_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 113,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A8_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 114,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A6_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 115,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A6_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 116,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A6_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 117,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A6_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 118,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A5_2017_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 119,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A5_2017_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 120,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A5_2017_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 121,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A5_2017_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 122,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A5_2016_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 123,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A5_2016_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 124,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A5_2016_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 125,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A5_2016_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 126,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A3_2017_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 127,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A3_2017_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 128,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A3_2017_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 129,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A3_2017_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 130,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A3_2016_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 131,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A3_2016_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 132,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A3_2016_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 133,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_A3_2016_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 134,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J5_2017_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 135,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J5_2017_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 136,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J5_2017_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 137,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J5_2017_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 138,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J5_2016_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 139,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J5_2016_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 140,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J5_2016_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 141,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J5_2016_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 142,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J3_2017_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 143,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J3_2017_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 144,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J3_2017_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 145,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J3_2017_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 146,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J3_2016_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 147,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J3_2016_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 148,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J3_2016_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 149,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_J3_2016_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 150,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 151,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 152,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 153,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 154,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Plus_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 155,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Plus_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 156,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Plus_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 157,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Plus_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 158,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Ultra_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 159,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Ultra_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 160,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Ultra_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 161,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S20_Ultra_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 162,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10E_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 163,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10E_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 164,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10E_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 165,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10E_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 166,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 167,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 168,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 169,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 170,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10_Plus_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 171,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10_Plus_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 172,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10_Plus_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 173,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S10_Plus_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 174,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S9_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 175,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S9_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 176,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S9_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 177,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S9_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 178,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S9_Plus_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 179,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S9_Plus_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 180,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S9_Plus_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 181,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S9_Plus_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 182,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S8_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 183,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S8_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 184,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S8_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 185,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S8_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 186,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S8_Plus_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 187,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S8_Plus_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 188,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S8_Plus_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 189,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S8_Plus_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 190,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S7_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 191,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S7_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 192,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S7_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 193,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S7_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 194,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S7_Edge_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 195,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S7_Edge_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 196,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S7_Edge_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 197,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S7_Edge_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 198,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S6_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 199,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S6_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 200,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S6_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 201,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S6_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 202,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S6_Edge_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 203,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S6_Edge_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 204,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S6_Edge_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 205,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_S6_Edge_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 206,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_8_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 207,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_8_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 208,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_8_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 209,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_8_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 210,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_9_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 211,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_9_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 212,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_9_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 213,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_9_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 214,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_10_Battery_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 215,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_10_Charge_Port_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+,{
+    "pk": 216,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_10_Screen_Replacement",
+        "price": 80.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+},
+{
+    "pk": 217,
+    "model": "services.service",
+    "fields": {
+        "name": "Samsung_Note_10_back_glass_Replacement",
+        "price": 40.00,
+        "category_of_service": 5,
+        "device_of_service": 5
+    }
+}
+]
