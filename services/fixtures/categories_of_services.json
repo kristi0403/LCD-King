@@ -3,7 +3,8 @@
     "model": "services.category_of_service",
     "fields": {
         "name": "iphone",
-        "friendly_name": "Iphone"
+        "friendly_name": "Iphone",
+        "image": "5_1024x1024.png"
     }
 },
 {
@@ -11,7 +12,8 @@
     "model": "services.category_of_service",
     "fields": {
         "name": "samsung",
-        "friendly_name": "Samsung"
+        "friendly_name": "Samsung",
+        "image": "5_1024x1024.png"
     }
 },
 {
@@ -19,7 +21,8 @@
     "model": "services.category_of_service",
     "fields": {
         "name": "tablet",
-        "friendly_name": "Tablet"
+        "friendly_name": "Tablet",
+        "image": "5_1024x1024.png"
     }
 },
 {
@@ -27,7 +30,8 @@
     "model": "services.category_of_service",
     "fields": {
         "name": "ipad",
-        "friendly_name": "Ipad"
+        "friendly_name": "Ipad",
+        "image": "5_1024x1024.png"
     }
 },
 {
@@ -35,7 +39,8 @@
     "model": "services.category_of_service",
     "fields": {
         "name": "accesories",
-        "friendly_name": "Accesories"
+        "friendly_name": "Accesories",
+        "image": "5_1024x1024.png"
     }
 },
 {
@@ -43,7 +48,8 @@
     "model": "services.category_of_service",
     "fields": {
         "name": "service",
-        "friendly_name": "Service"
+        "friendly_name": "Service",
+        "image": "5_1024x1024.png"
     }
 },
 {
@@ -51,7 +57,8 @@
     "model": "services.category_of_service",
     "fields": {
         "name": "trade",
-        "friendly_name": "Trade"
+        "friendly_name": "Trade",
+        "image": "5_1024x1024.png"
     }
 }
 ]

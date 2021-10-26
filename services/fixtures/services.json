@@ -153,8 +153,8 @@
     "fields": {
         "name": "iPhone_7_Screen_Replacement",
         "price": 40.00,
-        "category_of_service": 7,
-        "device_of_service": 7
+        "category_of_service": 6,
+        "device_of_service": 6
     }
 },
 {

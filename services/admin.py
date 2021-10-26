@@ -19,6 +19,7 @@ class Category_of_serviceAdmin(admin.ModelAdmin):
     list_display = (
         'friendly_name',
         'name',
+        'image',
     )
 
 
@@ -26,6 +27,7 @@ class Device_of_serviceAdmin(admin.ModelAdmin):
     list_display = (
         'friendly_name',
         'name',
+        'image',
     )
 
 
