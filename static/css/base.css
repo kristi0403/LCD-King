@@ -148,6 +148,10 @@ hr {
     padding-top: 204px;
 }
 
+.btn-secondary{
+    background-color: #f9f9f9;
+}
+
 .card{
     padding-top: calc(var(--bs-gutter-x) * .5);
     border: 1px solid #CCCCCC;

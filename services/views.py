@@ -31,16 +31,11 @@ def all_services(request):
                     sortkey = f'-{sortkey}'
             services = services.order_by(sortkey)
 
-        if 'category_of_service' in request.GET:
-            categories_of_services = request.GET['category_of_service'].split(',')
-            services = services.filter(category_of_service__name__in=categories_of_services)
-            categories_of_services = Category_of_service.objects.filter(name__in=categories_of_services)
-
         if 'q' in request.GET:
             query = request.GET['q']
             if not query:
                 messages.error(request, "You didn't enter any search criteria!")
-                return redirect(reverse('services'))
+                return redirect(reverse('categories_of_services'))
 
             queries = Q(name__icontains=query) | Q(description__icontains=query)
             services = services.filter(queries)
@@ -56,21 +51,32 @@ def all_services(request):
     context = {
         'services': services,
         'search_term': query,
-        'current_categories': categories,
+        'current_categories': categories_of_services,
         'current_sorting': current_sorting,
     }
 
     return render(request, 'services/services.html', context)
 
 
-def product_detail(request, product_id):
-    """ A view to show individual product details """
+def all_categories_of_services(request):
+    """ A view to show all categories of services, including sorting and searching """
 
-    product = get_object_or_404(Product, pk=product_id)
+    categories_of_services = Category_of_service.objects.all()
+    query = None
+
+    if request.GET:
+        if 'q' in request.GET:
+            query = request.GET['q']
+            if not query:
+                messages.error(request, "You didn't enter any search criteria!")
+                return redirect(reverse('categories_of_services'))
+
+            queries = Q(name__icontains=query) | Q(description__icontains=query)
+            categories_of_services = categories_of_services.filter(queries)
 
     context = {
-        'product': product,
+        'categories_of_services': categories_of_services,
+        'search_term': query,
     }
 
-    return render(request, 'products/product_detail.html', context)
-
+    return render(request, 'services/categories_of_services.html', context)
