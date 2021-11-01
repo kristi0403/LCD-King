@@ -1,0 +1,61 @@
+[{
+    "pk": 1,
+    "model": "service_categories.service_category",
+    "fields": {
+        "name": "iphone",
+        "friendly_name": "Iphone",
+        "image": "iphone_service.png",
+        "price": 50
+    }
+},
+{
+    "pk": 2,
+    "model": "service_categories.service_category",
+    "fields": {
+        "name": "samsung",
+        "friendly_name": "Samsung",
+        "image": "samsung_service.jpeg",
+        "price": 50
+    }
+},
+{
+    "pk": 3,
+    "model": "service_categories.service_category",
+    "fields": {
+        "name": "tablet",
+        "friendly_name": "Tablet",
+        "image": "broken_tablet.jpeg",
+        "price": 50
+    }
+},
+{
+    "pk": 4,
+    "model": "service_categories.service_category",
+    "fields": {
+        "name": "ipad",
+        "friendly_name": "Ipad",
+        "image": "broken_ipad_1.png",
+        "price": 50
+    }
+},
+{
+    "pk": 5,
+    "model": "service_categories.service_category",
+    "fields": {
+        "name": "smart_watches",
+        "friendly_name": "Smart Watches",
+        "image": "smartwatch_repair_3.jpeg",
+        "price": 50
+    }
+},
+{
+    "pk": 6,
+    "model": "service_categories.service_category",
+    "fields": {
+        "name": "other_devices",
+        "friendly_name": "Other Devices",
+        "image": "other_devices_services.jpeg",
+        "price": 50
+    }
+}
+]

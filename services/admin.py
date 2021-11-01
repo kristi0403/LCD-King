@@ -28,6 +28,7 @@ class Device_of_serviceAdmin(admin.ModelAdmin):
         'friendly_name',
         'name',
         'image',
+        'category_of_service',
     )
 
 

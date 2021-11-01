@@ -4,7 +4,8 @@
     "fields": {
         "name": "iphone_5",
         "friendly_name": "Iphone 5",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -13,7 +14,8 @@
     "fields": {
         "name": "iphone_6",
         "friendly_name": "Iphone 6",
-        "image": "6_1024x1024.png"
+        "image": "6_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -22,7 +24,8 @@
     "fields": {
         "name": "iphone_6_s",
         "friendly_name": "Iphone 6s",
-        "image": "6s_1024x1024.png"
+        "image": "6s_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -31,7 +34,8 @@
     "fields": {
         "name": "iphone_6_plus",
         "friendly_name": "Iphone 6 Plus",
-        "image": "6p_1024x1024.png"
+        "image": "6p_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -40,7 +44,8 @@
     "fields": {
         "name": "iphone_6_s_plus",
         "friendly_name": "Iphone 6",
-        "image": "6sp_1024x1024.png"
+        "image": "6sp_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -49,7 +54,8 @@
     "fields": {
         "name": "iphone_7",
         "friendly_name": "Iphone 7",
-        "image": "7_1024x1024.png"
+        "image": "7_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -58,7 +64,8 @@
     "fields": {
         "name": "iphone_7_plus",
         "friendly_name": "Iphone 7 plus",
-        "image": "7p_1024x1024.png"
+        "image": "7p_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -67,7 +74,8 @@
     "fields": {
         "name": "iphone_8",
         "friendly_name": "Iphone 8",
-        "image": "8_1024x1024.png"
+        "image": "8_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -85,7 +93,8 @@
     "fields": {
         "name": "iphone_X",
         "friendly_name": "Iphone X",
-        "image": "x_1024x1024.png"
+        "image": "x_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -94,7 +103,8 @@
     "fields": {
         "name": "iphone_XR",
         "friendly_name": "Iphone XR",
-        "image": "xr_1024x1024.png"
+        "image": "xr_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -103,7 +113,8 @@
     "fields": {
         "name": "iphone_XS",
         "friendly_name": "Iphone XS",
-        "image": "xs_1024x1024.png"
+        "image": "xs_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -112,7 +123,8 @@
     "fields": {
         "name": "iphone_XS_Max",
         "friendly_name": "Iphone XS Max",
-        "image": "xsm_1024x1024.png"
+        "image": "xsm_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -121,7 +133,8 @@
     "fields": {
         "name": "iphone_11",
         "friendly_name": "Iphone 11",
-        "image": "11_1024x1024.png"
+        "image": "11_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -130,7 +143,8 @@
     "fields": {
         "name": "iphone_11_pro",
         "friendly_name": "Iphone 11 pro",
-        "image": "11_1024x1024.png"
+        "image": "11_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -139,7 +153,8 @@
     "fields": {
         "name": "iphone_11_pro_max",
         "friendly_name": "Iphone 11 pro max",
-        "image": "11p_1024x1024.png"
+        "image": "11p_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -148,7 +163,8 @@
     "fields": {
         "name": "iphone_12",
         "friendly_name": "iphone 12",
-        "image": "12_1024x1024.png"
+        "image": "12_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -157,7 +173,8 @@
     "fields": {
         "name": "iphone_12_pro",
         "friendly_name": "iphone 12 pro",
-        "image": "12p_1024x1024.png"
+        "image": "12p_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -166,7 +183,8 @@
     "fields": {
         "name": "iphone_12_pro_max",
         "friendly_name": "iphone 12 pro max",
-        "image": "12pm_1024x1024.png"
+        "image": "12pm_1024x1024.png",
+        "category_of_service": 1
     }
 },
 {
@@ -175,7 +193,8 @@
     "fields": {
         "name": "samsung_A_90",
         "friendly_name": "Samsung A90",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -184,7 +203,8 @@
     "fields": {
         "name": "samsung_A_80",
         "friendly_name": "Samsung A80",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -193,7 +213,8 @@
     "fields": {
         "name": "samsung_A_71",
         "friendly_name": "Samsung A71",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -202,7 +223,8 @@
     "fields": {
         "name": "samsung_A_70",
         "friendly_name": "Samsung A70",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -211,7 +233,8 @@
     "fields": {
         "name": "samsung_A_51",
         "friendly_name": "Samsung A51",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -220,7 +243,8 @@
     "fields": {
         "name": "samsung_A_50",
         "friendly_name": "Samsung A 50",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -229,7 +253,8 @@
     "fields": {
         "name": "samsung_A_42",
         "friendly_name": "Samsung A42",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -238,7 +263,8 @@
     "fields": {
         "name": "samsung_A_41",
         "friendly_name": "Samsung A41",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -247,7 +273,8 @@
     "fields": {
         "name": "samsung_A_40",
         "friendly_name": "Samsung A40",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -256,7 +283,8 @@
     "fields": {
         "name": "samsung_A_30",
         "friendly_name": "Samsung A30",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -265,7 +293,8 @@
     "fields": {
         "name": "samsung_A_20_E",
         "friendly_name": "Samsung A20E",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -274,7 +303,8 @@
     "fields": {
         "name": "samsung_A_20",
         "friendly_name": "Samsung A20",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -283,7 +313,8 @@
     "fields": {
         "name": "samsung_A_10",
         "friendly_name": "Samsung A10",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -292,7 +323,8 @@
     "fields": {
         "name": "samsung_A_8",
         "friendly_name": "Samsung A8",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -301,7 +333,8 @@
     "fields": {
         "name": "samsung_A_6",
         "friendly_name": "Samsung A6",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -310,7 +343,8 @@
     "fields": {
         "name": "samsung_A_5_2016",
         "friendly_name": "Samsung A5",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -319,7 +353,8 @@
     "fields": {
         "name": "samsung_A_5_2016",
         "friendly_name": "Samsung A5 2017",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -328,7 +363,8 @@
     "fields": {
         "name": "samsung_A_3_2017",
         "friendly_name": "Samsung A3 2017",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -337,7 +373,8 @@
     "fields": {
         "name": "samsung_A_3_2016",
         "friendly_name": "Samsung A3 2016",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -346,7 +383,8 @@
     "fields": {
         "name": "samsung_J_5_2017",
         "friendly_name": "Samsung J5 2017",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -355,7 +393,8 @@
     "fields": {
         "name": "samsung_J_5_2016",
         "friendly_name": "Samsung J5 2016",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -364,7 +403,8 @@
     "fields": {
         "name": "samsung_J_3_2017",
         "friendly_name": "Samsung J3 2017",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -373,7 +413,8 @@
     "fields": {
         "name": "samsung_J_3_2016",
         "friendly_name": "Samsung J3 2016",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -382,7 +423,8 @@
     "fields": {
         "name": "samsung_S20",
         "friendly_name": "Samsung S20",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -391,7 +433,8 @@
     "fields": {
         "name": "samsung_S20_ultra",
         "friendly_name": "Samsung S20 Ultra",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -400,7 +443,8 @@
     "fields": {
         "name": "samsung_S20_plus",
         "friendly_name": "Samsung S20 Plus",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -409,7 +453,8 @@
     "fields": {
         "name": "samsung_S10_e",
         "friendly_name": "Samsung S20E",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -418,7 +463,8 @@
     "fields": {
         "name": "samsung_S10",
         "friendly_name": "Samsung S10",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -427,7 +473,8 @@
     "fields": {
         "name": "samsung_S10_plus",
         "friendly_name": "Samsung S10 Plus",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -436,7 +483,8 @@
     "fields": {
         "name": "samsung_S9",
         "friendly_name": "Samsung S9",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -445,7 +493,8 @@
     "fields": {
         "name": "samsung_S9_plus",
         "friendly_name": "Samsung S9 Plus",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -454,7 +503,8 @@
     "fields": {
         "name": "samsung_S8",
         "friendly_name": "Samsung S8",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -463,7 +513,8 @@
     "fields": {
         "name": "samsung_S8_plus",
         "friendly_name": "Samsung S8 Plus",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -472,7 +523,8 @@
     "fields": {
         "name": "samsung_S7",
         "friendly_name": "Samsung S7",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -481,7 +533,8 @@
     "fields": {
         "name": "samsung_S7_edge",
         "friendly_name": "Samsung S7 Edge",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -490,7 +543,8 @@
     "fields": {
         "name": "samsung_S6",
         "friendly_name": "Samsung S6",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -499,7 +553,8 @@
     "fields": {
         "name": "samsung_S6_edge",
         "friendly_name": "Samsung S6 edge",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -508,7 +563,8 @@
     "fields": {
         "name": "samsung_note_8",
         "friendly_name": "Samsung Note 8",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -517,7 +573,8 @@
     "fields": {
         "name": "samsung_note_9",
         "friendly_name": "Samsung Note 9",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -526,7 +583,8 @@
     "fields": {
         "name": "samsung_note_10",
         "friendly_name": "Samsung Note 10",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 2
     }
 },
 {
@@ -535,7 +593,8 @@
     "fields": {
         "name": "ipad_air",
         "friendly_name": "Ipad Air",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 4
     }
 },
 {
@@ -544,7 +603,8 @@
     "fields": {
         "name": "ipad_pro",
         "friendly_name": "Ipad Pro",
-        "image": "5_1024x1024.png"
+        "image": "5_1024x1024.png",
+        "category_of_service": 4
     }
 }
 ]

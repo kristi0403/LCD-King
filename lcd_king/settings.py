@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'products',
     'about_company',
     'services',
+    'service_categories',
 ]
 
 MIDDLEWARE = [

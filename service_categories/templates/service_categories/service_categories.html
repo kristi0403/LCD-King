@@ -14,7 +14,7 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col text-center mt-3">
-            <h2 class="logo-font text-black">Services</h2>
+            <h2 class="logo-font text-black">Service Categories</h2>
             <hr class="w-50 mb-1">
         </div>
     </div>
@@ -32,26 +32,26 @@
                 
             </div>
             <div class="row">
-                {% for category_of_service in categories_of_services %}
+                {% for service_category in service_categories %}
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
                         <div class="card h-100">
-                            {% if category_of_service.image %}
+                            {% if service_category.image %}
                             <a href="">
-                                <img class="card-img-top img-fluid" src="{{ category_of_service.image.url }}" alt="{{ category_of_service.name }}">
+                                <img class="card-img-top categories-img img-fluid" src="{{ service_category.image.url }}" alt="{{ service_category.friendly_name }}">
                             </a>
                             {% else %}
-                            <a href="{% url 'category_of_service_detail' product.id %}">
+                            <a href="">
                                 <img class="card-img-top img-fluid" src="{{ MEDIA_URL }}noimage.png"
-                                    alt="{{ category_of_service.name }}">
+                                    alt="{{ service_category.friendly_name }}">
                             </a>
                             {% endif %}
                             <div class="card-body pb-0">
-                                <p class="lead mb-0 font-weight-bold">{{ category_of_service.name }}</p>
+                                <p class="lead mb-0 font-weight-bold">{{ service_category.friendly_name }}</p>
                             </div>
                             <div class="card-footer bg-white pt-0  text-left">
                                 <div class="row">
                                     <div class="col">
-                                        <p class="mb-0 text-left">Starting from: £{{ product.price }}</p>
+                                        <p class="mb-0 text-left">Starting from: £{{ service_category.price }}</p>
                                             <button type="button" class="btn btn-secondary text-black">View</button>
                                     </div>
                                 </div>

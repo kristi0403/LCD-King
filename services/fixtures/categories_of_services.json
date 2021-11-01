@@ -38,8 +38,8 @@
     "pk": 5,
     "model": "services.category_of_service",
     "fields": {
-        "name": "accesories",
-        "friendly_name": "Accesories",
+        "name": "smart-watches",
+        "friendly_name": "Smart Watches",
         "image": "5_1024x1024.png"
     }
 },
@@ -47,17 +47,8 @@
     "pk": 6,
     "model": "services.category_of_service",
     "fields": {
-        "name": "service",
-        "friendly_name": "Service",
-        "image": "5_1024x1024.png"
-    }
-},
-{
-    "pk": 6,
-    "model": "services.category_of_service",
-    "fields": {
-        "name": "trade",
-        "friendly_name": "Trade",
+        "name": "other devices",
+        "friendly_name": "Other Devices",
         "image": "5_1024x1024.png"
     }
 }
