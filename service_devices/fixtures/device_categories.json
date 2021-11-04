@@ -1,0 +1,49 @@
+[{
+    "pk": 1,
+    "model": "service_devices.device_category",
+    "fields": {
+        "name": "iphone",
+        "friendly_name": "Iphone"
+    }
+},
+{
+    "pk": 2,
+    "model": "service_devices.device_category",
+    "fields": {
+        "name": "samsung",
+        "friendly_name": "Samsung"
+    }
+},
+{
+    "pk": 3,
+    "model": "service_devices.device_category",
+    "fields": {
+        "name": "tablet",
+        "friendly_name": "Tablet"
+    }
+},
+{
+    "pk": 4,
+    "model": "service_devices.device_category",
+    "fields": {
+        "name": "ipad",
+        "friendly_name": "Ipad"
+    }
+},
+{
+    "pk": 5,
+    "model": "service_devices.device_category",
+    "fields": {
+        "name": "smart-watches",
+        "friendly_name": "Smart Watches"
+    }
+},
+{
+    "pk": 6,
+    "model": "service_devices.device_category",
+    "fields": {
+        "name": "other devices",
+        "friendly_name": "Other Devices"
+    }
+}
+]
