@@ -56,3 +56,15 @@ def all_service_devices(request):
     }
 
     return render(request, 'service_devices/service_devices.html', context)
+
+
+def service_device_detail(request, service_device_id):
+    """ A view to show individual service_device details """
+
+    service_device = get_object_or_404(Service_device, pk=service_device_id)
+
+    context = {
+        'service_device': service_device,
+    }
+
+    return render(request, 'service_devices/service_device_detail.html', context)

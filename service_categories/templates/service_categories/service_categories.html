@@ -36,7 +36,28 @@
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
                         <div class="card h-100">
                             {% if service_category.image %}
-                            <a href="">
+                            {% if service_category.name == "iphone" %}
+                            <a href="{% url 'service_devices' %}?device_category=iphone">
+                                <img class="card-img-top categories-img img-fluid" src="{{ service_category.image.url }}" alt="{{ service_category.friendly_name }}">
+                            </a>
+                            {% elif service_category.name == "samsung" %}
+                            <a href="{% url 'service_devices' %}?device_category=samsung">
+                                <img class="card-img-top categories-img img-fluid" src="{{ service_category.image.url }}" alt="{{ service_category.friendly_name }}">
+                            </a>
+                            {% elif service_category.name == "tablet" %}
+                            <a href="{% url 'service_devices' %}?device_category=tablet">
+                                <img class="card-img-top categories-img img-fluid" src="{{ service_category.image.url }}" alt="{{ service_category.friendly_name }}">
+                            </a>
+                            {% elif service_category.name == "ipad" %}
+                            <a href="{% url 'service_devices' %}?device_category=ipad">
+                                <img class="card-img-top categories-img img-fluid" src="{{ service_category.image.url }}" alt="{{ service_category.friendly_name }}">
+                            </a>
+                            {% elif service_category.name == "smart_watches" %}
+                            <a href="{% url 'service_devices' %}?device_category=smart_watches">
+                                <img class="card-img-top categories-img img-fluid" src="{{ service_category.image.url }}" alt="{{ service_category.friendly_name }}">
+                            </a>
+                            {% elif service_category.name == "other_devices" %}
+                            <a href="{% url 'service_devices' %}?device_category=other_devices">
                                 <img class="card-img-top categories-img img-fluid" src="{{ service_category.image.url }}" alt="{{ service_category.friendly_name }}">
                             </a>
                             {% else %}
@@ -44,6 +65,7 @@
                                 <img class="card-img-top img-fluid" src="{{ MEDIA_URL }}noimage.png"
                                     alt="{{ service_category.friendly_name }}">
                             </a>
+                            {% endif %}
                             {% endif %}
                             <div class="card-body pb-0">
                                 <p class="lead mb-0 font-weight-bold">{{ service_category.friendly_name }}</p>
