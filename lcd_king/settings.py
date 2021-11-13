@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'services',
     'service_categories',
     'service_devices',
+    'other_devices',
 ]
 
 MIDDLEWARE = [

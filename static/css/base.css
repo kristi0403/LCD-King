@@ -144,6 +144,20 @@ hr {
     justify-content: center;
 }
 
+.other-enquiry-options{
+    display: block;
+}
+
+.send-enquiry{
+    border: 1px solid black;
+    background-color: coral;
+}
+
+.cancel-enquiry{
+    border: 1px solid black;
+    background-color: #152F4F;
+}
+
 .add-to-basket{
     border: 1px solid black;
     width: 100%;
