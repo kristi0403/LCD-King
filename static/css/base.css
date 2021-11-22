@@ -26,6 +26,15 @@ a {
     margin: 0;
 }
 
+.trade-section{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.orange_background_paragraph {
+    background-color: #fecc00;
+}
+
 .blue_background_paragraph{
     background-color: steelblue;
 }

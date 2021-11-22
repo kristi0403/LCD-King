@@ -28,5 +28,6 @@ urlpatterns = [
     path('service_categories/', include('service_categories.urls')),
     path('service_devices/', include('service_devices.urls')),
     path('other_devices/', include('other_devices.urls')),
+    path('trade/', include('trade.urls')),
 
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

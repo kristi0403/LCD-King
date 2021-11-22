@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'service_categories',
     'service_devices',
     'other_devices',
+    'trade',
 ]
 
 MIDDLEWARE = [
