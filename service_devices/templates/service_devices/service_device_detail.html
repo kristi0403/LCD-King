@@ -32,7 +32,9 @@
                 <div class="product-details-container mb-5 mt-mb-5">
                     <h3 class="mb-0 text-center"><strong>{{ service_device.friendly_name }} - Repairs</h3></strong> 
                     <div class="product-details-container mb-3 mt-mb-5">
-                        <h6 class="mb-0 mt-2">Price: {{ service_device.price }}</h6>
+                        {% for service in services %}
+                        <h6 class="mb-0 mt-2">Price: £{{ service.price }}</h6>
+                        {% endfor %}
                     </div>
                 </div>
             </div>
@@ -42,10 +44,10 @@
                                 <div class="col-12 col-md-8 col-lg-8">
                                     <p>Repair </p>
                                     <select class="form-select" aria-label="Default select example">
-                                        <option selected>Select your service</option>
-                                        <option value="1">One</option>
-                                        <option value="2">Two</option>
-                                        <option value="3">Three</option>
+                                            <option selected>Select your service</option>
+                                            {% for service in services %}
+                                            <option value="1">{{service.name}}</option>
+                                            {% endfor %}
                                     </select>
                                 </div>
                                 <!--product quantity-->
@@ -101,5 +103,4 @@
         </div>
     </div>
 </div>
-
 {% endblock %}

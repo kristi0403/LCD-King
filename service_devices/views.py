@@ -1,8 +1,8 @@
-from django.shortcuts import render, redirect, reverse, get_object_or_404
+from django.shortcuts import render, redirect, reverse, get_object_or_404, get_list_or_404
 from django.contrib import messages
 from django.db.models.functions import Lower
 from django.db.models import Q
-from .models import Service_device, Device_category
+from .models import Service_device, Device_category, Service
 
 # Create your views here.
 
@@ -62,9 +62,10 @@ def service_device_detail(request, service_device_id):
     """ A view to show individual service_device details """
 
     service_device = get_object_or_404(Service_device, pk=service_device_id)
-
+    services = get_list_or_404(Service, service_device=service_device_id)
     context = {
         'service_device': service_device,
+        'services': services,
     }
 
     return render(request, 'service_devices/service_device_detail.html', context)

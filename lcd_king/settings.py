@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     'home',
     'products',
     'about_company',
-    'services',
     'service_categories',
     'service_devices',
     'other_devices',

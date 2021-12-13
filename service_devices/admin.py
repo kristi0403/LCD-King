@@ -1,8 +1,15 @@
 from django.contrib import admin
-from .models import Service_device, Device_category
+from .models import Service_device, Device_category, Service
 
 # Register your models here.
 
+class ServiceAdmin(admin.ModelAdmin):
+    list_display = (
+        'name',
+        'friendly_name',
+        'service_device',
+        'price',
+    )
 
 class Service_deviceAdmin(admin.ModelAdmin):
     list_display = (
@@ -22,3 +29,4 @@ class Device_categoryAdmin(admin.ModelAdmin):
 
 admin.site.register(Service_device, Service_deviceAdmin)
 admin.site.register(Device_category, Device_categoryAdmin)
+admin.site.register(Service, ServiceAdmin)
